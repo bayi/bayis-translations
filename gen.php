@@ -445,6 +445,9 @@ $words = [
     'Laced' => 'Húzott',
     'Knotted' => 'Kötött',
     'Knitted' => 'Kötött',
+    'Short' => 'Rövid',
+    'Worn' => 'Kopott',
+    'Mossy' => 'Mohás',
     // Chiped workstatins
     'Alchemy Bench' => 'Alkímiai munkapad',
     'Carpenters Table' => 'Asztalosműhely',
@@ -459,6 +462,33 @@ $words = [
     'Needles' => 'Tűk',
     'Saw' => 'Fűrész',
     'Watering Can' => 'Öntözőkanna',
+  ],
+  [
+    'Brass' => 'Sárgaréz',
+    'Zinc' => 'Cink',
+    'Sheet' => 'Lemez',
+  ],
+  // Create Deco
+  [
+    'Catwalk' => 'Futóhíd',
+    'Stairs' => 'Lépcsők',
+    'Stair' => 'Lépcső',
+    'Train Hull' => 'Vonattest',
+    'Mesh Fence' => 'Hálós kerítés',
+    'Lemez Fém' => 'Fémlemez',
+    'Lemez Slab' => 'Lemezlap',
+    'Lemez Lépcsők' => 'Lemezlépcsők',
+    'Decal' => 'Matrica',
+    'Placard' => 'Plakát',
+    'Cage' => 'Kalitkás',
+    'Wall' => 'Fal',
+    'Slab' => 'Lap',
+    'Cast Vas' => 'Öntöttvas',
+    'Support' => 'Tartó',
+    'Coinstack' => 'Érmehalom',
+    'Coin' => 'Érme',
+    'Scarlet' => 'Skarlát',
+    'Dusk Tégla' => 'Alkonyattégla',
   ],
 ];
 
