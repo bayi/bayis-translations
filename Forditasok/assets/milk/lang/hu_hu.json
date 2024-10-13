@@ -1,0 +1,9 @@
+{
+  "block.milk.milk_cauldron": "Tejes Üst",
+  "item.milk.milk_bottle": "Tejespalack",
+  "item.milk.splash_milk_bottle": "Robbanó Tejespalack",
+  "item.milk.lingering_milk_bottle": "Időző Tejespalack",
+  "block.milk.milk_fluid_block": "Tej",
+  "fluid.milk.still_milk": "Tej",
+  "fluid.milk.flowing_milk": "Tej"
+}
