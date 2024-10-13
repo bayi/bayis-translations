@@ -12,10 +12,10 @@
 - Naturalist: Advancements, Subtitles, Configs missing, needs fixing
 - Slice & Dice: 100%
 - YIGD: Autoconfig, commands missing
+- Create Deco: Auto generated, needs review
 
 # TODO
 - Create: Bells and Whistles
-- Create: Deco
 - Macaw's Bridges
 - Macaw's Fences and Walls
 - Macaw'S Furniture
