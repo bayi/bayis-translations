@@ -27,8 +27,8 @@
   "block.fxntstorage.simple_storage_box": "Egyszerű Tölgy Tároló Doboz",
   "container.fxntstorage.simple_storage_box": "Egyszerű Tölgy Tároló Doboz",
 
-  "block.fxntstorage.simple_storage_box_spruce": "Egyszerű Fenyő Tároló Doboz",
-  "container.fxntstorage.simple_storage_box_spruce": "Egyszerű Fenyő Tároló Doboz",
+  "block.fxntstorage.simple_storage_box_spruce": "Egyszerű Fenyőfa Tároló Doboz",
+  "container.fxntstorage.simple_storage_box_spruce": "Egyszerű Fenyőfa Tároló Doboz",
 
   "block.fxntstorage.simple_storage_box_birch": "Egyszerű Nyírfa Tároló Doboz",
   "container.fxntstorage.simple_storage_box_birch": "Egyszerű Nyírfa Tároló Doboz",
@@ -54,8 +54,8 @@
   "block.fxntstorage.simple_storage_box_crimson": "Egyszerű Karmazsin Tároló Doboz",
   "container.fxntstorage.simple_storage_box_crimson": "Egyszerű Karmazsin Tároló Doboz",
 
-  "block.fxntstorage.simple_storage_box_warped": "Egyszerű Torzs Tároló Doboz",
-  "container.fxntstorage.simple_storage_box_warped": "Egyszerű Torzs Tároló Doboz",
+  "block.fxntstorage.simple_storage_box_warped": "Egyszerű Torz Tároló Doboz",
+  "container.fxntstorage.simple_storage_box_warped": "Egyszerű Torz Tároló Doboz",
 
   "block.fxntstorage.storage_controller": "Egyszerű Tárolóvezérlő",
   "container.fxntstorage.storage_controller": "Egyszerű Tárolóvezérlő",
@@ -108,7 +108,7 @@
   "item.fxntstorage.storage_box_capacity_upgrade": "Egyszerű Tároló Doboz Kapacitás Fejlesztés",
 
   "block.fxntstorage.storage_trim": "Tölgy Tároló Csatlakozó",
-  "block.fxntstorage.storage_trim_spruce": "Fenyő Tároló Csatlakozó",
+  "block.fxntstorage.storage_trim_spruce": "Fenyőfa Tároló Csatlakozó",
   "block.fxntstorage.storage_trim_birch": "Nyírfa Tároló Csatlakozó",
   "block.fxntstorage.storage_trim_jungle": "Dzsungelfa Tároló Csatlakozó",
   "block.fxntstorage.storage_trim_acacia": "Akáciafa Tároló Csatlakozó",
@@ -117,7 +117,7 @@
   "block.fxntstorage.storage_trim_cherry": "Cseresznyefa Tároló Csatlakozó",
   "block.fxntstorage.storage_trim_bamboo": "Bambusz Tároló Csatlakozó",
   "block.fxntstorage.storage_trim_crimson": "Karmazsin Tároló Csatlakozó",
-  "block.fxntstorage.storage_trim_warped": "Torzs Tároló Csatlakozó",
+  "block.fxntstorage.storage_trim_warped": "Torz Tároló Csatlakozó",
 
   "fxntstorage.tooltip.holdForControls": "Nyomd le a [CTRL]-t a vezérlésért",
   "fxntstorage.tooltip.holdForDescription": "Nyomd le a [Shift]-et a leírásért",
