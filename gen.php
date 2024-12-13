@@ -253,8 +253,11 @@ $words = [
     'Sided' => 'Oldalas',
     'Shrunken' => 'Összement',
     'Shrooming' => 'Gombás',
+    'Bone Blocks' => 'Csontblokkok',
     'Bone Block' => 'Csontblokk',
+    'Mushroom Stems' => 'Gombatönkök',
     'Mushroom Stem' => 'Gombatönk',
+    'Mushrooms' => 'Gombák',
     'Mushroom' => 'Gomba',
   ],
   [
