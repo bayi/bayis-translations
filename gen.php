@@ -151,6 +151,7 @@ $words = [
     'Door' => 'Ajtó',
     'Soul Lanterns' => 'Léleklámpások',
     'Soul Lantern' => 'Léleklámpás',
+    'Sea Lanterns' => 'Tengeri lámpások',
     'Sea Lantern' => 'Tengeri lámpás',
     'Lanterns' => 'Lámpások',
     'Lantern' => 'Lámpás',
@@ -242,7 +243,15 @@ $words = [
     'Pointless' => 'Értelmetlen',
     'Plated' => 'Bevonatos',
     'Woven' => 'Szőtt',
+    'Woved' => 'Szőtt',
     'Enclosed' => 'Zárt',
+    'Speckled' => 'Pöttyös',
+    'Solid' => 'Szilárd',
+    'Sigil' => 'Szimbólumos',
+    'Sighthole' => 'Látólyukas',
+    'Sided' => 'Oldalas',
+    'Shrunken' => 'Összement',
+    'Shrooming' => 'Gombás',
   ],
   [
     'Light Blue' => 'Világoskék',
@@ -461,6 +470,7 @@ $words = [
     'Short' => 'Rövid',
     'Worn' => 'Kopott',
     'Mossy' => 'Mohás',
+    'Wooden' => 'Fa',
     // Chiped workstatins
     'Alchemy Bench' => 'Alkímiai munkapad',
     'Carpenters Table' => 'Asztalosműhely',
@@ -477,9 +487,13 @@ $words = [
     'Watering Can' => 'Öntözőkanna',
   ],
   [
+    'Sea' => 'Tengeri',
     'Brass' => 'Sárgaréz',
     'Zinc' => 'Cink',
     'Sheet' => 'Lemez',
+    'Vine' => 'Inda',
+    'Wart' => 'Bibircsókos',
+    'Tile' => 'Csempe',
   ],
   // Create Deco
   [
