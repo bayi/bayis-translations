@@ -241,7 +241,7 @@ $words = [
     'Remnants' => 'Maradványok',
     'Pointless' => 'Értelmetlen',
     'Plated' => 'Bevonatos',
-    'Woven' => 'Szövött',
+    'Woven' => 'Szőtt',
     'Enclosed' => 'Zárt',
   ],
   [
