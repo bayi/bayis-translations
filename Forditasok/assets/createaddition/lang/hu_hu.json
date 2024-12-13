@@ -61,7 +61,7 @@
 	"item.createaddition.festive_spool.tooltip.behaviour2": "Egy új vezeték csatlakozást hoz létre és ad egy _Üres Orsó_-t.",
 
 	"item.createaddition.iron_wire": "Vas Vezeték",
-	"item.createaddition.iron_rod": "Vas Rúd",
+	"item.createaddition.iron_rod": "Vasrúd",
 
 	"item.createaddition.gold_spool": "Arany Orsó",
 	"item.createaddition.gold_spool.tooltip": "ORSÓ",
@@ -71,7 +71,7 @@
 	"item.createaddition.gold_spool.tooltip.condition2": "Jobbklikk két csatlakozón",
 	"item.createaddition.gold_spool.tooltip.behaviour2": "Egy új vezeték csatlakozást hoz létre és vissza adja az _Üres Orsó_-t.",
 	"item.createaddition.gold_wire": "Arany Vezeték",
-	"item.createaddition.gold_rod": "Arany Rúd",
+	"item.createaddition.gold_rod": "Aranyrúd",
 
 	"item.createaddition.electrum_ingot": "Elektrumrúd",
 	"item.createaddition.electrum_nugget": "Elektrumrög",
