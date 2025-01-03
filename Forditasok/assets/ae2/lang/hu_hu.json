@@ -288,7 +288,7 @@
   "gui.ae2.SearchSettingsUseInternalSearch": "AE Használata",
   "gui.ae2.SearchTooltip": "Keresés névben",
   "gui.ae2.SearchTooltipItemId": "ID alaján kereséshez Használd a * -ot (*cell)",
-  "gui.ae2.SearchTooltipModId": "Mod alapján kereséshez használt a @ -ot(@ae2)",
+  "gui.ae2.SearchTooltipModId": "Mod alapján kereséshez használt a @ -ot (@ae2)",
   "gui.ae2.SearchTooltipTag": "Tag alapján kereséshez hasnzáld a $ -t ($ingot)",
   "gui.ae2.SearchTooltipToolTips": "Eszköztipp alapján kereséshez használd a # -ot (#looting)",
   "gui.ae2.SelectAmount": "Válassz mennyíséget",
