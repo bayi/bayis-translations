@@ -1,0 +1,250 @@
+{
+  "text.autoconfig.reicollapsibleentries.title": "REI Collapsible Entries",
+
+  "text.autoconfig.reicollapsibleentries.option.customTags": "Egyedi cimkék",
+
+  "comment_tag": "Cimkék",
+
+  "tagged.#": "#",
+
+  "tagged.only": "%s §7has the following tag:",
+  "tagged.more": "%s §7has the following tags:",
+  "tagged.none": "%s §7has no tag",
+
+  "tagged.c.shulker_boxes": "Shulker Dobozok",
+  "tagged.c.ores"         : "Ércek",
+  "tagged.c.dyes"         : "Festékek",
+  "tagged.c.glass_blocks" : "Üveg Blokkok",
+  "tagged.c.glass_panes"  : "Üveglapok",
+
+  "tagged.minecraft.carpets"             : "Szőnyegek",
+  "tagged.minecraft.beds"                : "Ágyak",
+  "tagged.minecraft.banners"             : "Zászlók",
+  "tagged.minecraft.candles"             : "Gyertyák",
+  "tagged.minecraft.music_discs"         : "Hanglemezek",
+  "tagged.minecraft.leaves"              : "Levelek",
+  "tagged.minecraft.signs"               : "Táblák",
+  "tagged.minecraft.hanging_signs"       : "Függőtáblák",
+  "tagged.minecraft.logs"                : "Rönkök",
+  "tagged.minecraft.planks"              : "Deszkák",
+  "tagged.minecraft.stairs"              : "Lépcsők",
+  "tagged.minecraft.slabs"               : "Lapok",
+  "tagged.minecraft.doors"               : "Ajtók",
+  "tagged.minecraft.trapdoors"           : "Csapóajtók",
+  "tagged.minecraft.fence_gates"         : "Kerítéskapuk",
+  "tagged.minecraft.boats"               : "Csónakok",
+  "tagged.minecraft.walls"               : "Falak",
+  "tagged.minecraft.fences"              : "Kerítések",
+  "tagged.minecraft.trim_templates"      : "Sablonok",
+  "tagged.minecraft.decorated_pot_sherds": "Cseréptöredékek",
+  "tagged.minecraft.swords"              : "Kardok",
+  "tagged.minecraft.shovels"             : "Ásók",
+  "tagged.minecraft.pickaxes"            : "Csákányok",
+  "tagged.minecraft.axes"                : "Balták",
+  "tagged.minecraft.hoes"                : "Kapák",
+  "tagged.minecraft.small_flowers"       : "Virágok",
+  "tagged.minecraft.tall_flowers"        : "Magas Virágok",
+  "tagged.minecraft.rails"               : "Sínek",
+  "tagged.minecraft.saplings"            : "Fa Csemeték",
+
+  "tagged.catwalksinc.filled_paint_rolls": "§6Filled Paint Rollers",
+
+  "tagged.create.toolboxes": "Szerszámosládák",
+  "tagged.create.seats"    : "Ülések",
+
+  "tagged.create.stone_types/veridium" : "Verídiumok",
+  "tagged.create.stone_types/scorchia" : "Perzselitek",
+  "tagged.create.stone_types/scoria"   : "Salakkövek",
+  "tagged.create.stone_types/ochrum"   : "Okrumok",
+  "tagged.create.stone_types/limestone": "Mészkövek",
+  "tagged.create.stone_types/crimsite" : "Krimzitek",
+  "tagged.create.stone_types/asurine"  : "Azurinek",
+  "tagged.create.stone_types/tuff"     : "Tufák",
+  "tagged.create.stone_types/deepslate": "Mélypalák",
+  "tagged.create.stone_types/dripstone": "Cseppkövek",
+  "tagged.create.stone_types/calcite"  : "Kalcitok",
+  "tagged.create.stone_types/andesite" : "Andezitek",
+  "tagged.create.stone_types/diorite"  : "Dioritek",
+  "tagged.create.stone_types/granite"  : "Gránitok",
+
+  "tagged.farmersdelight.canvas_signs": "Vászon Táblák",
+
+  "tagged.tconstruct.casts/red_sand": "Red Sand Casts",
+  "tagged.tconstruct.casts/sand"    : "Sand Casts",
+  "tagged.tconstruct.casts/gold"    : "Gold Casts",
+
+  "tagged.tconstruct.blocks/foundry" : "Foundry",
+  "tagged.tconstruct.blocks/smeltery": "Smeltery",
+
+  "tagged.itemfilters.filters": "Item Filters",
+
+
+
+  "comment_col": "Gyűjtemények",
+
+  "collection.minecraft.fluids": "Folyadékok",
+
+  "collection.minecraft.enchanted_books" : "Varázskönyv",
+  "collection.minecraft.tipped_arrows"   : "Tipped Arrows",
+  "collection.minecraft.paintings"       : "Festmények",
+  "collection.minecraft.goat_horns"      : "Kecsketölkök",
+  "collection.minecraft.suspicious_stews": "Gyanús pörköltök",
+  "collection.minecraft.banner_patterns" : "Zászlóminták",
+  "collection.minecraft.horse_armors"    : "Lópáncélok",
+  "collection.minecraft.minecarts"       : "Csillék",
+
+  "collection.minecraft.spawn_eggs": "Idéző Tojások",
+  "collection.minecraft.buckets"   : "Folyadékos vödrök",
+
+  "collection.minecraft.blocks/light"            : "Fények",
+  "collection.minecraft.blocks/terracotta"       : "Terrakotta",
+  "collection.minecraft.blocks/glazed_terracotta": "Mázas Terrakotta",
+  "collection.minecraft.blocks/concrete"         : "Beton",
+  "collection.minecraft.blocks/concrete_powder"  : "Szárazbeton",
+  "collection.minecraft.blocks/wool"             : "Gyapjúk",
+  "collection.minecraft.blocks/carpet"           : "Szőnyegek",
+  "collection.minecraft.blocks/button"           : "Gombok",
+  "collection.minecraft.blocks/pressure_plate"   : "Nyomólapok",
+  "collection.minecraft.blocks/copper"           : "Réz blokkok",
+  "collection.minecraft.blocks/coral"            : "Korallok",
+  "collection.minecraft.blocks/coral_fan"        : "Korall-legyezők",
+  "collection.minecraft.blocks/coral_block"      : "Korall blokkok",
+  "collection.minecraft.blocks/skull_and_head"   : "Koponyák",
+
+  "collection.minecraft.tools/wooden"   : "Fa Eszközök",
+  "collection.minecraft.tools/stone"    : "Kő Eszközök",
+  "collection.minecraft.tools/golden"   : "Arany Eszközök",
+  "collection.minecraft.tools/iron"     : "Vas Eszközök",
+  "collection.minecraft.tools/diamond"  : "Gyémánt Eszközök",
+  "collection.minecraft.tools/netherite": "Netherit Eszközök",
+
+  "collection.minecraft.armors/leather"  : "Bőr Páncélok",
+  "collection.minecraft.armors/chainmail": "Lánc Páncélok",
+  "collection.minecraft.armors/iron"     : "Vas Páncélok",
+  "collection.minecraft.armors/diamond"  : "Gyémánt Páncélok",
+  "collection.minecraft.armors/golden"   : "Arany Páncélok",
+  "collection.minecraft.armors/netherite": "Netherit Páncélok",
+
+  "collection.minecraft.armor_types/helmet"    : "Sisakok",
+  "collection.minecraft.armor_types/chestplate": "Mellvértek",
+  "collection.minecraft.armor_types/suit"      : "Űrruhák",
+  "collection.minecraft.armor_types/leggings"  : "Lábszárvédők",
+  "collection.minecraft.armor_types/pants"     : "Űrnadrágok",
+  "collection.minecraft.armor_types/boots"     : "Csizmák",
+
+  "collection.minecraft.lingering_potions": "Időző bájital",
+  "collection.minecraft.splash_potions"   : "Robbanó bájital",
+  "collection.minecraft.potions"          : "Bájital",
+
+  "collection.ad_astra.flags" : "Zászlók",
+  "collection.ad_astra.globes": "Gömbök",
+  "collection.ad_astra.plates": "Fém Lemezek",
+
+  "collection.ad_astra.materials/iron"    : "Vas",
+  "collection.ad_astra.materials/steel"   : "Acél",
+  "collection.ad_astra.materials/desh"    : "Desh",
+  "collection.ad_astra.materials/ostrum"  : "Ostrum",
+  "collection.ad_astra.materials/calorite": "Kalorit",
+
+  "collection.ad_astra.planets/moon"      : "Hold",
+  "collection.ad_astra.planets/mars"      : "Mars",
+  "collection.ad_astra.planets/venus"     : "Vénusz",
+  "collection.ad_astra.planets/mercury"   : "Merkúr",
+  "collection.ad_astra.planets/glacio"    : "Glació",
+  "collection.ad_astra.planets/permafrost": "Örökfagy",
+
+  "collection.ae2.paint_balls"      : "Festék Gömbök",
+  "collection.ae2.lumen_paint_balls": "Fénygömbök",
+
+  "collection.computercraft.disks": "Lemezek",
+
+  "collection.computercraft.things/turtle"         : "Teknősők",
+  "collection.computercraft.things/pocket_computer": "Zseb Számítógépek",
+
+  "collection.create.blocks/copper_tile"   : "Copper Tiles",
+  "collection.create.blocks/copper_shingle": "Copper Shingles",
+
+  "collection.tconstruct.modifiers": "Modifiers",
+
+  "collection.tconstruct.slime_helmets"    : "Slime Helmets",
+  "collection.tconstruct.modifier_crystals": "Modifier Crystals",
+  "collection.tconstruct.platforms"        : "Platforms",
+
+  "collection.tconstruct.tools/cleaver"      : "Cleavers",
+  "collection.tconstruct.tools/sword"        : "Swords",
+  "collection.tconstruct.tools/dagger"       : "Daggers",
+  "collection.tconstruct.tools/scythe"       : "Scythes",
+  "collection.tconstruct.tools/kama"         : "Kama",
+  "collection.tconstruct.tools/broad_axe"    : "Broad Axes",
+  "collection.tconstruct.tools/hand_axe"     : "Hand Axes",
+  "collection.tconstruct.tools/excavator"    : "Excavators",
+  "collection.tconstruct.tools/pickadze"     : "Pickadzes",
+  "collection.tconstruct.tools/mattock"      : "Mattocks",
+  "collection.tconstruct.tools/vein_hammer"  : "Vein Hammers",
+  "collection.tconstruct.tools/sledge_hammer": "Sledge Hammers",
+  "collection.tconstruct.tools/pickaxe"      : "Pickaxes",
+  "collection.tconstruct.tools/crossbow"     : "Crossbows",
+  "collection.tconstruct.tools/longbow"      : "Longbows",
+
+  "collection.tconstruct.parts/tough_handle"  : "Tough Handles",
+  "collection.tconstruct.parts/tool_handle"   : "Tool Handles",
+  "collection.tconstruct.parts/tool_binding"  : "Tool Bindings",
+  "collection.tconstruct.parts/large_plate"   : "Large Plates",
+  "collection.tconstruct.parts/round_plate"   : "Round Plates",
+  "collection.tconstruct.parts/broad_blade"   : "Broad Blades",
+  "collection.tconstruct.parts/small_blade"   : "Small Blades",
+  "collection.tconstruct.parts/broad_axe_head": "Broad Axe Heads",
+  "collection.tconstruct.parts/small_axe_head": "Small Axe Heads",
+  "collection.tconstruct.parts/hammer_head"   : "Hammer Heads",
+  "collection.tconstruct.parts/pick_head"     : "Pick Heads",
+  "collection.tconstruct.parts/repair_kit"    : "Repair Kits",
+  "collection.tconstruct.parts/bow_limb"      : "Bow Limbs",
+  "collection.tconstruct.parts/bow_grip"      : "Bow Grips",
+  "collection.tconstruct.parts/bowstring"     : "Bowstrings",
+
+  "collection.tconstruct.stations/part_builder"    : "Part Builders",
+  "collection.tconstruct.stations/tinker_station"  : "Tinker Stations",
+  "collection.tconstruct.stations/crafting_station": "Crafting Stations",
+
+  "collection.tconstruct.slime_grasses/ichor"  : "Ichor Grasses",
+  "collection.tconstruct.slime_grasses/ender"  : "Enderslime Grasses",
+  "collection.tconstruct.slime_grasses/sky"    : "Skyslime Grasses",
+  "collection.tconstruct.slime_grasses/earth"  : "Earthslime Grasses",
+  "collection.tconstruct.slime_grasses/vanilla": "Slime Grasses",
+
+  "collection.tconstruct.blocks/slime_dirt"     : "Slime Dirts",
+  "collection.tconstruct.blocks/congealed_slime": "Congealed Slime Blocks",
+  "collection.tconstruct.blocks/slime"          : "Slime Blocks",
+
+  "collection.tconstruct.buckets/potion": "Potion Buckets",
+
+  "collection.tconstruct.anvils": "Anvils",
+
+  "collection.indrev.modules": "Modules",
+
+  "collection.kibe.kibes"                 : "Kibes",
+  "collection.kibe.rings"                 : "Rings",
+  "collection.kibe.tanks"                 : "Tanks",
+  "collection.kibe.cobblestone_generators": "Cobblestone Generators",
+  "collection.kibe.basalt_generators"     : "Basalt Generators",
+
+  "collection.kibe.things/sleeping_bag": "Sleeping Bags",
+  "collection.kibe.things/glider"      : "Gliders",
+  "collection.kibe.things/rune"        : "Runes",
+  "collection.kibe.things/elevator"    : "Elevators",
+
+  "collection.kibe.blocks/spikes" : "Spikes",
+  "collection.kibe.blocks/belt"   : "Belts",
+
+  "collection.promenade.piles": "Piles",
+
+  "collection.promenade.blocks/mushroom"      : "Mushrooms",
+  "collection.promenade.blocks/mushroom_block": "Mushroom Blocks",
+
+
+
+  "command.reicollapsibleentries.tags.click" : "Click to show more",
+  "command.reicollapsibleentries.tags.add"   : "§aAdd to Custom Tags",
+  "command.reicollapsibleentries.tags.remove": "§cRemove from Custom Tags",
+  "command.reicollapsibleentries.tags.title" : "Confirm Tag"
+}
