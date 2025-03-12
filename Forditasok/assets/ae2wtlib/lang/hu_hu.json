@@ -1,0 +1,46 @@
+{
+  "gui.ae2wtlib.creativetab": "AE2 Wireless Terminals (AE2WTLib)",
+
+  "gui.ae2wtlib.trash": "Kuka",
+
+  "item.ae2wtlib.quantum_bridge_card": "Kvantum Híd Kártya",
+  "item.ae2wtlib.quantum_bridge_card.desc": "Lehetővé teszi a vezeték nélküli terminálok csatlakozását egy kvantum híddal, lehetővé téve a korlátlan hatótávolságot",
+  "item.ae2wtlib.magnet_card": "Mágnes Kártya",
+  "item.ae2wtlib.magnet_card.desc": "Mágnes fejlesztés a Vezeték nélküli Barkácsterminálhoz",
+
+  "gui.ae2wtlib.magnetcard": "Mágnes Kártya",
+  "gui.ae2wtlib.magnetcard.desc.off": "Ki",
+  "gui.ae2wtlib.magnetcard.desc.inv": "Felvétel a tárolóba",
+  "gui.ae2wtlib.magnetcard.desc.me": "Felvétel az ME rendszerbe",
+  "gui.ae2wtlib.cycle_terminal.desc": "Következő terminál megnyitása",
+  "gui.ae2wtlib.magnetcard.hotkey": "Mágnes Kártya: ",
+  "gui.ae2wtlib.restock": "Újratöltés: ",
+  "gui.ae2wtlib.off": "Ki",
+  "gui.ae2wtlib.on": "Be",
+  "gui.ae2wtlib.slot.magnetcard.desc": "Mágnes Kártya",
+
+  "gui.ae2wtlib.Magnet": "Mágnes Szűrő",
+  "gui.ae2wtlib.whitelist": "Fehérlista",
+  "gui.ae2wtlib.blacklist": "Feketelista",
+  "gui.ae2wtlib.pickup_filter": "Felvétel Szűrő: ",
+  "gui.ae2wtlib.insert_filter": "Behelyezés Szűrő: ",
+  "gui.ae2wtlib.copy_pickup": "Másolás a Felvételbe",
+  "gui.ae2wtlib.copy_insert": "Másolás a Behelyezésbe",
+  "gui.ae2wtlib.switch": "Szűrők Vált",
+
+  "item.ae2wtlib.wireless_pattern_encoding_terminal": "Vezeték nélküli Mintakódoló Terminál",
+  "item.ae2wtlib.wireless_pattern_access_terminal": "Vezeték nélküli Minta Hozzáférési Terminál",
+  "item.ae2wtlib.wireless_universal_terminal": "Vezeték nélküli Univerzális Terminál",
+  "item.ae2wtlib.wireless_universal_terminal.desc": "Telepített Terminálok:",
+
+  "key.ae2.wireless_pattern_access_terminal": "Vezeték nélküli Minta Hozzáférési Terminál Megnyitása",
+  "key.ae2.wireless_pattern_encoding_terminal": "Vezeték nélküli Mintakódoló Terminál Megnyitása",
+  "key.ae2.ae2wtlib_restock": "Újratöltés Vált",
+  "key.ae2.ae2wtlib_magnet": "Mágnes Kártay Vált",
+
+  "chat.ae2wtlib.NetworkNotPowered" :  "Hálózat Nincs Táplálva",
+
+  "text.autoconfig.de/mari_023/ae2wtlib.title": "AE2 Wireless Terminals",
+
+  "text.autoconfig.de/mari_023/ae2wtlib.option.magnetCardRange": "Mágnes Kártya Hatótávolsága"
+}
