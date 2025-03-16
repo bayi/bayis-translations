@@ -1,3 +1,34 @@
+# Hungarian translations 
+
+The following mods are included:
+
+- Ad Astra
+- AntiblocksRechiseled
+- Beautify: Refabricated
+- Chipped (mostly auto generated, still incomplete)
+- AE2
+- Computercraft
+- Create: Enchantment Industry
+- Create Jetpack
+- Create: New Age
+- Create Crafts & Additions
+- Create Deco (mostly auto generated)
+- Easy Mob Farm
+- Extended Drawers
+- Farmer's Delight
+- Handcrafted
+- Jade
+- JEI
+- Milk
+- Naturalist
+- REI
+- Crate Slice & Dice
+- Paladin's Furniture Mod
+- Sophisticated Backpacks
+- Tom's Storage
+- Wands
+- You're in Grave Danger
+
 # Progress
 - Chipped: Auto generated, needs fixing
 - Computercraft: 100%
