@@ -28,6 +28,7 @@ The following mods are included:
 - Tom's Storage
 - Wands
 - You're in Grave Danger
+- Curio
 
 # Progress
 - Chipped: Auto generated, needs fixing
