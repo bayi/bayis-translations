@@ -29,6 +29,7 @@ The following mods are included:
 - Wands
 - You're in Grave Danger
 - Curio
+- Gravestone
 
 # Progress
 - Chipped: Auto generated, needs fixing
