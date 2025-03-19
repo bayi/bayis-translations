@@ -21,6 +21,7 @@ The following mods are included:
 - Jade
 - Jade Addons
 - JEI
+- Lootr
 - Milk
 - Naturalist
 - REI
