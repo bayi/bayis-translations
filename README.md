@@ -24,6 +24,7 @@ The following mods are included:
 - Lootr
 - Milk
 - Naturalist
+- Natures Compass
 - REI
 - Crate Slice & Dice
 - Paladin's Furniture Mod
