@@ -3,6 +3,7 @@
 The following mods are included:
 
 - Ad Astra
+- Advanced Peripherals
 - AntiblocksRechiseled
 - Beautify: Refabricated
 - Chipped (mostly auto generated, still incomplete)
