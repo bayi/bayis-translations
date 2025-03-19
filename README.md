@@ -34,6 +34,7 @@ The following mods are included:
 - You're in Grave Danger
 - Curio
 - Gravestone
+- Shrink
 
 # Progress
 - Chipped: Auto generated, needs fixing
