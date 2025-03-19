@@ -19,6 +19,7 @@ The following mods are included:
 - Farmer's Delight
 - Handcrafted
 - Jade
+- Jade Addons
 - JEI
 - Milk
 - Naturalist
