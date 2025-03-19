@@ -1,0 +1,51 @@
+{
+	"block.toms_peripherals.gpu": "GPU",
+	"block.toms_peripherals.monitor": "Monitor",
+	"block.toms_peripherals.wdt": "Watch Dog Timer",
+	"block.toms_peripherals.redstone_port": "Redstone Port",
+	"block.toms_peripherals.keyboard": "Billentyűzet",
+	"block.toms_peripherals.keyboard_dongle": "Hordozható billentyűzet dongle",
+	
+	"item.toms_peripherals.gpu_chip": "GPU Chip",
+	"item.toms_peripherals.gpu_chip_raw": "Nyers GPU Chip",
+	"item.toms_peripherals.laser_pointer": "Lézer mutató",
+	"item.toms_peripherals.portable_keyboard": "Hordozható billentyűzet",
+	
+	"itemGroup.toms_peripherals.tab": "Tom's Peripherals",
+	
+	"label.toms_peripherals.wdt.enabled": "Engedélyezve",
+	"label.toms_peripherals.wdt.disabled": "Letiltva",
+	"label.toms_peripherals.wdt.timeLimit": "Időkorlát: %s",
+	"label.toms_peripherals.wdt.timer": "Az újraindítás óta eltelt idő: %s",
+	"label.toms_peripherals.keyboard.ccmon": "Bal kattintás a monitor aktiválásához",
+	"label.toms_peripherals.keyboard.monitor": "Teljes egér támogatás engedélyezve",
+	"label.toms_peripherals.keyboard.open": "Billentyűzet megnyitva. Nyomja meg az ESC billentyűt a bezárásához.",
+	"label.toms_peripherals.modem.name": "Periféria neve:",
+	"label.toms_peripherals.full_modem.list": "Perifériák oldalanként:",
+	"label.toms_peripherals.full_modem.none": "Nincsenek csatlakoztatott perifériák",
+	"label.toms_peripherals.side.down": "Le",
+	"label.toms_peripherals.side.up": "Fel",
+	"label.toms_peripherals.side.north": "Észak",
+	"label.toms_peripherals.side.south": "Dél",
+	"label.toms_peripherals.side.east": "Kelet",
+	"label.toms_peripherals.side.west": "Nyugat",
+	
+	"config.toms_peripherals.maxScreenSize": "Maximális képernyő méret",
+	"config.toms_peripherals.maxVRAMSize": "Maximális VRAM méret a GPU perifériákban",
+	
+	"tooltip.toms_peripherals.hold_shift_for_info": "Nyomd le a SHIFT gombot a további információkért.",
+	"tooltip.toms_peripherals.monitor": "A GPU blokknak érintkeznie kell a bal alsó monitor blokkal. A nyilak ebből a blokkból mutatnak ki.",
+	"tooltip.toms_peripherals.gpu": "Meghajtja a monitor blokkokat és képmanipulációs funkciókat végez. Lásd a wiki-t a funkciók listájáért.",
+	"tooltip.toms_peripherals.wdt": "Újraindítja a csatlakoztatott számítógépet, ha a futó program összeomlik vagy időtúllépés volt. További információért lásd a wiki-t.",
+	"tooltip.toms_peripherals.redstone_port": "Több redstone oldal a számítógépedhez",
+	"tooltip.toms_peripherals.portable_keyboard.bound": "Hozzárendelve (%s, %s, %s)",
+	"tooltip.toms_peripherals.portable_keyboard.info": "Lopakodás + Jobb kattintás a hordozható billentyűzet dongle-hoz való hozzárendeléshez",
+	
+	"chat.toms_peripherals.portable_keyboard.bound_success": "Hordozható billentyűzet hozzárendelve",
+	"chat.toms_peripherals.dongle_out_of_range": "Dongle hatótávon kívül",
+	"chat.toms_peripherals.dongle_not_found": "Dongle nem található",
+	
+	"config.jade.plugin_toms_peripherals.wdt_info": "[Tom's Peripherals] Watch Dog Timer Info",
+	"config.jade.plugin_toms_peripherals.modem_info": "[Tom's Peripherals] Cable Modem Info",
+	"config.jade.plugin_toms_peripherals.full_modem_info": "[Tom's Peripherals] Full Block Modem Info"
+}

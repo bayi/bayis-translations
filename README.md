@@ -35,6 +35,7 @@ The following mods are included:
 - Curio
 - Gravestone
 - Shrink
+- Tom's Peripherals
 
 # Progress
 - Chipped: Auto generated, needs fixing
