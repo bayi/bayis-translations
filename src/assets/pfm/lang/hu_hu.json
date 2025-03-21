@@ -260,7 +260,7 @@
   "block.type.stem": "Tönk",
 
   "block.pfm.basic_chair" : "Alap %s %s szék",
-  "block.pfm.dinner_chair" : "Dining %s %s szék",
+  "block.pfm.dinner_chair" : "Étkező %s %s szék",
   "block.pfm.classic_chair" : "Klasszikus %s %s szék",
   "block.pfm.modern_chair" : "Modern %s %s szék",
 
