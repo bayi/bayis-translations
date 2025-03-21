@@ -36,6 +36,8 @@ The following mods are included:
 - Gravestone
 - Shrink
 - Tom's Peripherals
+- Immersive Engineering
+- Tinkers' Construct
 
 # Progress
 - Chipped: Auto generated, needs fixing
