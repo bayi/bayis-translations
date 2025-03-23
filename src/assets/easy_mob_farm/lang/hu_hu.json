@@ -83,7 +83,7 @@
   "tooltip.easy_mob_farm.experience_enhancement": "Lehetővé teszi a mobfarm számára, hogy tapasztalati gömböket gyűjtsön tapasztalati üvegek formájában.",
   "tooltip.easy_mob_farm.experience_enhancement.drop_chance": "Dobás esély: 1 a %s-ből",
   "tooltip.easy_mob_farm.experience_enhancement.note": "Legalább %s tapasztalati pontot adó mob szükséges.",
-  "tooltip.easy_mob_farm.farm.animal_plains_farm": "Mező állat form (Szint %s)",
+  "tooltip.easy_mob_farm.farm.animal_plains_farm": "Mező állat farm (Szint %s)",
   "tooltip.easy_mob_farm.farm.bee_hive_farm": "Méhkaptár farm (Szint %s)",
   "tooltip.easy_mob_farm.farm.bonus_drop": "Bónusz: %s",
   "tooltip.easy_mob_farm.farm.creative_mob_farm": "Kreatív mobfarm",
