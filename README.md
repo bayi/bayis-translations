@@ -14,7 +14,7 @@ The following mods are included:
 - Create: New Age
 - Create Crafts & Additions
 - Create Deco (mostly auto generated)
-- Easy Mob Farm
+- ~~Easy Mob Farm~~ (Merged upstream)
 - Extended Drawers
 - Farmer's Delight
 - Handcrafted
