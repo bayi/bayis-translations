@@ -2,21 +2,21 @@
 
 	"_": "->------------------------]  Game Elements  [------------------------<-",
 
-	"block.create_enchantment_industry.blaze_enchanter": "Őrláng Varázsló",
+	"block.create_enchantment_industry.blaze_enchanter": "Őrlángvarázsló",
 	"block.create_enchantment_industry.disenchanter": "Varázstalanító",
 	"block.create_enchantment_industry.ink": "Tinta",
 	"block.create_enchantment_industry.printer": "Nyomtató",
 
-	"entity.create_enchantment_industry.hyper_experience_bottle": "Hiper Tapasztalat Palack",
+	"entity.create_enchantment_industry.hyper_experience_bottle": "Hipertapasztalat palack",
 	"entity.create_enchantment_industry.hyper_experience_orb": "Hipertapasztalat-gömb",
 
-	"fluid.create_enchantment_industry.experience": "Folyékony Tapasztalat",
-	"fluid.create_enchantment_industry.hyper_experience": "Folyékony Hiper Tapasztalat",
+	"fluid.create_enchantment_industry.experience": "Folyékony tapasztalat",
+	"fluid.create_enchantment_industry.hyper_experience": "Folyékony hipertapasztalat",
 	"fluid.create_enchantment_industry.ink": "Tinta",
 
-	"item.create_enchantment_industry.enchanting_guide": "Varázsló Útmutató",
-	"item.create_enchantment_industry.experience_rotor": "Experience Rotor",
-	"item.create_enchantment_industry.hyper_experience_bottle": "Hiper Varázslat Palack",
+	"item.create_enchantment_industry.enchanting_guide": "Varázsló útmutató",
+	"item.create_enchantment_industry.experience_rotor": "Tapasztalat rotor",
+	"item.create_enchantment_industry.hyper_experience_bottle": "Hipertapasztalat palack",
 	"item.create_enchantment_industry.ink_bucket": "Tintás vödör",
 
 
@@ -29,7 +29,7 @@
 	"advancement.create_enchantment_industry.copiable_masterpiece": "Másolható Remekmű",
 	"advancement.create_enchantment_industry.copiable_masterpiece.desc": "Másolj le egy megírt könyvet a Nyomtató segítségével",
 	"advancement.create_enchantment_industry.copiable_mystery": "Másolható Rejtély",
-	"advancement.create_enchantment_industry.copiable_mystery.desc": "Másolj le egy bűvölt könyvet a Nyomtatóval",
+	"advancement.create_enchantment_industry.copiable_mystery.desc": "Másolj le egy varázskönyvet a Nyomtatóval",
 	"advancement.create_enchantment_industry.relic_restoration": "Relikvia Helyreállítása",
 	"advancement.create_enchantment_industry.relic_restoration.desc": "Készíts egy új példányt egy rongyos könyvből",
 	"advancement.create_enchantment_industry.emerging_brand": "Feltörekvő Márka",
@@ -39,7 +39,7 @@
 	"advancement.create_enchantment_industry.experimental": "Kísérletező",
 	"advancement.create_enchantment_industry.experimental.desc": "Szerezz folyékony tapasztalatot a varázsló kísérletedhez!",
 	"advancement.create_enchantment_industry.gone_with_the_foil": "Eltűnt a Fólia",
-	"advancement.create_enchantment_industry.gone_with_the_foil.desc": "Nézd meg, ahogy egy bűvölt tárgyat varázstalanítanak a Varázstalanítóval",
+	"advancement.create_enchantment_industry.gone_with_the_foil.desc": "Nézd meg, ahogy egy elvarázsolt tárgyat varázstalanítanak a Varázstalanítóval",
 	"advancement.create_enchantment_industry.spirit_taking": "Lélek Elvétel",
 	"advancement.create_enchantment_industry.spirit_taking.desc": "Engedd, hogy a Varázstalanító elnyelje a tapasztalatod",
 	"advancement.create_enchantment_industry.a_shower_experience": "Egy „Tapasztalat” Zuhany",
@@ -47,25 +47,25 @@
 	"advancement.create_enchantment_industry.experienced_recycler": "Tapasztalt Újrahasznosító",
 	"advancement.create_enchantment_industry.experienced_recycler.desc": "Hasznosíts újra 1,000,000 mB tapasztalatot a Varázstalanítóval",
 	"advancement.create_enchantment_industry.blazes_new_job": "Blaze Új Munkája",
-	"advancement.create_enchantment_industry.blazes_new_job.desc": "Adj egy Varázsló Útmutatót a Blaze Égőnek, hogy Őrláng Varázslóvá váljon",
+	"advancement.create_enchantment_industry.blazes_new_job.desc": "Adj egy Varázsló Útmutatót a Blaze Égőnek, hogy Őrlángvarázslóvá váljon",
 	"advancement.create_enchantment_industry.first_order": "Első Megrendelés",
-	"advancement.create_enchantment_industry.first_order.desc": "Adj új varázslatot egy bűvöletlen tárgyhoz az Őrláng Varázsló segítségével",
+	"advancement.create_enchantment_industry.first_order.desc": "Adj új varázslatot egy bűvöletlen tárgyhoz az Őrlángvarázsló segítségével",
 	"advancement.create_enchantment_industry.additional_order": "További Megrendelés",
-	"advancement.create_enchantment_industry.additional_order.desc": "Adj új varázslatot egy bűvölt tárgyhoz az Őrláng Varázslóval",
+	"advancement.create_enchantment_industry.additional_order.desc": "Adj új varázslatot egy bűvölt tárgyhoz az Őrlángvarázslóval",
 	"advancement.create_enchantment_industry.hypothetical_extension": "Hipotetikus Kiterjesztés",
-	"advancement.create_enchantment_industry.hypothetical_extension.desc": "Adj új varázslatot egy tárgyhoz az Őrláng Varázsló hipervarázslása segítségével",
+	"advancement.create_enchantment_industry.hypothetical_extension.desc": "Adj új varázslatot egy tárgyhoz az Őrlángvarázsló hipervarázslása segítségével",
 
 	"_": "->------------------------]  Ponder Content  [------------------------<-",
 
 	"create_enchantment_industry.ponder.tag.experience": "Tapasztalattal kapcsolatos",
 	"create_enchantment_industry.ponder.tag.experience.description": "Tárgyak és komponensek, amelyek a tapasztalathoz kapcsolódnak",
 
-	"create_enchantment_industry.ponder.absorb_experience_nugget.header": "Tapasztalat Morzsa Folyadékká Alakítása",
-	"create_enchantment_industry.ponder.absorb_experience_nugget.text_1": "A tapasztalat morzsát a varázstalanító felszívhatja.",
+	"create_enchantment_industry.ponder.absorb_experience_nugget.header": "Tapasztalatmorzsa Folyadékká Alakítása",
+	"create_enchantment_industry.ponder.absorb_experience_nugget.text_1": "A tapasztalatmorzsát a varázstalanító felszívhatja.",
 
 	"create_enchantment_industry.ponder.copy.header": "Nyomtató Használata",
 	"create_enchantment_industry.ponder.copy.text_1": "Folyékony tapasztalatra van szükség a bűvölt könyvek másolásához.",
-	"create_enchantment_industry.ponder.copy.text_2": "Ha a másolni kívánt bűvölt könyv szintje meghaladja a maximális szintet, akkor Hiper Tapasztalatra lesz szükséged.",
+	"create_enchantment_industry.ponder.copy.text_2": "Ha a másolni kívánt varázskönyv szintje meghaladja a maximális szintet, akkor hipertapasztalatra lesz szükséged.",
 	"create_enchantment_industry.ponder.copy.text_3": "Tintára van szükség a megírt könyvek másolásához.",
 	"create_enchantment_industry.ponder.copy.text_4": "A névcímke és a vonat menetrend is másolható.",
 	"create_enchantment_industry.ponder.copy.text_5": "Ha névcímkét állítasz be nyomtatási célként, a nyomtatóval elnevezheted a tárgyat.",
@@ -81,19 +81,19 @@
 	"create_enchantment_industry.ponder.drop_experience_nugget.text_1": "Ha egy mobot deployer öl meg, tapasztalat morzsákat dob le.",
 
 	"create_enchantment_industry.ponder.enchant.header": "Varázslás",
-	"create_enchantment_industry.ponder.enchant.text_1": "Az Őrláng Varázsló meg tudja varázsolni a tárgyaidat.",
+	"create_enchantment_industry.ponder.enchant.text_1": "Az Őrlángvarázsló el tudja varázsolni a tárgyaidat.",
 	"create_enchantment_industry.ponder.enchant.text_2": "Azonban nem tud könyvekkel dolgozni...",
 	"create_enchantment_industry.ponder.enchant.text_3": "... sem képes inkompatibilis varázslatokat hozzáadni a tárgyakhoz.",
-	"create_enchantment_industry.ponder.enchant.text_4": "Az Őrláng Varázsló képes egy meglévő varázslatot magasabb szintre emelni, ha lehetséges.",
+	"create_enchantment_industry.ponder.enchant.text_4": "Az Őrlángvarázsló képes egy meglévő varázslatot magasabb szintre emelni, ha lehetséges.",
 
 	"create_enchantment_industry.ponder.experience_bottle.header": "Varázsital Palack Használata",
 	"create_enchantment_industry.ponder.experience_bottle.text_1": "A varázsital palack kiüríthető az item drain segítségével.",
 	"create_enchantment_industry.ponder.experience_bottle.text_2": "A varázsital palackot a Spout is képes előállítani.",
 
 	"create_enchantment_industry.ponder.hyper_enchant.header": "Hipervarázslás",
-	"create_enchantment_industry.ponder.hyper_enchant.text_1": "Ez a folyékony hiper tapasztalat",
-	"create_enchantment_industry.ponder.hyper_enchant.text_2": "A hiper tapasztalat dühöngő állapotba hozhatja az Őrláng Varázslót, és az így létrehozott varázslat szintje egy szinttel magasabb lesz, mint a beállított varázslat.",
-	"create_enchantment_industry.ponder.hyper_enchant.text_3": "Az 1 szinttel rendelkező varázslat nem emelhető fel 2-es szintre hipervarázslás során.",
+	"create_enchantment_industry.ponder.hyper_enchant.text_1": "Ez a folyékony hipertapasztalat",
+	"create_enchantment_industry.ponder.hyper_enchant.text_2": "A hipe tapasztalat dühöngő állapotba hozhatja az Őrlángvarázslót, és az így létrehozott varázslat szintje egy szinttel magasabb lesz, mint a beállított varázslat.",
+	"create_enchantment_industry.ponder.hyper_enchant.text_3": "Az összesen 1 szinttel rendelkező varázslat nem emelhető fel 2-es szintre hipervarázslás során.",
 
 	"create_enchantment_industry.ponder.leak.header": "Ó, ne! Szivárog!",
 	"create_enchantment_industry.ponder.leak.text_1": "Van egy tele tank tapasztalattal",
@@ -102,10 +102,10 @@
 	"create_enchantment_industry.ponder.leak.text_4": "Ne aggódj, a kiszivárgott folyékony tapasztalat tapasztalat gömbökké alakul. A játékosok is állhatnak a cső nyílásához, hogy felszívják a tapasztalatot.",
 
 	"create_enchantment_industry.ponder.transform.header": "Varázsló Útmutató Használata",
-	"create_enchantment_industry.ponder.transform.text_1": "Kattints jobb gombbal az Őrláng Égőre egy Varázsló Útmutatóval a kezedben, miközben guggolsz, hogy Őrláng Varázslóvá alakítsd.",
-	"create_enchantment_industry.ponder.transform.text_2": "Ahhoz, hogy az Őrláng Varázsló működjön, először konfigurálni kell a Varázsló Útmutatót. Jobb kattintással az Őrláng Varázslóra vagy a kézben tartott Varázsló Útmutatóra megnyithatod a konfigurációs panelt.",
-	"create_enchantment_industry.ponder.transform.text_3": "A Varázsló Útmutató visszaszerzéséhez kattints jobb gombbal az Őrláng Varázslóra egy franciakulccsal, miközben guggolsz.",
-	"create_enchantment_industry.ponder.transform.text_4": "Kicserélheted a Varázsló Útmutatót, ha kézbe veszed, és jobb kattintással kattintasz az Őrláng Varázslóra.",
+	"create_enchantment_industry.ponder.transform.text_1": "Kattints jobb gombbal az Őrláng Égőre egy Varázsló Útmutatóval a kezedben, miközben guggolsz, hogy Őrlángvarázslóvá alakítsd.",
+	"create_enchantment_industry.ponder.transform.text_2": "Ahhoz, hogy az Őrlángvarázsló működjön, először konfigurálni kell egy Varázsló Útmutatót. Jobb kattintással az Őrlángvarázslóra vagy a kézben tartott Varázsló Útmutatóra megnyithatod a konfigurációs felületet.",
+	"create_enchantment_industry.ponder.transform.text_3": "A Varázsló Útmutató visszaszerzéséhez kattints jobb gombbal az Őrlángvarázslóra egy franciakulccsal, miközben guggolsz.",
+	"create_enchantment_industry.ponder.transform.text_4": "Kicserélheted a Varázsló Útmutatót, ha kézbe veszed, és jobb kattintással kattintasz az Őrlángvarázslóra.",
 
 
 	"_": "->------------------------]  Item Descriptions  [------------------------<-",
@@ -121,10 +121,10 @@
 	"create_enchantment_industry.gui.enchanting_guide.no_enchantment": "Nincs elérhető varázslat",
 	"create_enchantment_industry.gui.goggles.printer": "Másolandó objektum:",
 	"create_enchantment_industry.gui.goggles.printer.no_target": "Nincs",
-	"create_enchantment_industry.gui.goggles.blaze_enchanter": "Aktív Varázslat:",
-	"create_enchantment_industry.gui.goggles.blaze_enchanter.invalid_target": "Érvénytelen Célpont",
+	"create_enchantment_industry.gui.goggles.blaze_enchanter": "Aktív varázslat:",
+	"create_enchantment_industry.gui.goggles.blaze_enchanter.invalid_target": "Érvénytelen célpont",
 	"create_enchantment_industry.gui.goggles.xp_consumption": "Tapasztalat fogyasztása: %s mB",
-	"create_enchantment_industry.gui.goggles.hyper_xp_consumption": "Hiper tapasztalat fogyasztása: %s mB",
+	"create_enchantment_industry.gui.goggles.hyper_xp_consumption": "Hipertapasztalat fogyasztása: %s mB",
 	"create_enchantment_industry.gui.goggles.ink_consumption": "Tinta fogyasztása: %s mB",
 	"create_enchantment_industry.gui.goggles.too_expensive": "Túl drága!",
 
@@ -133,8 +133,8 @@
 
 	"recipe.create_enchantment_industry.disenchanting": "Varázstalanítás",
 
-	"create_enchantment_industry.display_source.blaze_enchanter_source_target_enchantment": "Cél Varázslat",
-	"create_enchantment_industry.display_source.printer_source_copy_content": "Tartalom Másolása",
+	"create_enchantment_industry.display_source.blaze_enchanter_source_target_enchantment": "Cél varázslat",
+	"create_enchantment_industry.display_source.printer_source_copy_content": "Tartalom másolása",
 
 	"_": "Enjoy Create: Enchantment Industry!"
 

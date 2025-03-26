@@ -1,6 +1,6 @@
 {
   "block.create_jetpack.jetpack": "Jetpack",
-  "block.create_jetpack.netherite_jetpack": "Netherit Jetpack",
+  "block.create_jetpack.netherite_jetpack": "Netherit jetpack",
   "item.create_jetpack.jetpack": "Jetpack",
   "item.create_jetpack.jetpack.tooltip": "",
   "item.create_jetpack.jetpack.tooltip.action1": "Repülés felfelé",
