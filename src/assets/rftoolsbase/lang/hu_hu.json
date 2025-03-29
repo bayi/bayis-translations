@@ -1,0 +1,73 @@
+{
+    "item.rftoolsbase.network_monitor": "RF hálózat monitor",
+    "item.rftoolsbase.teleport_probe": "Teleportáló szonda",
+    "item.rftoolsbase.filter_module": "Szűrő modul",
+    "item.rftoolsbase.developers_delight": "Fejlesztők öröme",
+    "item.rftoolsbase.shard_wand": "Szilánk pálca",
+    "item.rftoolsbase.orphaning_card": "Árva kártya",
+    "item.rftoolsbase.security_card": "Biztonsági kártya",
+    "item.rftoolsbase.infused_diamond": "Infúziós gyémánt",
+    "item.rftoolsbase.infused_enderpearl": "Infúziós endergyöngy",
+    "item.rftoolsbase.smartwrench": "Okos csavarkulcs",
+    "item.rftoolsbase.smartwrench_select": "Okos csavarkulcs (kiválasztás)",
+    "item.rftoolsbase.dimensionalshard": "Dimenziós szilánk",
+    "item.rftoolsbase.machine_frame": "Gép keret",
+    "item.rftoolsbase.machine_base": "Gép alap",
+    "item.rftoolsbase.crafting_card": "Barkácsoló kártya",
+    "item.rftoolsbase.tablet": "Tablet (üres)",
+    "item.rftoolsbase.tablet_filled": "Tablet (töltött)",
+    "item.rftoolsbase.manual": "Technológiai útmutató",
+
+    "block.rftoolsbase.machine_infuser": "Gép infúzor",
+    "block.rftoolsbase.security_manager": "Biztonsági menedzser",
+    "block.rftoolsbase.dimensionalshard_overworld": "Dimenziós szilánkérc",
+    "block.rftoolsbase.dimensionalshard_nether": "Dimenziós szilánkérc",
+    "block.rftoolsbase.dimensionalshard_end": "Dimenziós szilánkérc",
+    "block.rftoolsbase.information_screen": "Információs képernyő",
+
+    "_comment": "Creative Tabs",
+    "itemGroup.rftoolsbase": "RFTools Alap",
+
+    "_comment": "Keys",
+    "key.categories.rftools": "RFTools",
+    "key.debugDumpNBTItem": "Dump NBT for Held Item",
+    "key.debugDumpNBTBlock": "Dump NBT for Selected Block",
+    "key.nextDestination": "Következő célra ugrás",
+    "key.prevDestination": "Előző célra ugrás",
+
+    "_comment": "Messages",
+    "message.rftoolsbase.shiftmessage": "<Nyomd a Shift-et>",
+
+    "message.rftoolsbase.crafting_card.header": "Ez a táró használható barkácsoláshoz. Tárolja egy recept hozzávalóit és végtermékét",
+    "message.rftoolsbase.crafting_card.info": "Tárgy: ",
+
+    "message.rftoolsbase.information_screen.header": "Helyezd ezt a blokkot egy energiacellára, hogy információkat jelenítsen meg a celláról. Jobb kattintás egy csavarkulccsal a mód megváltoztatásához",
+    "message.rftoolsbase.information_screen.gold": "Ez a blokk képes energiainformációkat megjeleníteni bármely blokkról, ami támogatja az RF/FE-t",
+
+    "message.rftoolsbase.machine_infuser.header": "Ezzel a géppel számos más RFTools gépet fejleszthetsz különbözőképpen. Ehhez dimenziós szilánkokra van szükség",
+    "message.rftoolsbase.machine_infuser.gold": "Infúziós bónusz: csökkentett energiafogyasztás",
+
+    "message.rftoolsbase.filter_module.header": "Ez a szűrőmodul különböző helyzetekben használható (XNet, tárolás, építő, barkácsoló, ...). Biztosítja, hogy a blokk csak bizonyos tárgyakat fogadjon el",
+    "message.rftoolsbase.filter_module.gold": "Lopakodás + jobb kattintás egy tárolóra a tartalom alapján történő konfiguráláshoz vagy lopakodás + jobb kattintás egy blokkra a szűrőhöz való hozzáadáshoz",
+    "message.rftoolsbase.filter_module.info": "Mód: ",
+
+    "message.rftoolsbase.manual.header": "Ez az útmutató az összes RFTools alapú technológiai modulhoz",
+
+    "message.rftoolsbase.tablet.header": "Tablet, amelyet távoli GUI eléréshez és információkra lehet használni",
+    "message.rftoolsbase.tablet.gold": "Üres tablet: nyisd meg a GUI-t egy lehetséges tablet információs elemmel való kombináláshoz",
+
+    "message.rftoolsbase.tablet_filled.header": "Tablet, amelyet távoli GUI eléréshez és információkra lehet használni",
+    "message.rftoolsbase.tablet_filled.gold": "Tablet információval: jobb kattintás az információs GUI-hoz, lopakodás + jobb kattintás a tablet GUI-hoz",
+
+    "message.rftoolsbase.smartwrench.header": "Általános okos csavarkulcs. Jobb kattintás a levegőben a mód megváltoztatásához",
+    "message.rftoolsbase.smartwrench.gold": "Használd normál csavarkulcsként: lopakodás + jobb kattintás a felvételhez és jobb kattintás a forgatáshoz",
+    "message.rftoolsbase.smartwrench.info1": "Mód: ",
+    "message.rftoolsbase.smartwrench.info2": "Blokk: ",
+
+    "message.rftoolsbase.smartwrench_select.header": "General Smart Wrench. Right-click on air to change mode",
+    "message.rftoolsbase.smartwrench_select.gold": "Use as a block selector: sneak-right-click to select master block and right-click to associate blocks with master",
+    "message.rftoolsbase.smartwrench_select.info1": "Mode: ",
+    "message.rftoolsbase.smartwrench_select.info2": "Block: ",
+
+    "message.rftoolsbase.security_manager": "@aContents: %s stacks\n@fThis block manages your security cards"
+}
