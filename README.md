@@ -38,6 +38,7 @@ The following mods are included:
 - Tom's Peripherals
 - Immersive Engineering
 - Tinkers' Construct
+- MEGA Cells
 
 # Progress
 - Chipped: Auto generated, needs fixing
