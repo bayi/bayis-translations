@@ -39,6 +39,7 @@ The following mods are included:
 - Immersive Engineering
 - Tinkers' Construct
 - MEGA Cells
+- RFTools
 
 # Progress
 - Chipped: Auto generated, needs fixing
