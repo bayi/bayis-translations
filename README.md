@@ -58,6 +58,7 @@ The following mods are included:
 - Create Deco: Auto generated, needs review
 
 # TODO
+- !!! Macaw's Lights !! Check
 - Create: Bells and Whistles
 + Macaw's Bridges
 - Macaw's Fences and Walls
