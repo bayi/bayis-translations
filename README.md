@@ -40,6 +40,7 @@ The following mods are included:
 - Tinkers' Construct
 - MEGA Cells
 - RFTools
+- Delightful
 
 # Progress
 - Chipped: Auto generated, needs fixing
