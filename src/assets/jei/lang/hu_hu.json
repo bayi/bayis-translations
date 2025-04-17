@@ -13,7 +13,7 @@
   "jei.tooltip.cheat.mode.button.enabled": "Csalás mód bekapcsolva",
   "jei.tooltip.cheat.mode.how.to.disable.hotkey": "Press \"%s\" to toggle it.",
   "jei.tooltip.cheat.mode.how.to.disable.hover.config.button.hotkey": "%s here to toggle it.",
-  "jei.tooltip.recipe.by": "Recept rredete: %s",
+  "jei.tooltip.recipe.by": "Recept eredete: %s",
   "jei.tooltip.recipe.id": "Recept id: %s",
   "jei.tooltip.not.enough.space": "There is not enough space to display the JEI ingredient list overlay here.",
   "jei.tooltip.ingredient.list.disabled": "The JEI overlays are disabled.",
