@@ -41,6 +41,7 @@ The following mods are included:
 - MEGA Cells
 - RFTools
 - Delightful
+- Supplementaries
 
 # Progress
 - Chipped: Auto generated, needs fixing
