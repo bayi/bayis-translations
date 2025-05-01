@@ -42,6 +42,7 @@ The following mods are included:
 - RFTools
 - Delightful
 - Supplementaries
+- Xaero's World Map
 
 # Progress
 - Chipped: Auto generated, needs fixing
