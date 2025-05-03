@@ -6,7 +6,7 @@ The following mods are included:
 - Advanced Peripherals
 - AntiblocksRechiseled
 - Beautify: Refabricated
-- Chipped (mostly auto generated, still incomplete)
+- Chipped*
 - AE2
 - Computercraft
 - Create: Enchantment Industry
