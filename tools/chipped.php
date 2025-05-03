@@ -458,6 +458,8 @@ $fixes = [
   'jack o\' lámpások' => 'töklámpások',
   'shroomlights' => 'fényspórák',
   'amethyst blokkok' => 'ametisztblokkok',
+  'szövőszék asztal' => 'szövőszék',
+  'zúzottkő tégla' => 'zúzottkőtégla',
 ];
 
 $data = processFile(
