@@ -481,4 +481,8 @@ $data['text.chipped.single'] = 'Egyszeres';
 $data['text.chipped.two_by_two'] = '2x2';
 
 // print_r($data);
-saveAs($data, 'chipped.json', true);
+$file = 'chipped.json';
+if ($argc > 1) {
+  $file = $argv[1];
+}
+saveAs($data, $file, true);
