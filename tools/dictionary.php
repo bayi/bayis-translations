@@ -20,7 +20,12 @@ $colors = [
   'yellow' => 'sárga',
 ];
 
-$materialsMultiWord = [
+$pass_b1 = [
+  'stained glass panes' => 'festett üveglapok',
+  'glass panes' => 'üveglapok',
+];
+
+$pass_a1 = [
   'concrete powder' => 'szárazbeton',
   'coal blocks' => 'szénblokk',
   'fungus cluster' => 'gombatelep',
@@ -37,7 +42,7 @@ $materialsMultiWord = [
   'gomba bulb' => 'gombahagyma',
 ];
 
-$materials = [
+$pass_a2 = [
   // Woods
   'acacia' => 'akáciafa',
   'dark oak' => 'sötéttölgy',
@@ -87,9 +92,16 @@ $materials = [
   'lamps' => 'lámpák',
   'column' => 'oszlop',
   'budding' => 'kristályosodó',
+  'bowl' => 'tál',
+  'mossy' => 'mohás',
+  'empty' => 'üres',
+  'pale' => 'sápadt',
+  'plank' => 'deszka',
+  'polished' => 'csiszolt',
+  'reinforced' => 'megerősített',
 ];
 
-$modded = [
+$pass_modded_a1 = [
   'crate' => 'láda',
   'brass' => 'sárgaréz',
   'zinc' => 'cink',
@@ -102,9 +114,10 @@ $blocks = initDictionaryFromSource('../originals/minecraft/hu_hu.json', 'block.m
 
 $dictionary = [
   $colors,
+  $pass_b1,
   $blocks,
-  $materialsMultiWord,
-  $materials,
-  $modded,
+  $pass_a1,
+  $pass_a2,
+  $pass_modded_a1,
 ];
 

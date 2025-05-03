@@ -76,10 +76,13 @@ function processFile(string $file, array $dictionaries = []) : array
   return $data;
 }
 
-function saveAs(array $data, string $file) : void
+function saveAs(array $data, string $file, ?bool $noIndent = false) : void
 {
   $fh = fopen($file, 'w');
   if ($fh === false) throw new Exception("Could not open file: $file");
-  fwrite($fh, json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
+  $json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+  if ($noIndent)
+    $json = preg_replace('/^ +/m', '', $json); // Remove indentation
+  fwrite($fh, $json);
   fclose($fh);
 }
