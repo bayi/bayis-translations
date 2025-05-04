@@ -1,5 +1,8 @@
 # Hungarian translations 
 
+- [Chipped](https://modrinth.com/mod/chipped) -  Done
+- [Supplementaries](https://modrinth.com/mod/supplementaries) - Done
+
 The following mods are included:
 
 - Ad Astra
