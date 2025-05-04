@@ -9,9 +9,11 @@
 ## Merged Upstream
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
 
+## WIP
+- [Ad Astra](https://modrinth.com/mod/ad-astra/) - Fix casing/typos/grammar, missing: death messages, infos
+
 The following mods are included:
 
-- Ad Astra
 - Advanced Peripherals
 - AntiblocksRechiseled
 - Beautify: Refabricated
