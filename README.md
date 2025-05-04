@@ -24,7 +24,7 @@
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) - Missing tooltips, advancements
 - [Delightful](https://modrinth.com/mod/delightful) - done, check grammar, figure out what source berry is
 
-## Paused
+## Paused (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
 
 ## Notes
