@@ -2,10 +2,11 @@
 
 ## Done
 
-- [Chipped](https://modrinth.com/mod/chipped) - Done*
-- [Supplementaries](https://modrinth.com/mod/supplementaries) - Done
-- [AE2](https://modrinth.com/mod/ae2) - Done
-- [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) - Done
+- [Chipped](https://modrinth.com/mod/chipped)*
+- [Supplementaries](https://modrinth.com/mod/supplementaries)
+- [AE2](https://modrinth.com/mod/ae2)
+- [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
+- [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled)
 
 ## Merged Upstream
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
@@ -14,10 +15,8 @@
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - Fix casing/typos/grammar, missing: death messages, infos
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) - Missing tooltips, advancements
 
-
 The following mods are included:
 
-- AntiblocksRechiseled
 - Beautify: Refabricated
 - Computercraft
 - Create: Enchantment Industry
