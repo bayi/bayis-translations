@@ -2,6 +2,7 @@
 
 - [Chipped](https://modrinth.com/mod/chipped) -  Done
 - [Supplementaries](https://modrinth.com/mod/supplementaries) - Done
+- [AE2](https://modrinth.com/mod/ae2) - Done
 
 The following mods are included:
 
