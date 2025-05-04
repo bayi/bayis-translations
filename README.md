@@ -14,6 +14,7 @@
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
 - [Create Deco](https://modrinth.com/mod/create-deco)*
 - [Curos API](https://modrinth.com/mod/curios)
+- [Factory Blocks](https://modrinth.com/mod/factory-blocks)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 
 ## Merged Upstream
