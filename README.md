@@ -22,6 +22,7 @@
 ## WIP
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - Fix casing/typos/grammar, missing: death messages, infos
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) - Missing tooltips, advancements
+- [Delightful](https://modrinth.com/mod/delightful) - done, check grammar
 
 ## Notes
 - Beautify: Advancements can not be translated
@@ -53,7 +54,6 @@ The following mods are included:
 - Tinkers' Construct
 - MEGA Cells
 - RFTools
-- Delightful
 - Xaero's World Map
 
 # Progress
