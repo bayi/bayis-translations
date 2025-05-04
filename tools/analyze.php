@@ -39,9 +39,11 @@ foreach ($untranslatedKeys as $key => $value) {
   echo "$key: $value\n";
 }
 
-echo "\n \e[32m--- Extra keys:\e[0m\n";
-foreach ($extraKeys as $key => $value) {
-  echo "$key: $value\n";
+if (count($untranslatedKeys) > 0) {
+  echo "\n \e[32m--- Extra keys:\e[0m\n";
+  foreach ($extraKeys as $key => $value) {
+    echo "$key: $value\n";
+  }
 }
 
 echo "\n\n";
