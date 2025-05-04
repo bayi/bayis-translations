@@ -11,6 +11,7 @@
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/)
 - [Create Jetpack](https://modrinth.com/mod/create-jetpack)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
+- [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 
 ## Merged Upstream
@@ -20,9 +21,12 @@
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - Fix casing/typos/grammar, missing: death messages, infos
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) - Missing tooltips, advancements
 
+## Notes
+- Beautify: Advancements can not be translated
+- Create Craft & Additions: Some item description tooltips are not translatable
+
 The following mods are included:
 
-- Create Crafts & Additions
 - Create Deco (mostly auto generated)
 - Extended Drawers
 - Farmer's Delight
@@ -53,7 +57,6 @@ The following mods are included:
 - Xaero's World Map
 
 # Progress
-- Createaddition: Tooltips missing
 - Extended Drawers: Only items translated
 - Farmersdelight: Advancements, Tooltips missing, needs fixing
 - Handcrafted: Mostly done, needs fixing
