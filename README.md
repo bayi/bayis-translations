@@ -12,6 +12,7 @@
 - [Create Jetpack](https://modrinth.com/mod/create-jetpack)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
+- [Create Deco](https://modrinth.com/mod/create-deco)*
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 
 ## Merged Upstream
@@ -20,7 +21,6 @@
 ## WIP
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - Fix casing/typos/grammar, missing: death messages, infos
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) - Missing tooltips, advancements
-- [Create Deco](https://modrinth.com/mod/create-deco) -
 
 ## Notes
 - Beautify: Advancements can not be translated
@@ -28,7 +28,6 @@
 
 The following mods are included:
 
-- Create Deco (mostly auto generated)
 - Extended Drawers
 - Farmer's Delight
 - Handcrafted
@@ -67,7 +66,6 @@ The following mods are included:
 - Naturalist: Advancements, Subtitles, Configs missing, needs fixing
 - Slice & Dice: 100%
 - YIGD: Autoconfig, commands missing
-- Create Deco: Auto generated, needs review
 
 # TODO
 - !!! Macaw's Lights !! Check

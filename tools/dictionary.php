@@ -80,6 +80,7 @@ $pass_a2 = [
   'doors' => 'ajtók',
   'pumpkins' => 'tökök',
   'trapdoors' => 'csapóajtók',
+  'trapdoor' => 'csapóajtó',
   'blocks' => 'blokkok',
   'block' => 'blokk',
   'carpet' => 'szőnyeg',
@@ -99,6 +100,10 @@ $pass_a2 = [
   'plank' => 'deszka',
   'polished' => 'csiszolt',
   'reinforced' => 'megerősített',
+  'stairs' => 'lépcső',
+  'door' => 'ajtó',
+  'nugget' => 'rög',
+  'ingot' => 'rúd',
 ];
 
 $pass_modded_a1 = [
