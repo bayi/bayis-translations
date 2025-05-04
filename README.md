@@ -7,6 +7,7 @@
 - [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled)
 - [Beautify](https://modrinth.com/mod/beautify)
 - [Chipped](https://modrinth.com/mod/chipped)*
+- [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 
 ## Merged Upstream
@@ -19,7 +20,6 @@
 The following mods are included:
 
 - Beautify: Refabricated
-- Computercraft
 - Create: Enchantment Industry
 - Create Jetpack
 - Create: New Age
@@ -54,7 +54,6 @@ The following mods are included:
 - Xaero's World Map
 
 # Progress
-- Computercraft: 100%
 - Create: Enchantment Industry: 100%
 - Createaddition: Tooltips missing
 - Extended Drawers: Only items translated
