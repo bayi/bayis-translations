@@ -513,7 +513,7 @@
   "gui.ae2.Wireless": "Vezeték Nélküli Hozzáférési Pont",
   "gui.ae2.WirelessRange": "Hatótáv: %s m",
   "gui.ae2.WirelessTerminal": "Vez.nélküli Term",
-  "gui.ae2.WirelessTerminal": "Vezeték nélküli terminál",
+  "gui.ae2.WirelessTerminals": "Vez.nélküli Terminálok",
   "gui.ae2.With": "Az alábbiakkal",
   "gui.ae2.Yellow": "Sárga",
   "gui.ae2.Yes": "Igen",
