@@ -8,6 +8,7 @@
 - [Beautify](https://modrinth.com/mod/beautify)
 - [Chipped](https://modrinth.com/mod/chipped)*
 - [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
+- [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 
 ## Merged Upstream
@@ -20,7 +21,6 @@
 The following mods are included:
 
 - Beautify: Refabricated
-- Create: Enchantment Industry
 - Create Jetpack
 - Create: New Age
 - Create Crafts & Additions
@@ -54,7 +54,6 @@ The following mods are included:
 - Xaero's World Map
 
 # Progress
-- Create: Enchantment Industry: 100%
 - Createaddition: Tooltips missing
 - Extended Drawers: Only items translated
 - Farmersdelight: Advancements, Tooltips missing, needs fixing
