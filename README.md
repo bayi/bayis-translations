@@ -24,13 +24,15 @@
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) - Missing tooltips, advancements
 - [Delightful](https://modrinth.com/mod/delightful) - done, check grammar, figure out what source berry is
 
+## Paused
+- [Extended Drawers](https://modrinth.com/mod/extended-drawers)
+
 ## Notes
 - Beautify: Advancements can not be translated
 - Create Craft & Additions: Some item description tooltips are not translatable
 
 The following mods are included:
 
-- Extended Drawers
 - Farmer's Delight
 - Handcrafted
 - Jade
@@ -57,7 +59,6 @@ The following mods are included:
 - Xaero's World Map
 
 # Progress
-- Extended Drawers: Only items translated
 - Farmersdelight: Advancements, Tooltips missing, needs fixing
 - Handcrafted: Mostly done, needs fixing
 - Jade: Only a few keys translated
