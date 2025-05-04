@@ -29,17 +29,21 @@ foreach ($dst as $key => $value) {
   }
 }
 
-echo "\n \e[32m--- Missing keys:\e[0m\n";
-foreach ($missingKeys as $key => $value) {
-  echo "$key: $value\n";
-}
-
-echo "\n \e[32m--- Untranslated keys:\e[0m\n";
-foreach ($untranslatedKeys as $key => $value) {
-  echo "$key: $value\n";
+if (count($missingKeys) > 0) {
+  echo "\n \e[31m--- Missing keys:\e[0m\n";
+  foreach ($missingKeys as $key => $value) {
+    echo "$key: $value\n";
+  }
 }
 
 if (count($untranslatedKeys) > 0) {
+  echo "\n \e[32m--- Untranslated keys:\e[0m\n";
+  foreach ($untranslatedKeys as $key => $value) {
+    echo "$key: $value\n";
+  }
+}
+
+if (count($extraKeys) > 0) {
   echo "\n \e[32m--- Extra keys:\e[0m\n";
   foreach ($extraKeys as $key => $value) {
     echo "$key: $value\n";
