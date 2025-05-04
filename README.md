@@ -1,6 +1,6 @@
 # Hungarian translations 
 
-## Progress
+## Done
 
 - [Chipped](https://modrinth.com/mod/chipped) - Done*
 - [Supplementaries](https://modrinth.com/mod/supplementaries) - Done
