@@ -20,6 +20,7 @@
 ## WIP
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - Fix casing/typos/grammar, missing: death messages, infos
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) - Missing tooltips, advancements
+- [Create Deco](https://modrinth.com/mod/create-deco) -
 
 ## Notes
 - Beautify: Advancements can not be translated
