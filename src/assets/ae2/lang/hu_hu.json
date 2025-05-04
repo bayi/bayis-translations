@@ -277,7 +277,7 @@
   "config.jade.plugin_ae2.pattern_provider": "AE2 mintaszolgáltató",
   "config.jade.plugin_ae2.power_storage": "AE2 energia tároló",
   "entity.ae2.tiny_tnt_primed": "Apró TNT Élesítve",
-  "entity.minecraft.villager.fluix_researcher": "Fluix kutató",
+  "entity.minecraft.villager.ae2.fluix_researcher": "Fluix kutató",
   "gui.ae2.AdjacentToDifferentMachines": "Különböző gépek mellett",
   "gui.ae2.And": "és",
   "gui.ae2.AttachedTo": "Csatolva: %s",
