@@ -1,6 +1,6 @@
 # Hungarian translations 
 
-- [Chipped](https://modrinth.com/mod/chipped) -  Done
+- [Chipped](https://modrinth.com/mod/chipped) - Done*
 - [Supplementaries](https://modrinth.com/mod/supplementaries) - Done
 - [AE2](https://modrinth.com/mod/ae2) - Done
 
@@ -10,8 +10,6 @@ The following mods are included:
 - Advanced Peripherals
 - AntiblocksRechiseled
 - Beautify: Refabricated
-- Chipped*
-- AE2
 - Computercraft
 - Create: Enchantment Industry
 - Create Jetpack
@@ -45,11 +43,9 @@ The following mods are included:
 - MEGA Cells
 - RFTools
 - Delightful
-- Supplementaries
 - Xaero's World Map
 
 # Progress
-- Chipped: Auto generated, needs fixing
 - Computercraft: 100%
 - Create: Enchantment Industry: 100%
 - Createaddition: Tooltips missing
