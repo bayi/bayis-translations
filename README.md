@@ -2,11 +2,11 @@
 
 ## Done
 
-- [Chipped](https://modrinth.com/mod/chipped)*
-- [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [AE2](https://modrinth.com/mod/ae2)
 - [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
 - [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled)
+- [Chipped](https://modrinth.com/mod/chipped)*
+- [Supplementaries](https://modrinth.com/mod/supplementaries)
 
 ## Merged Upstream
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
