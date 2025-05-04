@@ -10,6 +10,7 @@
 - [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/)
 - [Create Jetpack](https://modrinth.com/mod/create-jetpack)
+- [Create: New Age](https://modrinth.com/mod/create-new-age/)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 
 ## Merged Upstream
