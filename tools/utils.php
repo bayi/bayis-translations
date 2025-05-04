@@ -29,7 +29,7 @@ function replaceWords(string $string, array $dictionary) : string
   $string = mb_strtolower($string);
   foreach ($dictionary as $key => $value) {
     // $string = str_replace($key, $value, $string);
-    $string = preg_replace('/\b' . preg_quote($key, '/') . '\b/', $value, $string); // Only replace full words
+    $string = preg_replace('/\b' . preg_quote($key, '/') . '\b/u', $value, $string); // Only replace full words
   }
   return $string;
 }
