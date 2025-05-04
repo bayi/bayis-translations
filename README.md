@@ -22,7 +22,7 @@
 ## WIP
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - Fix casing/typos/grammar, missing: death messages, infos
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) - Missing tooltips, advancements
-- [Delightful](https://modrinth.com/mod/delightful) - done, check grammar
+- [Delightful](https://modrinth.com/mod/delightful) - done, check grammar, figure out what source berry is
 
 ## Notes
 - Beautify: Advancements can not be translated
