@@ -1,8 +1,13 @@
 # Hungarian translations 
 
+## Progress
+
 - [Chipped](https://modrinth.com/mod/chipped) - Done*
 - [Supplementaries](https://modrinth.com/mod/supplementaries) - Done
 - [AE2](https://modrinth.com/mod/ae2) - Done
+
+## Merged Upstream
+- [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
 
 The following mods are included:
 
@@ -16,7 +21,6 @@ The following mods are included:
 - Create: New Age
 - Create Crafts & Additions
 - Create Deco (mostly auto generated)
-- ~~Easy Mob Farm~~ (Merged upstream)
 - Extended Drawers
 - Farmer's Delight
 - Handcrafted
