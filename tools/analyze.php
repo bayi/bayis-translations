@@ -1,5 +1,5 @@
 <?php
-include_once 'utils.php';
+include_once 'lib/index.php';
 
 if ($argc < 2) die("Usage: " . $argv[0] . " <key>\n");
 

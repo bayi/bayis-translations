@@ -1,6 +1,5 @@
 <?php
-include_once 'utils.php';
-include_once 'dictionary.php';
+include_once 'lib/index.php';
 
 $pass1 = [
   'catwalk' => 'futóhíd',
