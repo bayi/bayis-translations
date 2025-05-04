@@ -17,7 +17,6 @@
 
 The following mods are included:
 
-- Advanced Peripherals
 - AntiblocksRechiseled
 - Beautify: Refabricated
 - Computercraft
