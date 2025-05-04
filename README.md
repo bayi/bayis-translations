@@ -9,6 +9,7 @@
 - [Chipped](https://modrinth.com/mod/chipped)*
 - [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/)
+- [Create Jetpack](https://modrinth.com/mod/create-jetpack)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 
 ## Merged Upstream
@@ -20,8 +21,6 @@
 
 The following mods are included:
 
-- Beautify: Refabricated
-- Create Jetpack
 - Create: New Age
 - Create Crafts & Additions
 - Create Deco (mostly auto generated)
