@@ -13,6 +13,7 @@
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
 - [Create Deco](https://modrinth.com/mod/create-deco)*
+- [Curos API](https://modrinth.com/mod/curios)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 
 ## Merged Upstream
@@ -45,7 +46,6 @@ The following mods are included:
 - Tom's Storage
 - Wands
 - You're in Grave Danger
-- Curio
 - Gravestone
 - Shrink
 - Tom's Peripherals
