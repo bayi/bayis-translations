@@ -56,7 +56,6 @@ The following mods are included:
 - Tom's Storage
 - Wands
 - You're in Grave Danger
-- Shrink
 - Tom's Peripherals
 - Tinkers' Construct
 - RFTools
