@@ -51,6 +51,16 @@
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map/) - wip, untranslated keys
 - [XNet](https://modrinth.com/mod/xnet) - wip, untranslated keys
 
+## Planned
+- Create: Power Loader
+- Create: Bells and Whistles
+- Create: Steam n Rails
+- Macaw's Lights !! Check
+- Macaw's Fences and Walls
+- Macaw'S Furniture
+- Macaw's Doors
+- Macaw's Windows
+
 ## Paused (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
 - [Create: Storage](https://modrinth.com/mod/fxnt-create-storage)
@@ -66,14 +76,3 @@
 ***: Has untranslatable strings: 
 - Beautify: Advancements can not be translated
 - Create Craft & Additions: Some item description tooltips are not translatable
-
-# TODO
-- !!! Macaw's Lights !! Check
-- Create: Bells and Whistles
-- Macaw's Fences and Walls
-- Macaw'S Furniture
-- Macaw's Doors
-- Create: Power Loader
-- Create: Steam n Rails
-- Macaw's Windows
-
