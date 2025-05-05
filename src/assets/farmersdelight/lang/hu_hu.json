@@ -205,8 +205,8 @@
   "effect.farmersdelight.nourishment": "Táplálék",
   "effect.farmersdelight.comfort": "Kényelem",
 
-  "effect.farmersdelight.nourishment.0.desc": "Prevents hunger loss, except when using saturation to heal damage.",
-  "effect.farmersdelight.comfort.0.desc": "Provides natural regeneration, regardless of how hungry you are.",
+  "effect.farmersdelight.nourishment.0.desc": "Megakadályozza az éhezést, kivéve, ha a telítettség csökkentésével gyógyítasz.",
+  "effect.farmersdelight.comfort.0.desc": "Természetes gyúgyulást biztosít, függetlenül attól, hogy mennyire vagy éhes.",
 
   "enchantment.farmersdelight.backstabbing": "Hátbaszúrás",
   "enchantment.farmersdelight.backstabbing.desc": "Növeli a sebzést, ha hátulról támadsz egy célpontra.",
@@ -294,7 +294,9 @@
   "farmersdelight.block.cutting_board.invalid_item": "Ez nem tűnik vágásra alkalmasnak...",
   "farmersdelight.block.cutting_board.invalid_tool": "Talán egy másik eszközzel...",
   "farmersdelight.block.skillet.invalid_item": "Ezt nem tudod megfőzni...",
+  "farmersdelight.block.skillet.underwater": "Nem tudsz főzni elárasztva...",
   "farmersdelight.item.skillet.how_to_cook": "Használd a másik kezed, hogy tartsd az alapanyagokat!",
+  "farmersdelight.item.skillet.underwater": "Nem tudsz főzni a víz alatt...",
 
   "death.attack.farmersdelight.stove": "%1$s tökéletesre lett grillezve",
   "death.attack.farmersdelight.stove.player": "%1$s -et feldobta a grillre %2$s séf",
