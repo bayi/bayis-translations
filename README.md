@@ -29,6 +29,7 @@
 
 ## Paused (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
+- [Create: Storage](https://modrinth.com/mod/fxnt-create-storage)
 
 ## Notes
 - Beautify: Advancements can not be translated
