@@ -28,6 +28,7 @@
 - [Delightful](https://modrinth.com/mod/delightful) - done, check grammar, figure out what source berry is
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - mostly done, check grammar
 - [Handcrafted](https://modrinth.com/mod/handcrafted/) - check grammar, fix casing, add untranslated keys
+- [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
 
 ## Paused (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
@@ -56,7 +57,6 @@ The following mods are included:
 - You're in Grave Danger
 - Shrink
 - Tom's Peripherals
-- Immersive Engineering
 - Tinkers' Construct
 - MEGA Cells
 - RFTools
