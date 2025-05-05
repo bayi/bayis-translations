@@ -45,7 +45,6 @@
 
 The following mods are included:
 
-- Milk
 - Naturalist
 - Natures Compass
 - REI
@@ -63,7 +62,6 @@ The following mods are included:
 - Xaero's World Map
 
 # Progress
-- Milk: 100%
 - Naturalist: Advancements, Subtitles, Configs missing, needs fixing
 - Slice & Dice: 100%
 - YIGD: Autoconfig, commands missing
