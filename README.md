@@ -28,7 +28,7 @@
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) - Missing tooltips, advancements
 - [Delightful](https://modrinth.com/mod/delightful) - done, check grammar, figure out what source berry is
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - mostly done, check grammar
-- [Handcrafted](https://modrinth.com/mod/handcrafted/) - check grammar, fix casing, add untranslated keys
+- [Handcrafted](https://modrinth.com/mod/handcrafted/) - mostly done, check grammar, fix casing, add untranslated keys
 - [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
 - [Jade](https://modrinth.com/mod/jade) - strong wip, missing keys, untranslated keys, extra keys
 - [Just Enough Items](https://modrinth.com/mod/jei/) - wip, mismatched keys
@@ -44,9 +44,6 @@
 
 The following mods are included:
 
-- Handcrafted
-- JEI
-- Lootr
 - Milk
 - Naturalist
 - Natures Compass
@@ -65,8 +62,6 @@ The following mods are included:
 - Xaero's World Map
 
 # Progress
-- Handcrafted: Mostly done, needs fixing
-- JEI: Only a few keys translated
 - Milk: 100%
 - Naturalist: Advancements, Subtitles, Configs missing, needs fixing
 - Slice & Dice: 100%
