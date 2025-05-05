@@ -41,6 +41,10 @@
 - [MEGA Cells](https://modrinth.com/mod/mega) - mostly done, a few missing new keys, check grammar
 - [Naturalist](https://modrinth.com/mod/naturalist/) - wip, new keys, check grammar
 - [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture) - wip, untranslated keys, check grammar
+- [Powah](https://modrinth.com/mod/powah) - strong wip, check grammar
+- [RFTools Base](https://modrinth.com/mod/rftools-base) - wip, untranslated keys
+- [RFTools Dimensions](https://modrinth.com/mod/rftools-dimensions/) - wip, untranslated keys
+- [RFTools Utility](https://modrinth.com/mod/rftools-utility/) - wip, untranslated keys
 
 ## Paused (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
@@ -49,6 +53,7 @@
 - [Building Wands](https://modrinth.com/mod/building-wands)
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
 - [You're in Grave Danger](https://modrinth.com/mod/yigd)
+- [REI Collapsible Entries](https://modrinth.com/mod/rei-collapsible-entries)
 
 # Notes
 *: Auto/tool generated, reviewed and fixed by hand
@@ -65,7 +70,6 @@ The following mods are included:
 - Sophisticated Backpacks
 - Tom's Peripherals
 - Tinkers' Construct
-- RFTools
 - Xaero's World Map
 
 # TODO
