@@ -19,8 +19,9 @@
 - [Gravestone Mod](https://modrinth.com/mod/gravestone-mod)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
-- [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
 - [Milk-lib](https://github.com/TropheusJ/milk-lib)**
+- [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
+- [Shrink](https://modrinth.com/mod/shrink)
 
 ## Merged Upstream
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
