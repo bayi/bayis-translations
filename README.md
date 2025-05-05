@@ -18,6 +18,7 @@
 - [FlightLib](https://github.com/PssbleTrngle/FlightLib)
 - [Gravestone Mod](https://modrinth.com/mod/gravestone-mod)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
+- [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
 
 ## Merged Upstream
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
@@ -29,6 +30,7 @@
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - mostly done, check grammar
 - [Handcrafted](https://modrinth.com/mod/handcrafted/) - check grammar, fix casing, add untranslated keys
 - [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
+- [Jade](https://modrinth.com/mod/jade) - strong wip
 
 ## Paused (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
