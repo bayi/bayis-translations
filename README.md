@@ -25,6 +25,7 @@
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
 - [Shrink](https://modrinth.com/mod/shrink)
+- [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 
 ## WIP
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
@@ -69,7 +70,6 @@ The following mods are included:
 # TODO
 - !!! Macaw's Lights !! Check
 - Create: Bells and Whistles
-+ Macaw's Bridges
 - Macaw's Fences and Walls
 - Macaw'S Furniture
 - Macaw's Doors
