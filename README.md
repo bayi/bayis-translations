@@ -31,6 +31,8 @@
 - [Handcrafted](https://modrinth.com/mod/handcrafted/) - check grammar, fix casing, add untranslated keys
 - [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
 - [Jade](https://modrinth.com/mod/jade) - strong wip, missing keys, untranslated keys, extra keys
+- [Just Enough Items](https://modrinth.com/mod/jei/) - wip, mismatched keys
+- [Lootr](https://modrinth.com/mod/lootr) - wip, a few untranslated keys, check grammar
 
 ## Paused (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
