@@ -16,6 +16,7 @@
 - [Curos API](https://modrinth.com/mod/curios)
 - [Factory Blocks](https://modrinth.com/mod/factory-blocks)
 - [FlightLib](https://github.com/PssbleTrngle/FlightLib)
+- [Gravestone Mod](https://modrinth.com/mod/gravestone-mod)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 
 ## Merged Upstream
@@ -52,7 +53,6 @@ The following mods are included:
 - Tom's Storage
 - Wands
 - You're in Grave Danger
-- Gravestone
 - Shrink
 - Tom's Peripherals
 - Immersive Engineering

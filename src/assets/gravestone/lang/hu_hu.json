@@ -4,7 +4,7 @@
   "entity.gravestone.player_ghost": "Játékos szelleme",
   "message.gravestone.grave_of": "%s sírja",
   "message.gravestone.date_of_death": "Meghalt %s",
-  "message.gravestone.item_count": "Tartalmaz %s stack(ek)et",
+  "message.gravestone.item_count": "Tartalmaz %s halm(ok)at",
   "message.gravestone.died": "%s meghalt %s",
   "message.gravestone.deathlocation": "Halálozási hely",
   "message.gravestone.no_deathlocation": "Nincs elérhető halálozási hely",
