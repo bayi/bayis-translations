@@ -35,6 +35,7 @@
 - [Just Enough Items](https://modrinth.com/mod/jei/) - wip, mismatched keys
 - [Lootr](https://modrinth.com/mod/lootr) - wip, a few untranslated keys, check grammar
 - [MEGA Cells](https://modrinth.com/mod/mega) - mostly done, a few missing new keys, check grammar
+- [Naturalist](https://modrinth.com/mod/naturalist/) - wip, new keys, check grammar
 
 ## Paused (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
@@ -46,7 +47,6 @@
 
 The following mods are included:
 
-- Naturalist
 - Natures Compass
 - REI
 - Crate Slice & Dice
@@ -63,7 +63,6 @@ The following mods are included:
 - Xaero's World Map
 
 # Progress
-- Naturalist: Advancements, Subtitles, Configs missing, needs fixing
 - Slice & Dice: 100%
 - YIGD: Autoconfig, commands missing
 
