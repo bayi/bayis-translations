@@ -25,9 +25,9 @@
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
 
 ## WIP
-- [Ad Astra](https://modrinth.com/mod/ad-astra/) - Fix casing/typos/grammar, missing: death messages, infos
-- [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) - Missing tooltips, advancements
-- [Delightful](https://modrinth.com/mod/delightful) - done, check grammar, figure out what source berry is
+- [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
+- [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) - wip, missing tooltips, advancements
+- [Delightful](https://modrinth.com/mod/delightful) - mostly done, check grammar, figure out what source berry is
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - mostly done, check grammar
 - [Handcrafted](https://modrinth.com/mod/handcrafted/) - mostly done, check grammar, fix casing, add untranslated keys
 - [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
@@ -58,7 +58,6 @@ The following mods are included:
 - Shrink
 - Tom's Peripherals
 - Tinkers' Construct
-- MEGA Cells
 - RFTools
 - Xaero's World Map
 
