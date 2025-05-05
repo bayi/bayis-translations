@@ -23,6 +23,7 @@
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
 - [Milk-lib](https://github.com/TropheusJ/milk-lib)**
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
+- [Nature's Compass](https://modrinth.com/mod/natures-compass/)
 - [Shrink](https://modrinth.com/mod/shrink)
 
 ## WIP
@@ -37,6 +38,7 @@
 - [Lootr](https://modrinth.com/mod/lootr) - wip, a few untranslated keys, check grammar
 - [MEGA Cells](https://modrinth.com/mod/mega) - mostly done, a few missing new keys, check grammar
 - [Naturalist](https://modrinth.com/mod/naturalist/) - wip, new keys, check grammar
+- [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture) - wip, untranslated keys, check grammar
 
 ## Paused (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
@@ -58,8 +60,6 @@
 
 The following mods are included:
 
-- Natures Compass
-- Paladin's Furniture Mod
 - Sophisticated Backpacks
 - Tom's Peripherals
 - Tinkers' Construct
