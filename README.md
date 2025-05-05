@@ -52,14 +52,14 @@
 - [XNet](https://modrinth.com/mod/xnet) - wip, untranslated keys
 
 ## Planned
-- Create: Power Loader
-- Create: Bells and Whistles
-- Create: Steam n Rails
-- Macaw's Lights !! Check
-- Macaw's Fences and Walls
-- Macaw'S Furniture
-- Macaw's Doors
-- Macaw's Windows
+- [Create: Power Loader](https://modrinth.com/mod/create-power-loader)
+- [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
+- [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
+- [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
+- [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
+- [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture)
+- [Macaw's Doors](https://modrinth.com/mod/macaws-doors)
+- [Macaw's Windows](https://modrinth.com/mod/macaws-windows)
 
 ## Paused (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
