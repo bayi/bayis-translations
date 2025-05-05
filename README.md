@@ -19,6 +19,7 @@
 - [Gravestone Mod](https://modrinth.com/mod/gravestone-mod)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
+- [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
 - [Milk-lib](https://github.com/TropheusJ/milk-lib)**
 
 ## Merged Upstream
@@ -49,7 +50,6 @@ The following mods are included:
 
 - Natures Compass
 - REI
-- Crate Slice & Dice
 - Paladin's Furniture Mod
 - Sophisticated Backpacks
 - Tom's Storage
@@ -62,7 +62,6 @@ The following mods are included:
 - Xaero's World Map
 
 # Progress
-- Slice & Dice: 100%
 - YIGD: Autoconfig, commands missing
 
 # TODO
