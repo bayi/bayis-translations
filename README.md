@@ -24,6 +24,7 @@
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - Fix casing/typos/grammar, missing: death messages, infos
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) - Missing tooltips, advancements
 - [Delightful](https://modrinth.com/mod/delightful) - done, check grammar, figure out what source berry is
+- [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - mostly done, check grammar
 
 ## Paused (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
@@ -34,7 +35,6 @@
 
 The following mods are included:
 
-- Farmer's Delight
 - Handcrafted
 - Jade
 - Jade Addons
@@ -60,7 +60,6 @@ The following mods are included:
 - Xaero's World Map
 
 # Progress
-- Farmersdelight: Advancements, Tooltips missing, needs fixing
 - Handcrafted: Mostly done, needs fixing
 - Jade: Only a few keys translated
 - JEI: Only a few keys translated
