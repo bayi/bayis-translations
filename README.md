@@ -45,6 +45,7 @@
 - [RFTools Base](https://modrinth.com/mod/rftools-base) - wip, untranslated keys
 - [RFTools Dimensions](https://modrinth.com/mod/rftools-dimensions/) - wip, untranslated keys
 - [RFTools Utility](https://modrinth.com/mod/rftools-utility/) - wip, untranslated keys
+- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) - wip, untranslated keys
 
 ## Paused (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
@@ -67,7 +68,6 @@
 
 The following mods are included:
 
-- Sophisticated Backpacks
 - Tom's Peripherals
 - Tinkers' Construct
 - Xaero's World Map
