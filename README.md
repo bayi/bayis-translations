@@ -42,27 +42,27 @@
 ## Paused (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
 - [Create: Storage](https://modrinth.com/mod/fxnt-create-storage)
+- [Rougly Enough Items](https://modrinth.com/mod/rei)
+- [Building Wands](https://modrinth.com/mod/building-wands)
+- [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
+- [You're in Grave Danger](https://modrinth.com/mod/yigd)
 
 ## Notes
 - Beautify: Advancements can not be translated
 - Create Craft & Additions: Some item description tooltips are not translatable
 
+
+----- Old ----
+
 The following mods are included:
 
 - Natures Compass
-- REI
 - Paladin's Furniture Mod
 - Sophisticated Backpacks
-- Tom's Storage
-- Wands
-- You're in Grave Danger
 - Tom's Peripherals
 - Tinkers' Construct
 - RFTools
 - Xaero's World Map
-
-# Progress
-- YIGD: Autoconfig, commands missing
 
 # TODO
 - !!! Macaw's Lights !! Check
