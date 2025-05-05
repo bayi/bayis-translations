@@ -1,11 +1,13 @@
-# Hungarian translations 
+# Hungarian translations / Magyar fordítások
+
+## Merged Upstream (Removed from resoure pack)
+- [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
 
 ## Done
-
 - [AE2](https://modrinth.com/mod/ae2)
 - [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
 - [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled)
-- [Beautify](https://modrinth.com/mod/beautify)
+- [Beautify](https://modrinth.com/mod/beautify)***
 - [Chipped](https://modrinth.com/mod/chipped)*
 - [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/)
@@ -22,9 +24,6 @@
 - [Milk-lib](https://github.com/TropheusJ/milk-lib)**
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
 - [Shrink](https://modrinth.com/mod/shrink)
-
-## Merged Upstream
-- [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
 
 ## WIP
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
@@ -47,7 +46,10 @@
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
 - [You're in Grave Danger](https://modrinth.com/mod/yigd)
 
-## Notes
+# Notes
+*: Auto/tool generated, reviewed and fixed by hand
+**: Unused? Create fabric used it
+***: Has untranslatable strings: 
 - Beautify: Advancements can not be translated
 - Create Craft & Additions: Some item description tooltips are not translatable
 
