@@ -21,6 +21,7 @@
 - [Gravestone Mod](https://modrinth.com/mod/gravestone-mod)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
+- [Lollipop](https://github.com/owmii/Lollipop)
 - [Milk-lib](https://github.com/TropheusJ/milk-lib)**
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
