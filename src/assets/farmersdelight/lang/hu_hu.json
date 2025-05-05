@@ -76,8 +76,8 @@
   "block.farmersdelight.onions": "Hagyma",
   "block.farmersdelight.rice": "Rízstermés",
   "block.farmersdelight.rice_panicles": "Rízstermés",
-  "block.farmersdelight.brown_mushroom_colony": "Barna Gombatelep",
-  "block.farmersdelight.red_mushroom_colony": "Vörös Gombatelep",
+  "block.farmersdelight.brown_mushroom_colony": "Barna gombatelep",
+  "block.farmersdelight.red_mushroom_colony": "Vörös gombatelep",
 
   "block.farmersdelight.sandy_shrub": "Homokos cserje",
   "block.farmersdelight.wild_cabbages": "Vadkáposzta",
@@ -99,7 +99,7 @@
   "item.farmersdelight.cabbage_seeds": "Káposztamag",
   "item.farmersdelight.tomato_seeds": "Paradicsommag",
   "item.farmersdelight.rice_panicle": "Rízskalász",
-  "item.farmersdelight.rotten_tomato": "Rohadt Paradicsom",
+  "item.farmersdelight.rotten_tomato": "Rohadt paradicsom",
 
   "item.farmersdelight.straw": "Szalma",
   "item.farmersdelight.canvas": "Vászon",
