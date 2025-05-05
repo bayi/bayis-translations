@@ -22,10 +22,10 @@
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
 - [Milk-lib](https://github.com/TropheusJ/milk-lib)**
-- [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
+- [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
 - [Shrink](https://modrinth.com/mod/shrink)
-- [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
+- [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
 
 ## WIP
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
