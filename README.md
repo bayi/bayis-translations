@@ -46,7 +46,9 @@
 - [RFTools Dimensions](https://modrinth.com/mod/rftools-dimensions/) - wip, untranslated keys
 - [RFTools Utility](https://modrinth.com/mod/rftools-utility/) - wip, untranslated keys
 - [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) - wip, untranslated keys
+- [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) - wip, huge mod, untranslated keys
 - [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals/) - wip, a few untranslated keys
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map/) - wip, untranslated keys
 - [XNet](https://modrinth.com/mod/xnet) - wip, untranslated keys
 
 ## Paused (Currently unused)
@@ -64,14 +66,6 @@
 ***: Has untranslatable strings: 
 - Beautify: Advancements can not be translated
 - Create Craft & Additions: Some item description tooltips are not translatable
-
-
------ Old ----
-
-The following mods are included:
-
-- Tinkers' Construct
-- Xaero's World Map
 
 # TODO
 - !!! Macaw's Lights !! Check
