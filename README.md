@@ -47,6 +47,7 @@
 - [RFTools Utility](https://modrinth.com/mod/rftools-utility/) - wip, untranslated keys
 - [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) - wip, untranslated keys
 - [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals/) - wip, a few untranslated keys
+- [XNet](https://modrinth.com/mod/xnet) - wip, untranslated keys
 
 ## Paused (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
