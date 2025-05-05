@@ -15,6 +15,7 @@
 - [Create Deco](https://modrinth.com/mod/create-deco)*
 - [Curos API](https://modrinth.com/mod/curios)
 - [Factory Blocks](https://modrinth.com/mod/factory-blocks)
+- [FlightLib](https://github.com/PssbleTrngle/FlightLib)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 
 ## Merged Upstream
