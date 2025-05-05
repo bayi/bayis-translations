@@ -43,8 +43,6 @@
 The following mods are included:
 
 - Handcrafted
-- Jade
-- Jade Addons
 - JEI
 - Lootr
 - Milk
@@ -66,7 +64,6 @@ The following mods are included:
 
 # Progress
 - Handcrafted: Mostly done, needs fixing
-- Jade: Only a few keys translated
 - JEI: Only a few keys translated
 - Milk: 100%
 - Naturalist: Advancements, Subtitles, Configs missing, needs fixing
@@ -83,3 +80,4 @@ The following mods are included:
 - Create: Power Loader
 - Create: Steam n Rails
 - Macaw's Windows
+
