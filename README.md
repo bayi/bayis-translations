@@ -19,6 +19,7 @@
 - [Gravestone Mod](https://modrinth.com/mod/gravestone-mod)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
+- [Milk-lib](https://github.com/TropheusJ/milk-lib)**
 
 ## Merged Upstream
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
