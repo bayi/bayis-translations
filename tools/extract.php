@@ -14,6 +14,8 @@ if (!is_dir('temp')) {
 } else exec('rm -rf temp/*');
 $command = "unzip '$filename' 'assets/*/lang/en_us.json' -d temp";
 exec($command, $output, $return_var);
+$command = "unzip '$filename' 'assets/*/lang/hu_hu.json' -d temp";
+exec($command, $output, $return_var);
 
 // first directory is the key
 $dir = new DirectoryIterator('temp/assets');
@@ -23,23 +25,23 @@ foreach ($dir as $fileinfo) {
         $keys[] = $fileinfo->getFilename();
     }
 }
-$key = $keys[0] ?? null;
 
-if (is_null($key)) {
-    echo "No keys found in the zip file.\n";
-    exit(1);
-}
+foreach($keys as $key) {
+  if (!is_dir("../originals/$key")) {
+      if (!mkdir("../originals/$key", 0755, true)) {
+          die('Failed to create directory');
+      }
+  }
 
-if (!is_dir("../originals/$key")) {
-    if (!mkdir("../originals/$key", 0755, true)) {
-        die('Failed to create directory');
+  $files = ['en_us.json', 'hu_hu.json'];
+  foreach($files as $file)
+  {
+    $source = "temp/assets/$key/lang/$file";
+    $destination = "../originals/$key/$file";
+    if (!rename($source, $destination)) {
+        echo('Failed to move file: ' . $file . PHP_EOL);
     }
-}
-
-$source = "temp/assets/$key/lang/en_us.json";
-$destination = "../originals/$key/en_us.json";
-if (!rename($source, $destination)) {
-    die('Failed to move file');
+  }
 }
 
 exec('rm -rf temp/*');
