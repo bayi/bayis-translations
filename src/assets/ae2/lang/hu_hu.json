@@ -86,7 +86,7 @@
   "ae2.rei_jei_integration.requires_processing_mode": "Feldolgozási mód szükséges",
   "ae2.rei_jei_integration.right_click": "Jobb kattintás",
   "ae2.rei_jei_integration.shift_right_click": "Shift+jobb kattintás",
-  "ae2.rei_jei_integration.silk_touch_prevents_decay_for_imperfect": "Gyengéd érintés megakadályozza a romlást a hibás kvarc rügyeknél.",
+  "ae2.rei_jei_integration.silk_touch_prevents_decay_for_imperfect": "Gyengéd érintés megakadályozza a romlást.",
   "ae2.rei_jei_integration.spatial_io_never_causes_any_decay": "Térbeli I/O sosem okoz romlást.",
   "ae2.rei_jei_integration.submerge_in": "Belemerítés",
   "ae2.rei_jei_integration.transform_category": "Világbeli Átalakítás",
