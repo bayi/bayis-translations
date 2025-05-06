@@ -5,6 +5,7 @@
 
 ## Done
 - [AE2](https://modrinth.com/mod/ae2)
+- [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals)
 - [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
 - [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled)
 - [Beautify](https://modrinth.com/mod/beautify)***
@@ -30,7 +31,6 @@
 
 ## WIP
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
-- [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) - wip, missing tooltips, advancements
 - [Delightful](https://modrinth.com/mod/delightful) - mostly done, check grammar, figure out what source berry is
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - mostly done, check grammar
 - [Handcrafted](https://modrinth.com/mod/handcrafted/) - mostly done, check grammar, fix casing, add untranslated keys
