@@ -40,6 +40,7 @@
 - [Milk-lib](https://github.com/TropheusJ/milk-lib)**
 - [Moonlight Lib](https://modrinth.com/mod/moonlight)
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
+- [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
 - [Shrink](https://modrinth.com/mod/shrink)
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
@@ -68,7 +69,6 @@
 
 ## Planned
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
-- [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
 - [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture)
 - [Macaw's Doors](https://modrinth.com/mod/macaws-doors)

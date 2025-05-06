@@ -46,6 +46,9 @@
 		 "block.mcwlights.dark_oak_tiki_torch":"Sötéttölgy tiki fáklya",
 		 "block.mcwlights.crimson_tiki_torch":"Karmazsin tiki fáklya",
 		 "block.mcwlights.warped_tiki_torch":"Torz tiki fáklya",
+		 "block.mcwlights.mangrove_tiki_torch":"Mangrovefa tiki fáklya",
+		 "block.mcwlights.bamboo_tiki_torch":"Bambusz tiki fáklya",
+		 "block.mcwlights.cherry_tiki_torch":"Cseresznyefa tiki fáklya",
 		 
 		 "block.mcwlights.soul_oak_tiki_torch":"Lélek tölgy tiki fáklya",
 		 "block.mcwlights.soul_spruce_tiki_torch":"Lélek fenyőfa tiki fáklya",
@@ -55,6 +58,26 @@
 		 "block.mcwlights.soul_dark_oak_tiki_torch":"Lélek sötéttölgy tiki fáklya",
 		 "block.mcwlights.soul_crimson_tiki_torch":"Lélek karmazsin tiki fáklya",
 		 "block.mcwlights.soul_warped_tiki_torch":"Lélek torz tiki fáklya",
+		 "block.mcwlights.soul_mangrove_tiki_torch":"Lélek mangrovefa tiki fáklya",
+		 "block.mcwlights.soul_bamboo_tiki_torch":"Lélek bamgusz tiki fáklya",
+		 "block.mcwlights.soul_cherry_tiki_torch":"Lélek cseresznyefa tiki fáklya",
+
+		 "block.mcwlights.white_paper_lamp":"Fehér papírlámpa",
+		 "block.mcwlights.light_gray_paper_lamp":"Világosszürke papírlámpa",
+		 "block.mcwlights.gray_paper_lamp":"Szürke papírlámpa",
+		 "block.mcwlights.black_paper_lamp":"Fekete papírlámpa",
+		 "block.mcwlights.brown_paper_lamp":"Barna papírlámpa",
+		 "block.mcwlights.red_paper_lamp":"Vörös papírlámpa",
+		 "block.mcwlights.orange_paper_lamp":"Narancssárga papírlámpa",
+		 "block.mcwlights.yellow_paper_lamp":"Sárga papírlámpa",
+		 "block.mcwlights.lime_paper_lamp":"Világoszöld papírlámpa",
+		 "block.mcwlights.green_paper_lamp":"Zöld papírlámpa",
+		 "block.mcwlights.cyan_paper_lamp":"Türkizkék papírlámpa",
+		 "block.mcwlights.light_blue_paper_lamp":"Világoskék papírlámpa",
+		 "block.mcwlights.blue_paper_lamp":"Kék papírlámpa",
+		 "block.mcwlights.purple_paper_lamp":"Lila papírlámpa",
+		 "block.mcwlights.magenta_paper_lamp":"Bíbor papírlámpa",
+		 "block.mcwlights.pink_paper_lamp":"Rózsaszín papírlámpa",
 		 
 		 "block.mcwlights.classic_street_lamp":"Utcai lámpa",
 		 "block.mcwlights.double_street_lamp":"Kettős utcai lámpa",
@@ -63,9 +86,75 @@
 		 "block.mcwlights.soul_double_street_lamp":"Lélek kettős utcai lámpa",
 		 
 		 "block.mcwlights.lava_lamp":"Lávalámpa",
+
+		 "block.mcwlights.striped_lantern":"Csíkos lámpás",
+		 "block.mcwlights.covered_lantern":"Fedett lámpás",
+		 "block.mcwlights.chain_lantern":"Láncos lámpás",
+		 "block.mcwlights.tavern_lantern":"Kocsmai lámpás",
+		 "block.mcwlights.festive_lantern":"Ünnepi lámpás",
+		 "block.mcwlights.cross_lantern":"Kereszt lámpás",
+		 "block.mcwlights.bell_lantern":"Harang lámpás",
 		 
-		 "block.mcwlights.garden_light":"Kerti lámpa"
+		 "block.mcwlights.wall_lantern":"Fali lámpás",
+		 "block.mcwlights.striped_wall_lantern":"Csíkos fali lámpás",
+		 "block.mcwlights.covered_wall_lantern":"Fedett fali lámpás",
+		 "block.mcwlights.chain_wall_lantern":"Láncos fali lámpás",
+		 "block.mcwlights.tavern_wall_lantern":"Kocsmai fali lámpás",
+		 "block.mcwlights.festive_wall_lantern":"Ünnepi fali lámpás",
+		 "block.mcwlights.cross_wall_lantern":"Kereszt fali lámpás",
+		 "block.mcwlights.bell_wall_lantern":"Harang fali lámpás",
 		 
-	                                                                          
+		 "block.mcwlights.framed_torch":"Keretes fáklya",
+		 "block.mcwlights.iron_framed_torch":"Vas keretes fáklya",
+		 "block.mcwlights.reinforced_torch":"Megerősített fáklya",
+		 "block.mcwlights.rustic_torch":"Falusi fáklya",
+		 "block.mcwlights.upgraded_torch":"Fejlesztett fáklya",
+		 
+		 "block.mcwlights.redstone_lamp_slab":"Redstone-lámpa lap",
+		 "block.mcwlights.glowstone_slab":"Izzókőlap",
+		 "block.mcwlights.shroomlight_slab":"Fényspóralap",
+		 "block.mcwlights.sea_lantern_slab":"Tengeri lámpás lap",
+		 
+		 "block.mcwlights.wall_lamp":"Fali lámpa",
+		 "block.mcwlights.square_wall_lamp":"Négyzet alakú fali lámpa",
+		 
+		 "block.mcwlights.garden_light":"Kerti lámpa",
+		 
+		 "block.mcwlights.oak_ceiling_fan_light":"Tölgyfa mennyezeti ventillátor lámpa",
+		 "block.mcwlights.spruce_ceiling_fan_light":"Fenyőfa mennyezeti ventillátor lámpa",
+		 "block.mcwlights.birch_ceiling_fan_light":"Nyírfa mennyezeti ventillátor lámpa",
+		 "block.mcwlights.jungle_ceiling_fan_light":"Dzsungelfa mennyezeti ventillátor lámpa",
+		 "block.mcwlights.acacia_ceiling_fan_light":"Akáciafa mennyezeti ventillátor lámpa",
+		 "block.mcwlights.dark_oak_ceiling_fan_light":"Sötéttölgy mennyezeti ventillátor lámpa",
+		 "block.mcwlights.crimson_ceiling_fan_light":"Karmazsin mennyezeti ventillátor lámpa",
+		 "block.mcwlights.warped_ceiling_fan_light":"Torz mennyezeti ventillátor lámpa",
+		 "block.mcwlights.mangrove_ceiling_fan_light":"Mangrovefa mennyezeti ventillátor lámpa",
+		 "block.mcwlights.cherry_ceiling_fan_light":"Cseresznyefa mennyezeti ventillátor lámpa",
+		 
+		 "block.mcwlights.golden_chain":"Aranylánc",
+		 "block.mcwlights.copper_chain":"Rézlánc",
+		 
+		 "block.mcwlights.golden_low_candle_holder":"Arany alacsony gyertyatartó",
+		 "block.mcwlights.golden_candle_holder":"Arany gyertyatartó",
+		 "block.mcwlights.golden_wall_candle_holder":"Arany fali gyertyatartó",
+		 "block.mcwlights.golden_double_candle_holder":"Arany dupla gyertyatartó",
+		 "block.mcwlights.golden_triple_candle_holder":"Arany tripla gyertyatartó",
+		 "block.mcwlights.golden_small_chandelier":"Arany kis csillár",
+		 "block.mcwlights.golden_chandelier":"Arany csillár",
+		 
+		 "block.mcwlights.copper_low_candle_holder":"Réz alacsony gyertyatartó",
+		 "block.mcwlights.copper_candle_holder":"Réz gyertyatartó",
+		 "block.mcwlights.copper_wall_candle_holder":"Réz fali gyertyatartó",
+		 "block.mcwlights.copper_double_candle_holder":"Réz dupla gyertyatartó",
+		 "block.mcwlights.copper_triple_candle_holder":"Réz tripla gyertyatartó",
+		 "block.mcwlights.copper_small_chandelier":"Réz kis csillár",
+		 "block.mcwlights.copper_chandelier":"Réz csillár",
+		 
+		 "block.mcwlights.iron_low_candle_holder":"Vas alacsony gyertyatartó",
+		 "block.mcwlights.iron_candle_holder":"Vas gyertyatartó",
+		 "block.mcwlights.iron_wall_candle_holder":"Vas fali gyertyatartó",
+		 "block.mcwlights.iron_double_candle_holder":"Vas dupla gyertyatartó",
+		 "block.mcwlights.iron_triple_candle_holder":"Vas tripla gyertyatartó",
+		 "block.mcwlights.iron_small_chandelier":"Vas kis csillár",
+		 "block.mcwlights.iron_chandelier":"Vas csillár"                                                                          
 	}
-	
