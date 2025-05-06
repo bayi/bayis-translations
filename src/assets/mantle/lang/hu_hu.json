@@ -1,0 +1,52 @@
+{
+  "mantle:tooltip.cooktime": "Főzés ideje: %ds",
+  "config.mantle.extraHeartRenderer": "Extra szívek renderelése",
+
+  "command.mantle.view_tag.success": "%s címke '%s' értékei:",
+
+  "command.mantle.tags_for.success": "%s címkék '%s'-hez:",
+  "command.mantle.tags_for.not_found": "Ismeretlen %s bejegyzés érték '%s'",
+  "command.mantle.tags_for.no_held_block": "A tartott tárgy nem blokk",
+  "command.mantle.tags_for.no_held_entity": "A tartott tárgy nem idézőtojás",
+  "command.mantle.tags_for.no_held_potion": "A tartott tárgy nem bájital",,
+  "command.mantle.tags_for.no_held_fluid": "Nem lehet folyadékot kinyerni a tartott tárgyból",
+  "command.mantle.tags_for.no_held_enchantment": "A tartott tárgy nem elvarázsolt",
+  "command.mantle.tags_for.no_targeted_entity": "Nincs entitás a közelben",
+  "command.mantle.tags_for.no_targeted_block_entity": "Nincs blokk entitás a közelben",
+  "command.mantle.tags_for.no_tags": "Nincsenek címkék",
+  "command.mantle.book_test.not_found": "Ismeretlen könyv ID: '%s'",
+  "command.mantle.book.export.success": "Könyv képek exportálva: '%s'",
+  "command.mantle.book.export.error_generic": "Nem sikerült exportálni a könyv képeit, lásd a naplót a részletekhez",
+  "command.mantle.book.export.error_io": "Nem sikerült létrehozni a könyv képeinek könyvtárát '%s'",
+
+  "command.mantle.dump_tag.success": "Kombinált %s címke '%s' kiírása a konzolnaplóba",
+  "command.mantle.dump_tag.read_error": "Hiba történt a %s címke '%s' olvasásakor:",
+  "command.mantle.dump_tag.success_log": "Kombinált %s címke '%s' kiírása '%s'-be",
+  "command.mantle.dump_all_tags.success": "Minden címke kiírása '%s'-be",
+  "command.mantle.dump_all_tags.type_success": "Minden címke kiírva '%s'-be",
+
+  "command.mantle.dump_loot_modifiers.success_log": "Kombinált globális loot módosítók kiírása a konzolnaplóba",
+  "command.mantle.dump_loot_modifiers.success_save": "Kombinált globális loot módosítók kiírása '%s'-be",
+  "command.mantle.dump_loot_modifiers.read_error": "Hiba történt a globális loot módosítók olvasásakor",
+
+  "command.mantle.harvest_tiers.success_log": "Rendezett szintek kiírása a konzolnaplóba",
+  "command.mantle.harvest_tiers.success_save": "Rendezett szintek kiírása '%s'-be",
+  "command.mantle.harvest_tiers.success_list": "Aratás szintek:",
+  "command.mantle.harvest_tiers.tag": "%s: blokk címke %s",
+  "command.mantle.harvest_tiers.no_tag": "%s: nincs címke",
+
+  "command.mantle.tag.empty": "Üres",
+  "command.mantle.registry.not_found": "Ismeretlen bejegyzés '%s'",
+  "command.mantle.tag.not_found": "Ismeretlen %s címke '%s'",
+
+  "command.mantle.tag_preference.empty_tag": "Nincs preferencia %s címkéhez %s",
+  "command.mantle.tag_preference.preference": "Preferált érték %s címkéhez %s: %s",
+
+  "gui.mantle.fluid.hold_shift": "§e§oShift§r§7 a merítéshez",
+  "gui.mantle.fluid.kilobucket": "%s kb",
+  "gui.mantle.fluid.bucket": "%s b",
+  "gui.mantle.fluid.millibucket": "%s mb",
+
+  "block.mantle.tank.drained": "Lecsaplva %s mb %s",
+  "block.mantle.tank.filled": "Feltöltve %s mb %s"
+}

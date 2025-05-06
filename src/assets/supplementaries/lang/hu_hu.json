@@ -330,11 +330,11 @@
   "globe.supplementaries.moon": "Hold",
   "globe.supplementaries.sun": "Nap",
 
-  "gui.supplementaries.amendments.message": "As of update 2.8.0 some of Supplementaries features in the Tweaks section were moved to a dedicated mod, Amendments.\n\n The mods are meant to function separately, but if you wish to keep all the already-existing old blocks you must install Amendments.\n\n The features moved are the following: WALL LANTERNS, SKULL CANDLES, CEILING POTS, CEILING BANNERS and SKULL PILES. \n\nNote that if you proceed without it, all those existing blocks will be lost.",
+  "gui.supplementaries.amendments.message": "A 2.8.0 frissítéstől kezdve a Supplementaries funkciók egy része a Tweaks szekcióban egy külön modba, az Amendments-be került.\n\nA modok külön-külön is működnek, de ha meg szeretnéd tartani az összes már meglévő régi blokkot, akkor telepítened kell az Amendments-t.\n\nA következő funkciók kerültek át: FALI LÁMPÁSOK, KOPONYA GYERTYÁK, MENNYEZETI EDÉNYEK, MENNYEZETI ZÁSZLÓK és KOPONYAHALMAZOK. \n\nNe feledd, hogy ha nélküle folytatod, akkor ezek a meglévő blokkok elvesznek.",
   "gui.supplementaries.amendments.suggestions": "INNEN beszerezheted a modot",
   "gui.supplementaries.amendments.title": "Figyelem: Amendments nincs telepítve",
-  "gui.supplementaries.incompatible_mods.title": "Warning: Incompatible mods found",
-  "gui.supplementaries.incompatible_mods.message": "Supplementaries has detected the following mods that are known to cause crashes:\n\n %s\n\nThese issues are not fixable by supplementaries as they are from these mods instead.\nPlease remove them or be advised of random crashes. If you think this issue has been solve please contact us instead.",
+  "gui.supplementaries.incompatible_mods.title": "Figyelem: Inkompatibilis modok",
+  "gui.supplementaries.incompatible_mods.message": "Supplementaries észlelte a következő inkompatibilis modokat:\n\n %s\n\nEzek a problémák nem javíthatók a Supplementaries által, mivel ezek a modok okozzák őket.\nKérjük távolítsd el őket vagy számíts véletlenszerű összeomlásokra. Ha úgy gondolod, hogy ez a probléma megoldódott, kérjük lépj kapcsolatba velünk.",
 
 
 
@@ -346,7 +346,7 @@
   "gui.supplementaries.doormat": "Lábtörlő",
   "gui.supplementaries.doormat.edit": "Lábtörlő üzenet szerkesztése",
   "gui.supplementaries.notice_board": "Hirdetőtábla",
-  "gui.supplementaries.optifine.message": "Before proceeding, please note that Optifine is known to cause issues and crashes.\n\n The mod is not suited for the modded environment and has had many instances of terrible compatibility even with Forge itself.\n\n Moreover, in terms of performance, way better and extremely more performant alterantives exist such as Modern fix, Embeddium as well as Oculus for shaders. \n\nWhether you play modded or vanilla, you should always use the mods listed here below instead.",
+  "gui.supplementaries.optifine.message": "Mielőtt folytatod, kérjük vedd figyelembe, hogy az Optifine ismert, hogy problémákat és összeomlásokat okoz.\n\n A mod nem alkalmas a modolt környezetre, és sok esetben borzalmas kompatibilitási problémái voltak még a Forge-zsal is.\n\n Ezen kívül teljesítmény szempontjából sokkal jobb és rendkívül teljesítményorientált alternatívák léteznek, mint például a Modern fix, Embeddium és az Oculus a shaderekhez. \n\nAkár modolt, akár sima játékot játszol, mindig ezeket a javasolt modokat érdemes használnod helyette.",
   "gui.supplementaries.optifine.suggestions": "Itt egy mod lista a javasolt alternatívákról.",
   "gui.supplementaries.optifine.title": "FIGYELEM: OPTIFINE TALÁLVA",
   "gui.supplementaries.orange_trader.get": "Én kapok:",
@@ -555,8 +555,8 @@
   "supplementaries.display_source.world_position": "Világ pozíció",
   "supplementaries.gui.controls": "Supplementaries",
   "supplementaries.keybind.quiver": "Tegez",
-  "supplementaries.virtual_resourcepack.description": "dynamic runtime resources",
-  "supplementaries.virtual_resourcepack.title": "Virtual Resourcepack",
+  "supplementaries.virtual_resourcepack.description": "dinamikus futásidőbeli erőforrások",
+  "supplementaries.virtual_resourcepack.title": "virtuális forráscsomag",
 
   "config.jade.plugin_supplementaries.hat_stand": "Álló fogas",
 
@@ -564,18 +564,18 @@
   "trinkets.slot.legs.key": "Kulcs",
   "trinkets.slot.legs.quiver": "Tegez",
 
-  "leaves_type.twilightforest.dark": "Darkwood",
-  "leaves_type.ulterlands.souldrained": "Petrified",
+  "leaves_type.twilightforest.dark": "Sötétfa",
+  "leaves_type.ulterlands.souldrained": "Megkövesedett",
 
   "block_type.supplementaries.hanging_sign": "Függőtábla",
   "block_type.supplementaries.sign_post": "Jelzőtábla",
 
   "wood_type.domum_ornamentum.cactus": "Zöld kaktusz",
   "wood_type.domum_ornamentum.cactus_extra": "Kaktusz",
-  "wood_type.twilightforest.dark": "Darkwood",
-  "wood_type.twilightforest.sorting": "Sortingwood",
-  "wood_type.twilightforest.time": "Timewood",
-  "wood_type.twilightforest.trans": "Transwood",
+  "wood_type.twilightforest.dark": "Sötétfa",
+  "wood_type.twilightforest.sorting": "Rendezőfa",
+  "wood_type.twilightforest.time": "Időfa",
+  "wood_type.twilightforest.trans": "Átmenetfa",
 
 
   "commands.supplementaries.registry.error.unknown_registry": "Ismeretlen jegyzék '%s'",

@@ -33,7 +33,10 @@
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
 - [Lollipop](https://github.com/owmii/Lollipop)
+- [Mantle](https://modrinth.com/mod/mantle)
+- [McJtyLib](https://modrinth.com/mod/mcjtylib)
 - [Milk-lib](https://github.com/TropheusJ/milk-lib)**
+- [Moonlight Lib](https://modrinth.com/mod/moonlight)
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
 - [Shrink](https://modrinth.com/mod/shrink)
