@@ -25,6 +25,7 @@
 - [Curos API](https://modrinth.com/mod/curios)
 - [Factory Blocks](https://modrinth.com/mod/factory-blocks)
 - [FlightLib](https://github.com/PssbleTrngle/FlightLib)
+- [Geckolib](https://modrinth.com/mod/geckolib)
 - [Gravestone Mod](https://modrinth.com/mod/gravestone-mod)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
