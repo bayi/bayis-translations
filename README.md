@@ -10,6 +10,7 @@
 - [Almost Unified](https://modrinth.com/mod/almost-unified/)
 - [Ammendments](https://modrinth.com/mod/amendments)
 - [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled)
+- [Balm](https://modrinth.com/mod/balm/)
 - [Beautify](https://modrinth.com/mod/beautify)***
 - [Chipped](https://modrinth.com/mod/chipped)*
 - [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
