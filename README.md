@@ -23,7 +23,9 @@
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
 - [Create Deco](https://modrinth.com/mod/create-deco)*
 - [Curos API](https://modrinth.com/mod/curios)
+- [Entity Culling](https://modrinth.com/mod/entityculling/)
 - [Factory Blocks](https://modrinth.com/mod/factory-blocks)
+- [Fusion](https://modrinth.com/mod/fusion-connected-textures)
 - [FlightLib](https://github.com/PssbleTrngle/FlightLib)
 - [Geckolib](https://modrinth.com/mod/geckolib)
 - [Gravestone Mod](https://modrinth.com/mod/gravestone-mod)
