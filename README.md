@@ -12,6 +12,7 @@
 - [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled)
 - [Balm](https://modrinth.com/mod/balm/)
 - [Beautify](https://modrinth.com/mod/beautify)***
+- [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
 - [Caelus API](https://modrinth.com/mod/caelus)
 - [Carry On](https://modrinth.com/mod/carry-on)
@@ -66,7 +67,6 @@
 
 ## Planned
 - [Create: Power Loader](https://modrinth.com/mod/create-power-loader)
-- [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
