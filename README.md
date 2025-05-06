@@ -53,7 +53,7 @@
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
 - [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
 - [Jade](https://modrinth.com/mod/jade) - strong wip, missing keys, untranslated keys, extra keys
-- [Just Enough Items](https://modrinth.com/mod/jei/) - wip, mismatched keys
+- [Just Enough Items](https://modrinth.com/mod/jei/) - mostly done, check grammar 
 - [Lootr](https://modrinth.com/mod/lootr) - wip, a few untranslated keys, check grammar
 - [Naturalist](https://modrinth.com/mod/naturalist/) - wip, new keys, check grammar
 - [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture) - wip, untranslated keys, check grammar
