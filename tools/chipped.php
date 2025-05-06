@@ -383,6 +383,7 @@ $chippedModifiers = [
   'tropics' => 'trópusi',
   'top' => 'teteje',
   'tubed' => 'tubusos',
+  'tube' => 'tubusos',
   'twisted' => 'tekert',
   'umbrella' => 'ernyős',
   'unamused' => 'szórakozatlan',
