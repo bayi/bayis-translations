@@ -43,15 +43,15 @@
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
 
 ## WIP
-- [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
 - [Delightful](https://modrinth.com/mod/delightful) - mostly done, check grammar, figure out what source berry is
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - mostly done, check grammar
 - [Handcrafted](https://modrinth.com/mod/handcrafted/) - mostly done, check grammar, fix casing, add untranslated keys
+- [MEGA Cells](https://modrinth.com/mod/mega) - mostly done, a few missing new keys, check grammar
+- [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
 - [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
 - [Jade](https://modrinth.com/mod/jade) - strong wip, missing keys, untranslated keys, extra keys
 - [Just Enough Items](https://modrinth.com/mod/jei/) - wip, mismatched keys
 - [Lootr](https://modrinth.com/mod/lootr) - wip, a few untranslated keys, check grammar
-- [MEGA Cells](https://modrinth.com/mod/mega) - mostly done, a few missing new keys, check grammar
 - [Naturalist](https://modrinth.com/mod/naturalist/) - wip, new keys, check grammar
 - [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture) - wip, untranslated keys, check grammar
 - [Powah](https://modrinth.com/mod/powah) - strong wip, check grammar
