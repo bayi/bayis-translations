@@ -6,7 +6,7 @@
     "item.mcwbridges.pliers": "Fogó",
     "block.mcwbridges.bridge_torch": "Hídfáklya",
     "block.mcwbridges.bridge_lantern": "Hídlámpás",
-    "mcwbridges.pliers.desc": "Jobb klikk egy hídon, hogy bejáratot készíts, csak 2 vagy annál szélesebb hidakon működik",
+    "mcwbridges.pliers.desc": "Jobb kattintás egy hídon, hogy bejáratot készíts, csak 2 vagy annál szélesebb hidakon működik",
     "mcwbridges.bridges.desc": "Használj fogót vagy ollót a bejárat beállításához",
     "mcwbridges.light.desc": "Használd hidak vagy lépcsők korlátjain",
     

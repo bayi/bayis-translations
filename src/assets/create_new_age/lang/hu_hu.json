@@ -152,7 +152,7 @@
   "create_new_age.ponder.motor.text_1": "A motorok elektromosságot használnak a forgás generálására.",
   "create_new_age.ponder.motor.text_2": "Beállíthatod a sebességét egy csavarkulccsal, azonban a kimeneti SU mennyisége ugyanaz marad.",
   "create_new_age.ponder.motor.text_3": "Redstone jel segítségével kikapcsolhatod a motort.",
-  "create_new_age.ponder.motor.text_4": "Ezt megfordíthatod a motorra való jobb klikkeléssel.",
+  "create_new_age.ponder.motor.text_4": "Ezt megfordíthatod a motorra való jobb kattintással.",
   
   "create_new_age.ponder.motor_extension.header": "Motor kiegészítők",
   "create_new_age.ponder.motor_extension.text_1": "Unod, hogy a motorjaid túlterhelődnek? Használj motor kiegészítőt!",

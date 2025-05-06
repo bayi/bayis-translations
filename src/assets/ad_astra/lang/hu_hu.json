@@ -770,7 +770,7 @@
   "tooltip.ad_astra.capacitor.enabled": "Kondenzátor bekapcsolva",
   "tooltip.ad_astra.change_mode.round_robin": "Set capacitor mode to \"Round Robin\"",
   "tooltip.ad_astra.change_mode.sequential": "Set capacitor mode to \"Sequential\"",
-  "tooltip.ad_astra.clear_fluid_tank": "Shift-jobb-klikk a törléshez",
+  "tooltip.ad_astra.clear_fluid_tank": "Shift+jobb kattintás a törléshez",
   "tooltip.ad_astra.construct_space_station_at": "Űrállomás építése itt: %s [%s, %s]",
   "tooltip.ad_astra.construction_cost": "Építési költség:",
   "tooltip.ad_astra.distribution_mode.round_robin": "Round Robin",

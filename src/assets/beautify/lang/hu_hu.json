@@ -10,13 +10,13 @@
 
 	"block.beautify.hanging_pot": "Függő cserép",
 	"hanging_pot.description1": "Lelógatható blokkokról vagy lehelyezhető Kötélre vagy a földre mint általában.",
-	"hanging_pot.description2": "Jobb klikk egy növénnyel az ültetéshez.",
-	"hanging_pot.description3": "Jobb klikk Csontliszttel a növény további növesztéséhez. Vágd le ollóval a növényt, hogy lerövidítsd és megkapd a növény tárgyat.",
+	"hanging_pot.description2": "Jobb kattintás egy növénnyel az ültetéshez.",
+	"hanging_pot.description3": "Jobb kattintás Csontliszttel a növény további növesztéséhez. Vágd le ollóval a növényt, hogy lerövidítsd és megkapd a növény tárgyat.",
 	"hanging_pot.list1": "Ültethető növények:",
 	"hanging_pot.list2": "Bármilyen virág, valamint: Rózsabokrok, Orginák, Bazsarózsák, Napraforgók, Indák, Keserves indák, Tekergő indák, Fénylő zúzmó, Fényszeder, Édes bogyók, Fű, Páfrány",
 
 	"block.beautify.bookstack": "Könyvrakás",
-	"bookstack.description1": "Shift-jobb klikk a blokkra a rendezéshez.",
+	"bookstack.description1": "Shift+jobb kattintás a blokkra a rendezéshez.",
 	"bookstack.description2": "Növeli a Varázslóasztal hatalmát.",
 
 	"block.beautify.oak_picture_frame": "Tölgyfa képkeret",
@@ -30,20 +30,20 @@
 	"block.beautify.mangrove_picture_frame": "Mangrovefa képkeret",
 	"block.beautify.quartz_picture_frame": "Kvarc képkeret",
 	"frame.description1": "Képkeret elhelyezése véletlenszerű motívummal.",
-	"frame.description2": "Shift-jobb klikk a blokkra a kép megváltoztatásához.",
+	"frame.description2": "Shift+jobb kattintás a blokkra a kép megváltoztatásához.",
 
 	"block.beautify.lamp_light_bulb": "Villanykörte",
 	"light_bulb.description1": "Lelógatható vagy lehelyezhető mint a Lámpások.",
-	"light_bulb.description2": "Jobb klikk a ki/bekapcsoláshoz.",
+	"light_bulb.description2": "Jobb kattintás a ki/bekapcsoláshoz.",
 
 	"block.beautify.lamp_bamboo": "Bambuszlámpa",
 	"bamboo_lamp.description1": "Lelógatható vagy lehelyezhető mint a Lámpások.",
-	"bamboo_lamp.description2": "Jobb klikk a ki/bekapcsoláshoz.",
+	"bamboo_lamp.description2": "Jobb kattintás a ki/bekapcsoláshoz.",
 
 	"block.beautify.lamp_jar": "Izzókőesszencia-lámpa",
 	"glowstone_essence_lamp.description1": "Lelógatható vagy lehelyezhető mint a Lámpások.",
-	"glowstone_essence_lamp.description2": "Jobb klikk Izzókőporral a feltöltéshez.",
-	"glowstone_essence_lamp.description3": "Jobb klikk kézzel a kiürítéshez.",
+	"glowstone_essence_lamp.description2": "Jobb kattintás Izzókőporral a feltöltéshez.",
+	"glowstone_essence_lamp.description3": "Jobb kattintás kézzel a kiürítéshez.",
 
 	"block.beautify.lamp_candelabra": "Kandeláber",
 	"block.beautify.lamp_candelabra_light_blue": "Világoskék kandeláber",
@@ -63,8 +63,8 @@
 	"block.beautify.lamp_candelabra_white": "Fehér kandeláber",
 	"block.beautify.lamp_candelabra_yellow": "Sárga kandeláber",
 	"candelabra.description1": "Lelógatható vagy lehelyezhető mint a Lámpások.",
-	"candelabra.description2": "Jobb klikk kézzel a ki/bekapcsoláshoz.",
-	"candelabra.description3": "Jobb klikk Kovakő és acéllal a bekapcsoláshoz.",
+	"candelabra.description2": "Jobb kattintás kézzel a ki/bekapcsoláshoz.",
+	"candelabra.description3": "Jobb kattintás Kovakő és acéllal a bekapcsoláshoz.",
 
 	"block.beautify.oak_blinds": "Tölgyfa redőny",
 	"block.beautify.spruce_blinds": "Fenyőfa redőny",
@@ -76,7 +76,7 @@
 	"block.beautify.warped_blinds": "Torz redőny",
 	"block.beautify.mangrove_blinds": "Mangrovefa redőny",
 	"block.beautify.iron_blinds": "Vas redőny",
-	"blinds.description1": "Jobb klikk a blokkra a redőny és a szomszédos redőnyök kinyitásához vagy becsukásához.",
+	"blinds.description1": "Jobb kattintás a blokkra a redőny és a szomszédos redőnyök kinyitásához vagy becsukásához.",
 	"blinds.description2": "Az első becsukás után a legfelső redőny alatti redőnyök láthatatlanná válnak, amikor nyitva vannak.",
 
 	"block.beautify.oak_trellis": "Tölgyfa rács",
@@ -89,7 +89,7 @@
 	"block.beautify.crimson_trellis": "Karmazsin rács",
 	"block.beautify.warped_trellis": "Torz rács",
 	"trellis.description1": "Lehelyezhető falként, falakra vagy a mennyezetre. Megmászható.",
-	"trellis.description2": "Jobb klikk egy növénnyel a behelyezéshez.",
+	"trellis.description2": "Jobb kattintás egy növénnyel a behelyezéshez.",
 	"trellis.list1": "Behelyezhető növények:",
 	"trellis.list2": "Rózsabokrok, Napraforgók, Bazsarózsák, Orgonák, Indák, Keserves indák, Tekergő indák, Fénylő zúzmó",
 
