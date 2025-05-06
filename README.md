@@ -14,6 +14,7 @@
 - [Beautify](https://modrinth.com/mod/beautify)***
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
 - [Caelus API](https://modrinth.com/mod/caelus)
+- [Carry On](https://modrinth.com/mod/carry-on)
 - [Chipped](https://modrinth.com/mod/chipped)*
 - [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/)
