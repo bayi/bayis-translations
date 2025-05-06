@@ -66,6 +66,7 @@
 - [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals/) - wip, a few untranslated keys
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map/) - wip, untranslated keys
 - [XNet](https://modrinth.com/mod/xnet) - wip, untranslated keys
+- [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer) - wip
 
 ## Planned
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
