@@ -21,6 +21,7 @@
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/)
 - [Create Jetpack](https://modrinth.com/mod/create-jetpack)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
+- [Create: Power Loader](https://modrinth.com/mod/create-power-loader)
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
 - [Create Deco](https://modrinth.com/mod/create-deco)*
 - [Curos API](https://modrinth.com/mod/curios)
@@ -66,7 +67,6 @@
 - [XNet](https://modrinth.com/mod/xnet) - wip, untranslated keys
 
 ## Planned
-- [Create: Power Loader](https://modrinth.com/mod/create-power-loader)
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)

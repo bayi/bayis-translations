@@ -292,16 +292,16 @@
 	"createaddition.display_source.accumulator.display": "Válassz egy opciót:",
 
 	"createaddition.ponder.pei_transfer.header": "Szerkezet energiacsere",
-	"createaddition.ponder.pei_transfer.text_1": "Akkumulátorok a mozgó szerkezeteken nem csatlakozhatnak a statikus csatlakozókhoz.",
+	"createaddition.ponder.pei_transfer.text_1": "Akkumulátorok a mozgó szerkezeteken nem csatlakozhatnak a álló csatlakozókhoz.",
 	"createaddition.ponder.pei_transfer.text_2": "Ez az alkatrész képes kölcsönhatásba lépni az Akkumulátorokkal anélkül, hogy meg kellene állítani a szerkezetet.",
 	"createaddition.ponder.pei_transfer.text_3": "Helyezd le a másodikat egy 1 vagy 2 blokknyi távolságra",
 	"createaddition.ponder.pei_transfer.text_4": "Akárhányszor elhaladnak egymás mellett, kapcsolatba lépnek",
-	"createaddition.ponder.pei_transfer.text_5": "Ha csatlakoztak a statikus interfész a szerkezeten lévő összes Akkumulátort eléri",
+	"createaddition.ponder.pei_transfer.text_5": "Ha csatlakoztak az álló interfész a szerkezeten lévő összes Akkumulátort eléri",
 	"createaddition.ponder.pei_transfer.text_6": "Energia most már a csatlakozó Tól/Húz konfigurációja szerint cserélhető...",
 	"createaddition.ponder.pei_transfer.text_7": "Miután nincs energia csere egy ideig, a szerkezet folytatja az útját.",
 
 	"createaddition.ponder.pei_redstone.header": "Redstone vezérlés",
-	"createaddition.ponder.pei_redstone.text_1": "A redstone jel megakadályozza a statikus interfész bekapcsolását.",
+	"createaddition.ponder.pei_redstone.text_1": "A redstone jel megakadályozza az álló interfész bekapcsolását.",
 
 	"createaddition.schedule.condition.energy_threshold": "Energia rakomány állapota",
 	"createaddition.schedule.condition.threshold.unit": "K⚡",
