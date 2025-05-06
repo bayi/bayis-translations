@@ -11,8 +11,9 @@
 - [Ammendments](https://modrinth.com/mod/amendments)
 - [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled)
 - [Balm](https://modrinth.com/mod/balm/)
-- [Better Advancements](https://modrinth.com/mod/better-advancements)
 - [Beautify](https://modrinth.com/mod/beautify)***
+- [Better Advancements](https://modrinth.com/mod/better-advancements)
+- [Caelus API](https://modrinth.com/mod/caelus)
 - [Chipped](https://modrinth.com/mod/chipped)*
 - [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/)
