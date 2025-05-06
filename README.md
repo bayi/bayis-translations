@@ -27,6 +27,7 @@
 - [FlightLib](https://github.com/PssbleTrngle/FlightLib)
 - [Geckolib](https://modrinth.com/mod/geckolib)
 - [Gravestone Mod](https://modrinth.com/mod/gravestone-mod)
+- [GuideME](https://modrinth.com/mod/guideme)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
 - [Lollipop](https://github.com/owmii/Lollipop)
