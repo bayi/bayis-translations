@@ -1,6 +1,8 @@
 <?php
 include_once 'utils.php';
 
+// Inventory => Felszerelés
+
 $colors = [
   'light blue' => 'világoskék',
   'light gray' => 'világosszürke',
