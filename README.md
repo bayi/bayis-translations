@@ -11,6 +11,7 @@
 - [Ammendments](https://modrinth.com/mod/amendments)
 - [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled)
 - [Balm](https://modrinth.com/mod/balm/)
+- [Better Advancements](https://modrinth.com/mod/better-advancements)
 - [Beautify](https://modrinth.com/mod/beautify)***
 - [Chipped](https://modrinth.com/mod/chipped)*
 - [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
