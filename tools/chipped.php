@@ -461,6 +461,7 @@ $fixes = [
   'szövőszék asztal' => 'szövőszék',
   'zúzottkő tégla' => 'zúzottkőtégla',
   'kvarcblokk blokk' => 'kvarcblokk',
+  'leaded' => 'ólmozott',
 ];
 
 $data = processFile(
