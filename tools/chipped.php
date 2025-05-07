@@ -465,6 +465,9 @@ $fixes = [
   'burning' => 'égő',
   'gomba trio' => 'gomba-trió',
   'side' => 'oldala',
+  'autumnkin' => 'ősztök',
+  'lumpkin' => 'bütyköstök',
+  'pimpkin' => 'pompástök'
 ];
 
 $data = processFile(
