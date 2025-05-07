@@ -39,6 +39,7 @@
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
 - [Lollipop](https://github.com/owmii/Lollipop)
+- [Lootr](https://modrinth.com/mod/lootr)
 - [Mantle](https://modrinth.com/mod/mantle)
 - [McJtyLib](https://modrinth.com/mod/mcjtylib)
 - [Milk-lib](https://github.com/TropheusJ/milk-lib)**
@@ -54,7 +55,6 @@
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
 - [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
 - [Jade](https://modrinth.com/mod/jade) - strong wip, missing keys, untranslated keys, extra keys
-- [Lootr](https://modrinth.com/mod/lootr) - wip, a few untranslated keys, check grammar
 - [Naturalist](https://modrinth.com/mod/naturalist/) - wip, new keys, check grammar
 - [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture) - wip, untranslated keys, check grammar
 - [Powah](https://modrinth.com/mod/powah) - strong wip, check grammar
