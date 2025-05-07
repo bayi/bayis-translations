@@ -55,7 +55,7 @@
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
 - [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
 - [Jade](https://modrinth.com/mod/jade) - strong wip, missing keys, untranslated keys, extra keys
-- [Naturalist](https://modrinth.com/mod/naturalist/) - wip, new keys, check grammar
+- [Naturalist](https://modrinth.com/mod/naturalist/) - wip, configs missing 
 - [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture) - wip, untranslated keys, check grammar
 - [Powah](https://modrinth.com/mod/powah) - strong wip, check grammar
 - [RFTools Base](https://modrinth.com/mod/rftools-base) - wip, untranslated keys
