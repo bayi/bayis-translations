@@ -1,7 +1,21 @@
 # Hungarian translations / Magyar fordítások
 
-## Merged Upstream (Removed from resoure pack)
-- [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
+## WIP
+- [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
+- [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
+- [Jade](https://modrinth.com/mod/jade) - strong wip, missing keys, untranslated keys, extra keys
+- [Naturalist](https://modrinth.com/mod/naturalist/) - wip, configs missing 
+- [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture) - wip, untranslated keys, check grammar
+- [Powah](https://modrinth.com/mod/powah) - strong wip, check grammar
+- [RFTools Base](https://modrinth.com/mod/rftools-base) - wip, untranslated keys
+- [RFTools Dimensions](https://modrinth.com/mod/rftools-dimensions/) - wip, untranslated keys
+- [RFTools Utility](https://modrinth.com/mod/rftools-utility/) - wip, untranslated keys
+- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) - wip, untranslated keys
+- [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) - wip, huge mod, untranslated keys
+- [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals/) - wip, a few untranslated keys
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map/) - wip, untranslated keys
+- [XNet](https://modrinth.com/mod/xnet) - wip, untranslated keys
+- [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer) - wip
 
 ## Done
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals)
@@ -51,22 +65,8 @@
 - [Shrink](https://modrinth.com/mod/shrink)
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
 
-## WIP
-- [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
-- [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
-- [Jade](https://modrinth.com/mod/jade) - strong wip, missing keys, untranslated keys, extra keys
-- [Naturalist](https://modrinth.com/mod/naturalist/) - wip, configs missing 
-- [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture) - wip, untranslated keys, check grammar
-- [Powah](https://modrinth.com/mod/powah) - strong wip, check grammar
-- [RFTools Base](https://modrinth.com/mod/rftools-base) - wip, untranslated keys
-- [RFTools Dimensions](https://modrinth.com/mod/rftools-dimensions/) - wip, untranslated keys
-- [RFTools Utility](https://modrinth.com/mod/rftools-utility/) - wip, untranslated keys
-- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) - wip, untranslated keys
-- [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) - wip, huge mod, untranslated keys
-- [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals/) - wip, a few untranslated keys
-- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map/) - wip, untranslated keys
-- [XNet](https://modrinth.com/mod/xnet) - wip, untranslated keys
-- [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer) - wip
+## Merged Upstream (Removed from resoure pack)
+- [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
 
 ## Planned
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
@@ -90,3 +90,4 @@
 ***: Has untranslatable strings: 
 - Beautify: Advancements can not be translated
 - Create Craft & Additions: Some item description tooltips are not translatable
+
