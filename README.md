@@ -28,6 +28,7 @@
 - [Delightful](https://modrinth.com/mod/delightful)
 - [Entity Culling](https://modrinth.com/mod/entityculling/)
 - [Factory Blocks](https://modrinth.com/mod/factory-blocks)
+- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
 - [Fusion](https://modrinth.com/mod/fusion-connected-textures)
 - [FlightLib](https://github.com/PssbleTrngle/FlightLib)
 - [Geckolib](https://modrinth.com/mod/geckolib)
@@ -49,7 +50,6 @@
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
 
 ## WIP
-- [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - mostly done, check grammar
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
 - [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
 - [Jade](https://modrinth.com/mod/jade) - strong wip, missing keys, untranslated keys, extra keys
