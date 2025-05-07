@@ -25,6 +25,7 @@
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
 - [Create Deco](https://modrinth.com/mod/create-deco)*
 - [Curos API](https://modrinth.com/mod/curios)
+- [Delightful](https://modrinth.com/mod/delightful)
 - [Entity Culling](https://modrinth.com/mod/entityculling/)
 - [Factory Blocks](https://modrinth.com/mod/factory-blocks)
 - [Fusion](https://modrinth.com/mod/fusion-connected-textures)
@@ -48,7 +49,6 @@
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
 
 ## WIP
-- [Delightful](https://modrinth.com/mod/delightful) - mostly done, check grammar, figure out what source berry is
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - mostly done, check grammar
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
 - [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
