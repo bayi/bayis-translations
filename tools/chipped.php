@@ -462,6 +462,9 @@ $fixes = [
   'zúzottkő tégla' => 'zúzottkőtégla',
   'kvarcblokk blokk' => 'kvarcblokk',
   'leaded' => 'ólmozott',
+  'burning' => 'égő',
+  'gomba trio' => 'gomba-trió',
+  'side' => 'oldala',
 ];
 
 $data = processFile(
