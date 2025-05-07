@@ -139,8 +139,8 @@
   "jei.key.combo.command": "CMD + %s",
   "jei.key.combo.alt": "ALT + %s",
   "jei.key.shift": "SHIFT",
-  "jei.key.mouse.left": "KLIKK",
-  "jei.key.mouse.right": "JOBB-KLIKK",
+  "jei.key.mouse.left": "KATTINTÁS",
+  "jei.key.mouse.right": "JOBB-KATTINTÁS",
 
   "_comment": "DEBUG (for debug mode, do not need translation)",
   "description.jei.wooden.door.1": "Fa ajtók megakadályozzák a szörnyek bejutását az épületedbe.\\nTesztelési mondatok.",

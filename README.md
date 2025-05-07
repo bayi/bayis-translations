@@ -32,6 +32,7 @@
 - [Geckolib](https://modrinth.com/mod/geckolib)
 - [Gravestone Mod](https://modrinth.com/mod/gravestone-mod)
 - [GuideME](https://modrinth.com/mod/guideme)
+- [Handcrafted](https://modrinth.com/mod/handcrafted/)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
 - [Lollipop](https://github.com/owmii/Lollipop)
@@ -49,7 +50,6 @@
 ## WIP
 - [Delightful](https://modrinth.com/mod/delightful) - mostly done, check grammar, figure out what source berry is
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) - mostly done, check grammar
-- [Handcrafted](https://modrinth.com/mod/handcrafted/) - mostly done, check grammar, fix casing, add untranslated keys
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
 - [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
 - [Jade](https://modrinth.com/mod/jade) - strong wip, missing keys, untranslated keys, extra keys
