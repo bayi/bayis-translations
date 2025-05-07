@@ -133,22 +133,22 @@
 
 
 
-  "item.minecraft.tipped_arrow.effect.forest_dasher": "Arrow of the Forest Dasher",
-  "item.minecraft.potion.effect.forest_dasher": "Potion of the Forest Dasher",
-  "item.minecraft.splash_potion.effect.forest_dasher": "Splash Potion of the Forest Dasher",
-  "item.minecraft.lingering_potion.effect.forest_dasher": "Lingering Potion of the Forest Dasher",
-  "item.minecraft.tipped_arrow.effect.glowing": "Arrow of Glowing",
-  "item.minecraft.potion.effect.glowing": "Potion of Glowing",
-  "item.minecraft.splash_potion.effect.glowing": "Splash Potion of Glowing",
-  "item.minecraft.lingering_potion.effect.glowing": "Lingering Potion of Glowing",
+  "item.minecraft.tipped_arrow.effect.forest_dasher": "Erdő rohamozó nyila",
+  "item.minecraft.potion.effect.forest_dasher": "Erdő rohamozó bájital",
+  "item.minecraft.splash_potion.effect.forest_dasher": "Erdő rohamozó robbanó bájital",
+  "item.minecraft.lingering_potion.effect.forest_dasher": "Erdő rohamozó időző bájital",
+  "item.minecraft.tipped_arrow.effect.glowing": "Izzó nyíl",
+  "item.minecraft.potion.effect.glowing": "Izzó bájital",
+  "item.minecraft.splash_potion.effect.glowing": "Izzó robbanó bájital",
+  "item.minecraft.lingering_potion.effect.glowing": "Izzó időző bájital",
 
 
-  "advancements.husbandry.ride_giraffe_with_map.title": "A Whole New World",
-  "advancements.husbandry.ride_giraffe_with_map.description": "Use a Map while riding a Giraffe",
-  "advancements.husbandry.feed_hippo_melon.title": "Hungry Hungry Hippos",
-  "advancements.husbandry.feed_hippo_melon.description": "Feed a Melon to a Hippo",
-  "advancements.husbandry.feed_bear_honeycomb.title": "Oh Bother",
-  "advancements.husbandry.feed_bear_honeycomb.description": "Feed a Honeycomb to a Bear",
+  "advancements.husbandry.ride_giraffe_with_map.title": "Egy új élmény",
+  "advancements.husbandry.ride_giraffe_with_map.description": "Használ egy térképet egy zsiráf hátán",
+  "advancements.husbandry.feed_hippo_melon.title": "Éhes vizilovak",
+  "advancements.husbandry.feed_hippo_melon.description": "Etess meg egy vizilovat egy dinnyével",
+  "advancements.husbandry.feed_bear_honeycomb.title": "A fenébe",
+  "advancements.husbandry.feed_bear_honeycomb.description": "Etess meg egy medvét egy méhsejttel",
 
 
 
