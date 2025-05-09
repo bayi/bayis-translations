@@ -65,5 +65,5 @@ printKv("Translated keys", count($src) - count($missingKeys) - count($untranslat
 if (count($extraKeys)) printKv("Extra keys", count($extraKeys));
 if (count($untranslatedKeys)) printKv("Untranslated keys", count($untranslatedKeys));
 if (count($missingKeys)) printKv("Missing keys", count($missingKeys));
-printKv("Progress", "\e[32m$percent%\e[0m");
+printKv("Progress", "\e[32m$percent%\e[0m ($totalKeysCount/" . count($untranslatedKeys) .")");
 echo "\n";
