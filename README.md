@@ -30,19 +30,19 @@
 - [Ammendments](https://modrinth.com/mod/amendments)
 - [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled)
 - [Balm](https://modrinth.com/mod/balm/)
-- [Beautify](https://modrinth.com/mod/beautify)***
+- [Beautify](https://modrinth.com/mod/beautify)*3
 - [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
 - [Caelus API](https://modrinth.com/mod/caelus)
 - [Carry On](https://modrinth.com/mod/carry-on)
-- [Chipped](https://modrinth.com/mod/chipped)*
+- [Chipped](https://modrinth.com/mod/chipped)*1
 - [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/)
 - [Create Jetpack](https://modrinth.com/mod/create-jetpack)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
 - [Create: Power Loader](https://modrinth.com/mod/create-power-loader)
-- [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
-- [Create Deco](https://modrinth.com/mod/create-deco)*
+- [Create Crafts & Additions](https://modrinth.com/mod/createaddition)*4
+- [Create Deco](https://modrinth.com/mod/create-deco)*1
 - [Curos API](https://modrinth.com/mod/curios)
 - [Delightful](https://modrinth.com/mod/delightful)
 - [Entity Culling](https://modrinth.com/mod/entityculling/)
@@ -61,7 +61,7 @@
 - [Lootr](https://modrinth.com/mod/lootr)
 - [Mantle](https://modrinth.com/mod/mantle)
 - [McJtyLib](https://modrinth.com/mod/mcjtylib)
-- [Milk-lib](https://github.com/TropheusJ/milk-lib)**
+- [Milk-lib](https://github.com/TropheusJ/milk-lib)*2
 - [Moonlight Lib](https://modrinth.com/mod/moonlight)
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
@@ -84,9 +84,8 @@
 
 # Notes
 
-- *: Auto/tool generated, reviewed and fixed by hand
-- **: Unused? Create fabric used it
-- ***: Has untranslatable strings: 
-- * Beautify: Advancements can not be translated
-- * Create Craft & Additions: Some item description tooltips are not translatable
+- *1 Auto/tool generated, reviewed and fixed by hand
+- *2 Unused? Create fabric used it
+- *3 Beautify: Advancements can not be translated
+- *4 Create Craft & Additions: Some item description tooltips are not translatable
 
