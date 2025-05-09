@@ -59,6 +59,7 @@ printKeys('Missing keys', $missingKeys);
 printHeader("Progress");
 printKv("Total Keys", $totalKeysCount);
 printKv("Translated keys", count($src) - count($missingKeys) - count($untranslatedKeys));
+if (count($extraKeys)) printKv("Extra keys", count($extraKeys));
 if (count($untranslatedKeys)) printKv("Untranslated keys", count($untranslatedKeys));
 if (count($missingKeys)) printKv("Missing keys", count($missingKeys));
 printKv("Progress", "\e[32m$percent%\e[0m");

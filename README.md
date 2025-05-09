@@ -1,21 +1,21 @@
 # Hungarian translations / Magyar fordítások
 
 ## WIP
-- [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip, fix casing/typos/grammar, missing: death messages, infos
-- [Immersive Engineering](https://modrinth.com/mod/imm/) - strong wip, missing keys, extra keys
-- [Jade](https://modrinth.com/mod/jade) - strong wip, missing keys, untranslated keys, extra keys
-- [Naturalist](https://modrinth.com/mod/naturalist/) - wip, configs missing 
-- [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture) - wip, untranslated keys, check grammar
-- [Powah](https://modrinth.com/mod/powah) - strong wip, check grammar
-- [RFTools Base](https://modrinth.com/mod/rftools-base) - wip, untranslated keys
-- [RFTools Dimensions](https://modrinth.com/mod/rftools-dimensions/) - wip, untranslated keys
-- [RFTools Utility](https://modrinth.com/mod/rftools-utility/) - wip, untranslated keys
-- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) - wip, untranslated keys
-- [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) - wip, huge mod, untranslated keys
-- [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals/) - wip, a few untranslated keys
-- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map/) - wip, untranslated keys
-- [XNet](https://modrinth.com/mod/xnet) - wip, untranslated keys
-- [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer) - wip
+- [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip 85%, missing keys, extra keys, fix casing/typos/grammar, missing: death messages, infos
+- [Immersive Engineering](https://modrinth.com/mod/imm/) - wip 43%, missing keys, extra keys, large!
+- [Jade](https://modrinth.com/mod/jade) - wip 21%, missing keys, extra keys
+- [Naturalist](https://modrinth.com/mod/naturalist/) - wip 46%, configs missing 
+- [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture) - wip 84%, check grammar
+- [Powah](https://modrinth.com/mod/powah) - wip 73%, check grammar
+- [RFTools Base](https://modrinth.com/mod/rftools-base) - wip 83%
+- [RFTools Dimensions](https://modrinth.com/mod/rftools-dimensions/) - wip 29%
+- [RFTools Utility](https://modrinth.com/mod/rftools-utility/) - wip 25%
+- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) - wip 84%, extra keys
+- [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) - wip 84%, large!
+- [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals/) - wip 78% (9 missing)
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map/) - wip 18%
+- [XNet](https://modrinth.com/mod/xnet) - wip 17%
+- [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer) - wip 30%
 
 ## Done
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals)
