@@ -42,7 +42,6 @@ foreach ($src as $key => $value) {
     continue;
   }
   if ($value === $dst[$key]) {
-    // Ignore keys beginning with "_"
     if (!str_starts_with($key, '_')) {
       $untranslatedKeys[$key] = $value;
       continue;
