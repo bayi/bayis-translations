@@ -1,16 +1,39 @@
 <?php
 include_once 'lib/index.php';
 
-if ($argc < 2) die("Usage: " . $argv[0] . " <key>\n");
+function printHeader(string $label) : void
+{
+  echo "\e[34m ----- $label -----\e[0m\n\n";
+}
 
-$key = $argv[1];
+function printKv(string $key, string $value) : void
+{
+  echo "\e[33m $key\e[0m: \e[31m$value\e[0m\n";
+}
 
-$src = loadFile('../originals/' . $key . '/en_us.json');
-$dst = loadFile('../src/assets/' . $key . '/lang/hu_hu.json');
+function printKeys(string $label, array $keys) : void
+{
+  if(count($keys) == 0) return;
+  printHeader($label);
+  foreach ($keys as $key => $value) printKv($key, $value);
+  echo "\n";
+  printHeader('End of ' . $label);
+}
+
+$key = $argv[1] ?? null;
+if (is_null($key) || $argc < 2) die("* Usage: " . $argv[0] . " <key>\n");
+
+try {
+  $src = loadFile('../originals/' . $key . '/en_us.json');
+  $dst = loadFile('../src/assets/' . $key . '/lang/hu_hu.json');
+} catch (Exception $e) {
+  die("! Error: Failed loading resources: " . $e->getMessage() . "\n");
+}
 
 $missingKeys = [];
 $extraKeys = [];
 $untranslatedKeys = [];
+$totalKeysCount = count($src);
 
 foreach ($src as $key => $value) {
   if (!array_key_exists($key, $dst)) {
@@ -23,31 +46,22 @@ foreach ($src as $key => $value) {
   }
 }
 
-foreach ($dst as $key => $value) {
-  if (!array_key_exists($key, $src)) {
-    $extraKeys[$key] = $value;
-  }
-}
+foreach ($dst as $key => $value)
+  if (!array_key_exists($key, $src)) $extraKeys[$key] = $value;
 
-if (count($missingKeys) > 0) {
-  echo "\n \e[31m--- Missing keys:\e[0m\n";
-  foreach ($missingKeys as $key => $value) {
-    echo "$key: $value\n";
-  }
-}
+$percent = number_format(100 - (count($untranslatedKeys) / $totalKeysCount * 100), 2);
 
-if (count($untranslatedKeys) > 0) {
-  echo "\n \e[32m--- Untranslated keys:\e[0m\n";
-  foreach ($untranslatedKeys as $key => $value) {
-    echo "$key: $value\n";
-  }
-}
+echo "\n";
+printKeys('Extra keys', $extraKeys);
+printKeys('Untranslated keys', $untranslatedKeys);
+printKeys('Missing keys', $missingKeys);
 
-if (count($extraKeys) > 0) {
-  echo "\n \e[32m--- Extra keys:\e[0m\n";
-  foreach ($extraKeys as $key => $value) {
-    echo "$key: $value\n";
-  }
-}
-
-echo "\n\n";
+printHeader("Progress");
+printKv("Total Keys", $totalKeysCount);
+printKv("Translated keys", count($src) - count($missingKeys) - count($untranslatedKeys));
+if (count($untranslatedKeys))
+  printKv("Untranslated keys", count($untranslatedKeys));
+if (count($missingKeys))
+  printKv("Missing keys", count($missingKeys));
+printKv("Progress", "\e[32m$percent%\e[0m");
+echo "\n";

@@ -8,6 +8,7 @@ function capitalizeWords($string) : string
 
 function loadFile($jsonFile) : array
 {
+  if (!file_exists($jsonFile)) throw new Exception("File not found: $jsonFile");
   $fh = fopen($jsonFile, 'r');
   if ($fh === false) throw new Exception("Could not open file: $jsonFile");
   $json = fread($fh, filesize($jsonFile));
