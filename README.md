@@ -84,8 +84,8 @@
 
 # Notes
 
-- *1 Auto/tool generated, reviewed and fixed by hand
-- *2 Unused? Create fabric used it
-- *3 Beautify: Advancements can not be translated
-- *4 Create Craft & Additions: Some item description tooltips are not translatable
+- *1: Auto/tool generated, reviewed and fixed by hand
+- *2: Unused? Create fabric used it
+- *3: Beautify: Advancements can not be translated
+- *4: Create Craft & Additions: Some item description tooltips are not translatable
 
