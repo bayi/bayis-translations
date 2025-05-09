@@ -6,9 +6,10 @@ function printHeader(string $label) : void
   echo "\e[34m ----- $label -----\e[0m\n\n";
 }
 
-function printKv(string $key, string $value) : void
+function printKv(string $key, string $value, ?bool $inLine = false) : void
 {
-  echo "\e[33m $key\e[0m: \e[31m$value\e[0m\n";
+  echo "\e[33m $key\e[0m: \e[31m$value\e[0m";
+  if (!$inLine) echo "\n";
 }
 
 function printKeys(string $label, array $keys) : void
@@ -41,8 +42,11 @@ foreach ($src as $key => $value) {
     continue;
   }
   if ($value === $dst[$key]) {
-    $untranslatedKeys[$key] = $value;
-    continue;
+    // Ignore keys beginning with "_"
+    if (!str_starts_with($key, '_')) {
+      $untranslatedKeys[$key] = $value;
+      continue;
+    }
   }
 }
 
@@ -57,7 +61,7 @@ printKeys('Untranslated keys', $untranslatedKeys);
 printKeys('Missing keys', $missingKeys);
 
 printHeader("Progress");
-printKv("Total Keys", $totalKeysCount);
+printKv("Total Keys", $totalKeysCount, true);
 printKv("Translated keys", count($src) - count($missingKeys) - count($untranslatedKeys));
 if (count($extraKeys)) printKv("Extra keys", count($extraKeys));
 if (count($untranslatedKeys)) printKv("Untranslated keys", count($untranslatedKeys));
