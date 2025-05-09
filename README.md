@@ -1,6 +1,6 @@
 # Hungarian translations / Magyar fordítások
 
-## WIP
+## Progress
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip 85% (825/120): missing keys, extra keys, fix casing/typos/grammar, missing: death messages, infos
 - [Immersive Engineering](https://modrinth.com/mod/imm/) - wip 43% (1405/794): missing keys, extra keys
 - [Jade](https://modrinth.com/mod/jade) - wip 21% (280/218): missing keys, extra keys
@@ -16,6 +16,11 @@
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map/) - wip 18% (272/222)
 - [XNet](https://modrinth.com/mod/xnet) - wip 17% (186/153)
 - [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer) - wip 30% (144/99)
+- [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) - planned
+- [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls) - planned
+- [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) - planned
+- [Macaw's Doors](https://modrinth.com/mod/macaws-doors) - planned
+- [Macaw's Windows](https://modrinth.com/mod/macaws-windows) - planned
 
 ## Done
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals)
@@ -68,14 +73,7 @@
 ## Merged Upstream (Removed from resoure pack)
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
 
-## Planned
-- [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
-- [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
-- [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture)
-- [Macaw's Doors](https://modrinth.com/mod/macaws-doors)
-- [Macaw's Windows](https://modrinth.com/mod/macaws-windows)
-
-## Paused (Currently unused)
+## Paused/Abandoned (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
 - [Create: Storage](https://modrinth.com/mod/fxnt-create-storage)
 - [Rougly Enough Items](https://modrinth.com/mod/rei)
