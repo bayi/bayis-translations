@@ -70,7 +70,7 @@
 	"item.createaddition.gold_spool.tooltip.behaviour1": "_Magas áramú csatlakozókhoz_ csatlakozik.",
 	"item.createaddition.gold_spool.tooltip.condition2": "Jobb kattintás két csatlakozón",
 	"item.createaddition.gold_spool.tooltip.behaviour2": "Egy új vezeték csatlakozást hoz létre és vissza adja az _Üres tekercs_-et.",
-	"item.createaddition.gold_wire": "Arany vezeték",
+	"item.createaddition.gold_wire": "Aranyvezeték",
 	"item.createaddition.gold_rod": "Aranyrúd",
 
 	"item.createaddition.electrum_ingot": "Elektrumrúd",
