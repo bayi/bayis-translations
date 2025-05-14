@@ -17,7 +17,7 @@
 - [XNet](https://modrinth.com/mod/xnet) - wip 17% (186/153)
 - [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer) - wip 30% (144/99)
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) - wip ~50% (auto generated so far)
-- [Patchouli](https://modrinth.com/mod/patchouli) - wip 60% (90/36)
+- [Patchouli](https://modrinth.com/mod/patchouli) - wip 83% (90/15)
 - [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls) - planned
 - [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) - planned
 - [Macaw's Doors](https://modrinth.com/mod/macaws-doors) - planned
