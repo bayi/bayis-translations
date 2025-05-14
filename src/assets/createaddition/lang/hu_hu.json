@@ -225,7 +225,7 @@
 	"block.createaddition.barbed_wire.tooltip": "BARBED_WIRE",
 	"block.createaddition.barbed_wire.tooltip.summary": "Sebzést okoz, ha keresztülmennek rajta.",
 
-	"block.createaddition.tesla_coil": "Tesla tekercs",
+	"block.createaddition.tesla_coil": "Teslatekercs",
 
 	"block.createaddition.liquid_blaze_burner": "Őrlángégő szívószállal",
 
@@ -260,12 +260,12 @@
 	"createaddition.ponder.cc_electric_motor.text_2": "Csatlakozz a motorhoz 'peripheral.wrap(side)' használatával",
 	"createaddition.ponder.cc_electric_motor.text_3": "Lekérheted az API dokumentációt a '/cca_api' parancs kiadásával a chatben",
 
-	"createaddition.ponder.tesla_coil.header": "Tesla tekercs használata tárgyak töltésére",
-	"createaddition.ponder.tesla_coil.text_1": "A Tesla tekercs tölti az alatta lévő tárgyakat",
+	"createaddition.ponder.tesla_coil.header": "Teslatekercs használata tárgyak töltésére",
+	"createaddition.ponder.tesla_coil.text_1": "A Teslatekercs tölti az alatta lévő tárgyakat",
 	"createaddition.ponder.tesla_coil.text_2": "Bármilyen Forge Energia tárgyat és még sok mást is!",
 
-	"createaddition.ponder.tesla_coil_hurt.header": "Veszélyes Tesla tekercsek",
-	"createaddition.ponder.tesla_coil_hurt.text_1": "A Tesla tekercs képes kárt okozni a közelben lévő játékosoknak és moboknak is",
+	"createaddition.ponder.tesla_coil_hurt.header": "Veszélyes Teslatekercsek",
+	"createaddition.ponder.tesla_coil_hurt.text_1": "A Teslatekercs képes kárt okozni a közelben lévő játékosoknak és moboknak is",
 	"createaddition.ponder.tesla_coil_hurt.text_2": "Ezt redstone jellel lehet aktiválni",
 	"createaddition.ponder.tesla_coil_hurt.text_3": "Készülj fel a sokkolásra!",
 
@@ -315,6 +315,6 @@
   	"death.attack.tesla_coil.player": "%1$s halálos elektromos sokkot kapott miközben vele harcolt: %2$s",
   	"effect.createaddition.shocking.description": "Komolyan csökkentett mozgási sebesség",
 
-	"createaddition.subtitle.loud_zap": "Tesla tekercs csattanása",
-	"createaddition.subtitle.little_zap": "Tesla tekercs szikrázik"
+	"createaddition.subtitle.loud_zap": "Teslatekercs csattanása",
+	"createaddition.subtitle.little_zap": "Teslatekercs szikrázik"
 }
