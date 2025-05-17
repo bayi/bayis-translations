@@ -460,6 +460,7 @@ $fixes = [
   'amethyst blokkok' => 'ametisztblokkok',
   'szövőszék asztal' => 'szövőszék',
   'zúzottkő tégla' => 'zúzottkőtégla',
+  'kalcit tégla' => 'kalcittégla',
   'kvarcblokk blokk' => 'kvarcblokk',
   'leaded' => 'ólmozott',
   'burning' => 'égő',
