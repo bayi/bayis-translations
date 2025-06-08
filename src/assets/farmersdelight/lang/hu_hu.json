@@ -205,8 +205,8 @@
   "effect.farmersdelight.nourishment": "Táplálék",
   "effect.farmersdelight.comfort": "Kényelem",
 
-  "effect.farmersdelight.nourishment.0.desc": "Megakadályozza az éhezést, kivéve, ha a telítettség csökkentésével gyógyítasz.",
-  "effect.farmersdelight.comfort.0.desc": "Természetes gyúgyulást biztosít, függetlenül attól, hogy mennyire vagy éhes.",
+  "effect.farmersdelight.nourishment.description": "Megakadályozza az éhezést, kivéve, ha a telítettség csökkentésével gyógyítasz.",
+  "effect.farmersdelight.comfort.description": "Természetes gyúgyulást biztosít, függetlenül attól, hogy mennyire vagy éhes.",
 
   "enchantment.farmersdelight.backstabbing": "Hátbaszúrás",
   "enchantment.farmersdelight.backstabbing.desc": "Növeli a sebzést, ha hátulról támadsz egy célpontra.",
@@ -309,6 +309,7 @@
   "farmersdelight.jei.decomposition.fluid": "Víz hatására gyorsul",
   "farmersdelight.jei.decomposition.accelerators": "Aktivátorok hatására gyorsul (lsd. lejjebb)",
 
+  "farmersdelight.jei.info.dough": "Búzát tésztává lehet alakítani egy vizes vödörrel. De ne aggódj, a vödör víze nem fogy el!",
   "farmersdelight.jei.info.straw": "Egy száraz növényi rost, amit késsel vághatsz le. Gabona és egyéb növények vágásával szerezheted meg.",
   "farmersdelight.jei.info.knife": "Egy könnyű közelharci fegyver, gyors csapásokkal és gyenge sebzéssel.\n\nFűből szalmát vághatsz vele, és garantált másodlagos dobásai vannak az állatoknak.",
   "farmersdelight.jei.info.ham": "Egy nagy darab hús egy disznó vagy hoglin lábáról.\n\nValami könnyebb kell, mint egy kard, hogy levághasd...",
