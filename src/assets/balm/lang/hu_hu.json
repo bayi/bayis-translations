@@ -32,5 +32,6 @@
   "tag.item.balm.wooden_rods": "Fa rudak",
   "disconnect.balm.mod_missing_on_server": "A szerveren nincs telepítve a(z) %s. Kérjük, távolítsd el a modot a játékból, vagy telepítsd a szerverre is.",
   "disconnect.balm.mod_missing_on_client": "A(z) %s nincs telepítve. Kérjük, telepítsd a(z) %s %s verzióját, hogy játszhass ezen a szerveren.",
-  "disconnect.balm.mod_version_mismatch": "A(z) %s verziója nem egyezik. A szerver a(z) %s verziót várja, de neked a(z) %s verzió van telepítve. Kérjük, telepítsd a megfelelő verziót."
+  "disconnect.balm.mod_version_mismatch": "A(z) %s verziója nem egyezik. A szerver a(z) %s verziót várja, de neked a(z) %s verzió van telepítve. Kérjük, telepítsd a megfelelő verziót.",
+  "config.jade.plugin_balm.jade": "Balm"
 }
