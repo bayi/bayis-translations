@@ -25,6 +25,8 @@ if (!is_dir('temp/assets')) {
   exit(0);
 }
 
+$target = 'originals';
+
 try {
   $dir = new DirectoryIterator('temp/assets');
   $keys = [];
@@ -35,8 +37,8 @@ try {
   }
 
   foreach($keys as $key) {
-    if (!is_dir("../originals/$key")) {
-        if (!mkdir("../originals/$key", 0755, true)) {
+    if (!is_dir("../$target/$key")) {
+        if (!mkdir("../$target/$key", 0755, true)) {
             die('Failed to create directory');
         }
     }
@@ -44,7 +46,7 @@ try {
     foreach($files as $file)
     {
       $source = "temp/assets/$key/lang/$file";
-      $destination = "../originals/$key/$file";
+      $destination = "../$target/$key/$file";
       if (@rename($source, $destination)) echo "\e[032m   * Extracted: \e[034m$file\e[0m" . PHP_EOL;
     }
   }
