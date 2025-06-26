@@ -6,6 +6,7 @@ $pass1 = [
   'quantum computer' => 'kvantumszámítógép',
   'quantum armor' => 'kvantumpáncél',
   'quantum processor' => 'kvantumprocesszor',
+  'quantum infusion bucket' => 'kvantuminfúziós vödör',
   'quantum infusion' => 'kvantuminfúzió',
   'pattern encoder' => 'mintakódoló',
   'pattern provider' => 'mintaszolgáltató',
@@ -13,13 +14,23 @@ $pass1 = [
   'crafting unit' => 'barkácsoló egység',
   'night vision' => 'éjjellátás',
   'infused dust' => 'infúziós por',
-  'sprint speed' => 'sprintelés',
+  'sprint speed' => 'sprintelési sebesség',
   'jump height' => 'ugrási magasság',
   'import export bus' => 'import/export busz',
   'auto stock' => 'automatikus készlet',
   'auto feeding' => 'automatikus etetés',
   'attack speed' => 'támadási sebesség',
   'processing pattern' => 'feldolgozó minta',
+  'shattered singularity' => 'törött szingularitás',
+  'throughput monitor' => 'átmenő teljesítmény monitor',
+  'stock export bus' => 'készlet exportbusz',
+  'base card' => 'alapkártya',
+  'swim speed' => 'úszási sebesség',
+  'pick craft' => 'barkácsolás kiválasztással',
+  'víz breathing' => 'víz alatti légzés',
+  'walk speed' => 'gyaloglási sebesség',
+  'step assist' => 'lépéssegítő',
+  'flight drift' => 'repülési sodródás',
 ];
 
 $pass2 = [
@@ -61,6 +72,11 @@ $pass2 = [
   'buffer' => 'puffer',
   'upgrade' => 'fejlesztés',
   'capacity' => 'kapacitás',
+  'chestplate' => 'mellvért',
+  'plate' => 'lemez',
+  'inscriber' => 'karcoló',
+  'configurator' => 'konfigurátor',
+  'component' => 'komponens',
 ];
 
 $pass3 = [
@@ -89,6 +105,18 @@ $data = processFile(
 );
 
 $data['gui.advanced_ae.ModName'] = 'Advanced AE';
+
+foreach ($data as $key => $value) {
+    if (strpos($value, 'Me') !== false) {
+        $data[$key] = str_replace('Me', 'ME', $value);
+    }
+    if (strpos($value, 'Hp') !== false) {
+        $data[$key] = str_replace('Hp', 'HP', $value);
+    }
+    if (preg_match('/(\d+)([mM])/', $value, $matches)) {
+        $data[$key] = str_replace($matches[0], $matches[1] . strtoupper($matches[2]), $value);
+    }
+}
 
 $file = $argc > 1 ? $argv[1] ?? 'advanced_ae.json' : 'advanced_ae.json';
 saveAs($data, $file, true);
