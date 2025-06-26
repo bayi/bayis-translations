@@ -10,7 +10,7 @@
 - [RFTools Base](https://modrinth.com/mod/rftools-base) - wip 83% (55/8)
 - [RFTools Dimensions](https://modrinth.com/mod/rftools-dimensions/) - wip 29% (231/162)
 - [RFTools Utility](https://modrinth.com/mod/rftools-utility/) - wip 25% (242/181)
-- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) - wip 84% (224/34): extra keys
+- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) - wip 84% (224/34): extra keys, fix casing
 - [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) - wip 84% (2713/424)
 - [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals/) - wip 78% (42/9)
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map/) - wip 18% (272/222)
