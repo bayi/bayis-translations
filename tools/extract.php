@@ -25,8 +25,8 @@ if (!is_dir('temp/assets')) {
   exit(0);
 }
 
-// $target = 'originals';
-$target = 'originals2';
+$target = 'originals';
+// $target = 'originals2';
 
 try {
   $dir = new DirectoryIterator('temp/assets');
