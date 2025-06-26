@@ -35,7 +35,7 @@ try {
   }
 
   foreach($keys as $key) {
-    if (!is_dir("../originals/$key")) {
+    if (!is_dir("../originals2/$key")) {
         if (!mkdir("../originals2/$key", 0755, true)) {
             die('Failed to create directory');
         }
