@@ -105,6 +105,7 @@ $data = processFile(
 );
 
 $data['gui.advanced_ae.ModName'] = 'Advanced AE';
+$data['key.advanced_ae.category'] = 'Advanced AE';
 
 foreach ($data as $key => $value) {
     if (strpos($value, 'Me') !== false) {
