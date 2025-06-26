@@ -35,8 +35,8 @@ try {
   }
 
   foreach($keys as $key) {
-    if (!is_dir("../originals2/$key")) {
-        if (!mkdir("../originals2/$key", 0755, true)) {
+    if (!is_dir("../originals/$key")) {
+        if (!mkdir("../originals/$key", 0755, true)) {
             die('Failed to create directory');
         }
     }
@@ -44,7 +44,7 @@ try {
     foreach($files as $file)
     {
       $source = "temp/assets/$key/lang/$file";
-      $destination = "../originals2/$key/$file";
+      $destination = "../originals/$key/$file";
       if (@rename($source, $destination)) echo "\e[032m   * Extracted: \e[034m$file\e[0m" . PHP_EOL;
     }
   }
