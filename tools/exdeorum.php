@@ -14,6 +14,10 @@ $pass1 = [
   'fluid mixing' => 'folyadékkeverés',
   'chance:' => 'Esély:',
   'infested leaves' => 'fertőzött levelek',
+  'láva bucket' => 'lávásvödör',
+  'milk bucket' => 'tejesvödör',
+  'witch water bucket' => 'boszorkányvizesvödör',
+  'witch víz bucket' => 'boszorkányvizesvödör',
 ];
 
 $pass2 = [
@@ -51,16 +55,29 @@ $pass2 = [
   'mixing' => 'keverés',
   'willow' => 'fűzfa',
   'skyroot' => 'égfa',
-  'procelain' => 'porcelán',
+  'porcelain' => 'porcelán',
   'maple' => 'juharfa',
   'mahagony' => 'mahagóni',
   'jacaranda' => 'jakarandafa',
+  'unfired' => 'nyers',
+  'nickel' => 'nikkel',
+  'osmium' => 'ozmium',
+  'platinum' => 'platina',
+  'magnesium' => 'magnézium',
+  'lithium' => 'lítium',
+  'lead' => 'ólom',
+  'cobalt' => 'kobalt',
 ];
 
 $pass3 = [
   'compressed' => 'tömörített',
   'érc darab' => 'ércdarab',
-  'víz bucket' => 'vizesvödör'
+  'víz bucket' => 'vizesvödör',
+  'bucket' => 'vödör',
+  'always' => 'mindig',
+  'energy' => 'energia',
+  'powered' => 'meghajtott',
+  'unpowered' => 'meghajtás nélküli',
 ];
 
 $grammar = [
