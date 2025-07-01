@@ -214,12 +214,12 @@
   "create_enchantment_industry.recipe.assembly.grinding.needs_fluid": "Grind with Grindstones, consumes %1$s",
   "create_enchantment_industry.recipe.assembly.printing": "Print with template: %1$s, consumes %2$s",
   "create_enchantment_industry.recipe.grinding": "Grinding",
-  "create_enchantment_industry.recipe.printing": "Printing",
+  "create_enchantment_industry.recipe.printing": "Nyomtatás",
   "create_enchantment_industry.recipe.printing.copy.template": "Copiable Contents",
   "create_enchantment_industry.recipe.printing.custom_name.base": "Accepts any item",
   "create_enchantment_industry.recipe.printing.custom_name.template": "Custom Name",
-  "fluid.create_enchantment_industry.experience": "Liquid Experience",
-  "item.create_enchantment_industry.enchanting_template": "Enchanting Template",
+  "fluid.create_enchantment_industry.experience": "Folyékony tapasztalat",
+  "item.create_enchantment_industry.enchanting_template": "Varázslat sablon",
   "item.create_enchantment_industry.experience_bucket": "Bucket o' Enchanting",
   "item.create_enchantment_industry.experience_cake": "Cake o' Enchanting",
   "item.create_enchantment_industry.experience_cake_base": "Cake Base o' Enchanting",
@@ -230,6 +230,6 @@
   "stat.create_enchantment_industry.enchant": "Blaze Enchanter Used",
   "stat.create_enchantment_industry.forge": "Blaze Forger Used",
   "stat.create_enchantment_industry.mechanical_grindstone_experience": "Experience Produced (by Mechanical Grindstone)",
-  "stat.create_enchantment_industry.print": "Printer Used",
-  "stat.create_enchantment_industry.super_enchant": "Super Enchant"
+  "stat.create_enchantment_industry.print": "Nyomtató használat",
+  "stat.create_enchantment_industry.super_enchant": "Szupervarázslat"
 }
