@@ -24,7 +24,7 @@
 - [Macaw's Windows](https://modrinth.com/mod/macaws-windows) - planned
 
 ## Done
-- [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals)
+- [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR Submitted)
 - [AE2](https://modrinth.com/mod/ae2)
 - [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
 - [Almost Unified](https://modrinth.com/mod/almost-unified/)
@@ -36,7 +36,7 @@
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
 - [Caelus API](https://modrinth.com/mod/caelus)
 - [Carry On](https://modrinth.com/mod/carry-on)
-- [Chipped](https://modrinth.com/mod/chipped)*1 (Submitted PR)
+- [Chipped](https://modrinth.com/mod/chipped)*1 (PR Submitted)
 - [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/)
 - [Create Jetpack](https://modrinth.com/mod/create-jetpack)
@@ -71,7 +71,7 @@
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
 - [Shrink](https://modrinth.com/mod/shrink)
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
-- [Vanilla Backport](https://modrinth.com/mod/vanillabackport)*5 (Submitted PR) 
+- [Vanilla Backport](https://modrinth.com/mod/vanillabackport)*5 (PR Submitted) 
 
 ## Merged Upstream (Removed from resoure pack)
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
