@@ -74,6 +74,7 @@
 
 ## Removed from resoure pack (Merged or Merge WIP)
 - [AdvancedAE](https://modrinth.com/mod/advancedae) (PR Submitted)
+- [BucketLib](https://modrinth.com/mod/bucketlib) (PR Submitted)
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
 - [Ex Deorum](https://modrinth.com/mod/ex-deorum) (PR submitted)
 - [Vanilla Backport](https://modrinth.com/mod/vanillabackport)*5 (PR Submitted/Merged) 
