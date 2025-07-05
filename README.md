@@ -67,7 +67,7 @@
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [MEGA Cells](https://modrinth.com/mod/mega)
-- [ME Requester](https://modrinth.com/mod/merequester)
+- [ME Requester](https://modrinth.com/mod/merequester) (PR Submitted)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
 - [Shrink](https://modrinth.com/mod/shrink)
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
