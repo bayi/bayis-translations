@@ -25,7 +25,7 @@
 
 ## Done
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR Submitted)
-- [AE2](https://modrinth.com/mod/ae2) (On Crowdin, PR for 1.20/Merged)
+- [AE2](https://modrinth.com/mod/ae2) (On Crowdin, PR for 1.20)
 - [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
 - [Almost Unified](https://modrinth.com/mod/almost-unified/)
 - [Ammendments](https://modrinth.com/mod/amendments)
@@ -76,7 +76,7 @@
 - [AdvancedAE](https://modrinth.com/mod/advancedae) (PR Submitted)
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
 - [Ex Deorum](https://modrinth.com/mod/ex-deorum) (PR submitted)
-- [Vanilla Backport](https://modrinth.com/mod/vanillabackport)*5 (PR Submitted) 
+- [Vanilla Backport](https://modrinth.com/mod/vanillabackport)*5 (PR Submitted/Merged) 
 
 ## Paused/Abandoned (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
