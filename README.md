@@ -78,6 +78,9 @@
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
 - [Ex Deorum](https://modrinth.com/mod/ex-deorum) (PR submitted)
 - [Vanilla Backport](https://modrinth.com/mod/vanillabackport)*5 (PR Submitted/Merged) 
+- [Wooden Bucket](https://modrinth.com/mod/wooden-bucket) (PR Submitted)
+- [Wooden Hopper](https://modrinth.com/mod/wooden-hopper) (PR Submitted)
+- [Wooden Shears](https://modrinth.com/mod/wooden-shears) (PR Submitted)
 
 ## Paused/Abandoned (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
