@@ -29,7 +29,7 @@
   "tag.item.balm.ores": "Ércek",
   "tag.item.balm.stones": "Kövek",
   "tag.item.balm.wooden_chests": "Fa ládák",
-  "tag.item.balm.wooden_rods": "Fa rudak",
+  "tag.item.balm.wooden_rods": "Fa rúdak",
   "disconnect.balm.mod_missing_on_server": "A szerveren nincs telepítve a(z) %s. Kérjük, távolítsd el a modot a játékból, vagy telepítsd a szerverre is.",
   "disconnect.balm.mod_missing_on_client": "A(z) %s nincs telepítve. Kérjük, telepítsd a(z) %s %s verzióját, hogy játszhass ezen a szerveren.",
   "disconnect.balm.mod_version_mismatch": "A(z) %s verziója nem egyezik. A szerver a(z) %s verziót várja, de neked a(z) %s verzió van telepítve. Kérjük, telepítsd a megfelelő verziót.",
