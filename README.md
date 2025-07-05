@@ -25,7 +25,7 @@
 
 ## Done
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR Submitted)
-- [AE2](https://modrinth.com/mod/ae2) (PR Submitted for 1.21 version)
+- [AE2](https://modrinth.com/mod/ae2) (On Crowdin)
 - [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
 - [Almost Unified](https://modrinth.com/mod/almost-unified/)
 - [Ammendments](https://modrinth.com/mod/amendments)
