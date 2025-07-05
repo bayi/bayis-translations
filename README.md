@@ -71,10 +71,10 @@
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
 - [Shrink](https://modrinth.com/mod/shrink)
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
-- [Vanilla Backport](https://modrinth.com/mod/vanillabackport)*5 (PR Submitted) 
 
-## Merged Upstream (Removed from resoure pack)
+## Removed from resoure pack (Merged or Merge WIP)
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
+- [Vanilla Backport](https://modrinth.com/mod/vanillabackport)*5 (PR Submitted) 
 
 ## Paused/Abandoned (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)
