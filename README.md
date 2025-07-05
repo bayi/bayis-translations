@@ -53,7 +53,7 @@
 - [FlightLib](https://github.com/PssbleTrngle/FlightLib)
 - [Geckolib](https://modrinth.com/mod/geckolib)
 - [Gravestone Mod](https://modrinth.com/mod/gravestone-mod)
-- [GuideME](https://modrinth.com/mod/guideme)
+- [GuideME](https://modrinth.com/mod/guideme) (PR Submitted)
 - [Handcrafted](https://modrinth.com/mod/handcrafted/)
 - [Just Enough Items](https://modrinth.com/mod/jei/)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
