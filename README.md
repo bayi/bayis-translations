@@ -73,7 +73,9 @@
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
 
 ## Removed from resoure pack (Merged or Merge WIP)
+- [AdvancedAE](https://modrinth.com/mod/advancedae) (PR Submitted)
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
+- [Ex Deorum](https://modrinth.com/mod/ex-deorum) (PR submitted)
 - [Vanilla Backport](https://modrinth.com/mod/vanillabackport)*5 (PR Submitted) 
 
 ## Paused/Abandoned (Currently unused)
