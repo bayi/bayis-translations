@@ -66,7 +66,7 @@
 - [Moonlight Lib](https://modrinth.com/mod/moonlight)
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
-- [MEGA Cells](https://modrinth.com/mod/mega)
+- [MEGA Cells](https://modrinth.com/mod/mega) (PR Submitted)
 - [ME Requester](https://modrinth.com/mod/merequester) (PR Submitted)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
 - [Shrink](https://modrinth.com/mod/shrink)
