@@ -22,7 +22,7 @@
 - [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) - planned
 - [Macaw's Doors](https://modrinth.com/mod/macaws-doors) - planned
 - [Macaw's Windows](https://modrinth.com/mod/macaws-windows) - planned
-- Neoforge
+- [Neoforge](https://github.com/neoforged/NeoForge) (Crowdin)
 
 ## Done
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR Submitted)
@@ -76,6 +76,7 @@
 - [AdvancedAE](https://modrinth.com/mod/advancedae) (PR Submitted)
 - [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) (PR Submitted/Merged)
 - [BucketLib](https://modrinth.com/mod/bucketlib) (PR Submitted)
+- [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) (Next)
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) (PR Submitted/Merged)
 - [Ex Deorum](https://modrinth.com/mod/ex-deorum) (PR submitted)
 - [Hammerlib](https://github.com/dragon-forge/HammerLib) (PR Submitted)
