@@ -35,7 +35,7 @@
 - [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
 - [Better Advancements](https://modrinth.com/mod/better-advancements) (Next)
 - [Caelus API](https://modrinth.com/mod/caelus) (Next)
-- [Carry On](https://modrinth.com/mod/carry-on)
+- [Carry On](https://modrinth.com/mod/carry-on) (PR Submitted)
 - [Chipped](https://modrinth.com/mod/chipped)*1 (PR Submitted)
 - [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/)
