@@ -28,7 +28,7 @@
 - [AE2](https://modrinth.com/mod/ae2) (On Crowdin, PR for 1.20)
 - [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) (PR Submitted)
 - [Almost Unified](https://modrinth.com/mod/almost-unified/) (Next)
-- [Ammendments](https://modrinth.com/mod/amendments)
+- [Ammendments](https://modrinth.com/mod/amendments) (Next)
 - [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled)
 - [Balm](https://modrinth.com/mod/balm/) (PR Submitted)
 - [Beautify](https://modrinth.com/mod/beautify)*3
@@ -56,7 +56,7 @@
 - [GuideME](https://modrinth.com/mod/guideme) (PR Submitted)
 - [Handcrafted](https://modrinth.com/mod/handcrafted/)
 - [Just Enough Items](https://modrinth.com/mod/jei/)
-- [Supplementaries](https://modrinth.com/mod/supplementaries)
+- [Supplementaries](https://modrinth.com/mod/supplementaries) (Next)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
 - [Lollipop](https://github.com/owmii/Lollipop) (Next)
 - [Lootr](https://modrinth.com/mod/lootr)
