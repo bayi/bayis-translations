@@ -52,7 +52,7 @@
 - [Fusion](https://modrinth.com/mod/fusion-connected-textures)
 - [FlightLib](https://github.com/PssbleTrngle/FlightLib) (Next)
 - [Geckolib](https://modrinth.com/mod/geckolib) (Next)
-- [Gravestone Mod](https://modrinth.com/mod/gravestone-mod) (Next)
+- [Gravestone Mod](https://modrinth.com/mod/gravestone-mod) (PR Submitted)
 - [GuideME](https://modrinth.com/mod/guideme) (PR Submitted)
 - [Handcrafted](https://modrinth.com/mod/handcrafted/)
 - [Just Enough Items](https://modrinth.com/mod/jei/)
