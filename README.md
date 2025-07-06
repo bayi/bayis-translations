@@ -25,7 +25,7 @@
 - [Neoforge](https://github.com/neoforged/NeoForge) (Crowdin)
 
 ## Done
-- [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR Submitted)
+- [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR Submitted/Merged)
 - [AE2](https://modrinth.com/mod/ae2) (On Crowdin, PR for 1.20)
 - [Almost Unified](https://modrinth.com/mod/almost-unified/) (PR Submitted/Merged)
 - [Ammendments](https://modrinth.com/mod/amendments) (PR Submitted)
