@@ -37,9 +37,9 @@
 - [Caelus API](https://modrinth.com/mod/caelus) (PR Submitted)
 - [Carry On](https://modrinth.com/mod/carry-on) (PR Submitted)
 - [Chipped](https://modrinth.com/mod/chipped)*1 (PR Submitted)
-- [CC:Tweaked](https://modrinth.com/mod/cc-tweaked)
+- [CC:Tweaked](https://modrinth.com/mod/cc-tweaked) (Next)
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/)
-- [Create Jetpack](https://modrinth.com/mod/create-jetpack)
+- [Create Jetpack](https://modrinth.com/mod/create-jetpack) (Next)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
 - [Create: Power Loader](https://modrinth.com/mod/create-power-loader)
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)*4
