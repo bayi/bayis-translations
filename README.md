@@ -28,7 +28,6 @@
 - [Beautify](https://modrinth.com/mod/beautify)*3
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/) (Next / Update to new version)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
-- [Create Crafts & Additions](https://modrinth.com/mod/createaddition)*4 (Next ...)
 - [Create Deco](https://modrinth.com/mod/create-deco)*1 (Mod not updated)
 - [Geckolib](https://modrinth.com/mod/geckolib) (No PR: No lang files in source)
 - [Handcrafted](https://modrinth.com/mod/handcrafted/)
@@ -56,6 +55,7 @@
 - [Carry On](https://modrinth.com/mod/carry-on) (PR)
 - [Chipped](https://modrinth.com/mod/chipped)*1 (PR)
 - [CC:Tweaked](https://modrinth.com/mod/cc-tweaked) (PR/Merged)
+- [Create Crafts & Additions](https://modrinth.com/mod/createaddition)*4 (PR)
 - [Create Jetpack](https://modrinth.com/mod/create-jetpack) (PR)
 - [Create: Power Loader](https://modrinth.com/mod/create-power-loader) (PR)
 - [Curos API](https://modrinth.com/mod/curios) (PR)
