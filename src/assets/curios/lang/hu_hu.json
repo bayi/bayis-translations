@@ -44,7 +44,7 @@
   "curios.modifiers.slots.take.1": "-%s%% %s Rekeszek",
   "curios.modifiers.slots.take.2": "-%s%% %s Rekeszek",
   "key.curios.category": "Curios",
-  "key.curios.open.desc": "Curios felszerelés megnyitása/bezárása",
+  "key.curios.open.desc": "Curios felszerelés váltása",
   "gui.curios.toggle": "Láthatóság váltása",
   "gui.curios.toggle.cosmetics": "Kozmetikai váltása",
   "gui.curios.page": "Oldal %d / %d"
