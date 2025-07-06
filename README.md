@@ -48,7 +48,7 @@
 - [Delightful](https://modrinth.com/mod/delightful)
 - [Entity Culling](https://modrinth.com/mod/entityculling/) (PR Submitted)
 - [Factory Blocks](https://modrinth.com/mod/factory-blocks) (PR Submitted)
-- [Farmer's Delight](https://modrinth.com/mod/farmers-delight) (Next)
+- [Farmer's Delight](https://modrinth.com/mod/farmers-delight) (PR Submitted)
 - [Fusion](https://modrinth.com/mod/fusion-connected-textures)
 - [FlightLib](https://github.com/PssbleTrngle/FlightLib) (PR Submitted)
 - [Geckolib](https://modrinth.com/mod/geckolib) (? No lang files in source)
