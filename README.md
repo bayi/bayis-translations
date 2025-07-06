@@ -75,7 +75,7 @@
 ## Removed from resoure pack (Merged or Merge WIP)
 - [AdvancedAE](https://modrinth.com/mod/advancedae) (PR Submitted)
 - [BucketLib](https://modrinth.com/mod/bucketlib) (PR Submitted)
-- [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm)
+- [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) (PR Submitted/Merged)
 - [Ex Deorum](https://modrinth.com/mod/ex-deorum) (PR submitted)
 - Hammerlib
 - Neoforge
