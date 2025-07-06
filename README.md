@@ -77,7 +77,7 @@
 - [BucketLib](https://modrinth.com/mod/bucketlib) (PR Submitted)
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) (PR Submitted/Merged)
 - [Ex Deorum](https://modrinth.com/mod/ex-deorum) (PR submitted)
-- Hammerlib
+- [Hammerlib](https://github.com/dragon-forge/HammerLib) (PR Submitted)
 - Neoforge
 - [Vanilla Backport](https://modrinth.com/mod/vanillabackport)*5 (PR Submitted/Merged) 
 - [Wooden Bucket](https://modrinth.com/mod/wooden-bucket) (PR Submitted)
