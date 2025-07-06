@@ -27,7 +27,7 @@
 ## Done
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR Submitted)
 - [AE2](https://modrinth.com/mod/ae2) (On Crowdin, PR for 1.20)
-- [Almost Unified](https://modrinth.com/mod/almost-unified/) (PR Submitted)
+- [Almost Unified](https://modrinth.com/mod/almost-unified/) (PR Submitted/Merged)
 - [Ammendments](https://modrinth.com/mod/amendments) (Next)
 - [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled)
 - [Balm](https://modrinth.com/mod/balm/) (PR Submitted)
@@ -67,7 +67,7 @@
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [MEGA Cells](https://modrinth.com/mod/mega) (PR Submitted)
-- [ME Requester](https://modrinth.com/mod/merequester) (PR Submitted)
+- [ME Requester](https://modrinth.com/mod/merequester) (PR Submitted/Merged)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
 - [Shrink](https://modrinth.com/mod/shrink)
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
