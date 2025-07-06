@@ -468,7 +468,8 @@ $fixes = [
   'side' => 'oldala',
   'autumnkin' => 'ősztök',
   'lumpkin' => 'bütyköstök',
-  'pimpkin' => 'pompástök'
+  'pimpkin' => 'pompástök',
+  'slabs' => 'lapok',
 ];
 
 $data = processFile(
