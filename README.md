@@ -26,7 +26,6 @@
 
 ## Done / To be sent
 - [Beautify](https://modrinth.com/mod/beautify)*3
-- [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/) (Next / Update to new version)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)*4 (Next)
@@ -45,7 +44,6 @@
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
 - [Shrink](https://modrinth.com/mod/shrink)
-- [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
 
 ## Sent to Upstream
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR/Merged/Released for 1.21)
@@ -55,10 +53,11 @@
 - [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) (1.20.1 PR)
 - [Balm](https://modrinth.com/mod/balm/) (PR)
 - [Better Advancements](https://modrinth.com/mod/better-advancements) (PR)
+- [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles) (PR)
 - [Caelus API](https://modrinth.com/mod/caelus) (PR)
 - [Carry On](https://modrinth.com/mod/carry-on) (PR)
 - [Chipped](https://modrinth.com/mod/chipped)*1 (PR)
-- [CC:Tweaked](https://modrinth.com/mod/cc-tweaked) (PR)
+- [CC:Tweaked](https://modrinth.com/mod/cc-tweaked) (PR/Merged)
 - [Create Jetpack](https://modrinth.com/mod/create-jetpack) (PR)
 - [Create: Power Loader](https://modrinth.com/mod/create-power-loader) (PR)
 - [Curos API](https://modrinth.com/mod/curios) (PR)
@@ -73,6 +72,7 @@
 - [Milk-lib](https://github.com/TropheusJ/milk-lib)*2 (PR)
 - [MEGA Cells](https://modrinth.com/mod/mega) (PR)
 - [ME Requester](https://modrinth.com/mod/merequester) (PR/Merged)
+- [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/) (PR)
 
 ## Not in pack
 - [AdvancedAE](https://modrinth.com/mod/advancedae) (PR)
