@@ -45,7 +45,7 @@
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)*4 (Next)
 - [Create Deco](https://modrinth.com/mod/create-deco)*1
 - [Curos API](https://modrinth.com/mod/curios) (PR Submitted)
-- [Delightful](https://modrinth.com/mod/delightful)
+- [Delightful](https://modrinth.com/mod/delightful) (PR Submitted)
 - [Entity Culling](https://modrinth.com/mod/entityculling/) (PR Submitted)
 - [Factory Blocks](https://modrinth.com/mod/factory-blocks) (PR Submitted)
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) (PR Submitted)
