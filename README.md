@@ -46,7 +46,7 @@
 - [Create Deco](https://modrinth.com/mod/create-deco)*1
 - [Curos API](https://modrinth.com/mod/curios) (PR Submitted)
 - [Delightful](https://modrinth.com/mod/delightful)
-- [Entity Culling](https://modrinth.com/mod/entityculling/) (Next)
+- [Entity Culling](https://modrinth.com/mod/entityculling/) (PR Submitted)
 - [Factory Blocks](https://modrinth.com/mod/factory-blocks) (PR Submitted)
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
 - [Fusion](https://modrinth.com/mod/fusion-connected-textures)
