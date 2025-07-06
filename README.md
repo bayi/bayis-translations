@@ -26,7 +26,6 @@
 ## Done
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR Submitted)
 - [AE2](https://modrinth.com/mod/ae2) (On Crowdin, PR for 1.20)
-- [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) (PR Submitted)
 - [Almost Unified](https://modrinth.com/mod/almost-unified/) (Next)
 - [Ammendments](https://modrinth.com/mod/amendments) (Next)
 - [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled)
@@ -44,7 +43,7 @@
 - [Create: Power Loader](https://modrinth.com/mod/create-power-loader)
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)*4
 - [Create Deco](https://modrinth.com/mod/create-deco)*1
-- [Curos API](https://modrinth.com/mod/curios) (Next)
+- [Curos API](https://modrinth.com/mod/curios) (PR Submitted)
 - [Delightful](https://modrinth.com/mod/delightful)
 - [Entity Culling](https://modrinth.com/mod/entityculling/) (Next)
 - [Factory Blocks](https://modrinth.com/mod/factory-blocks) (Next)
@@ -74,6 +73,7 @@
 
 ## Removed from resoure pack (Merged or Merge WIP)
 - [AdvancedAE](https://modrinth.com/mod/advancedae) (PR Submitted)
+- [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) (PR Submitted/Merged)
 - [BucketLib](https://modrinth.com/mod/bucketlib) (PR Submitted)
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) (PR Submitted/Merged)
 - [Ex Deorum](https://modrinth.com/mod/ex-deorum) (PR submitted)
