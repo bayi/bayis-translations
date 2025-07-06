@@ -56,7 +56,7 @@
 - [GuideME](https://modrinth.com/mod/guideme) (PR Submitted)
 - [Handcrafted](https://modrinth.com/mod/handcrafted/)
 - [Just Enough Items](https://modrinth.com/mod/jei/)
-- [Supplementaries](https://modrinth.com/mod/supplementaries) (Next)
+- [Supplementaries](https://modrinth.com/mod/supplementaries) (PR Submitted)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
 - [Lollipop](https://github.com/owmii/Lollipop) (Old)
 - [Lootr](https://modrinth.com/mod/lootr)
