@@ -33,13 +33,13 @@
 - [Balm](https://modrinth.com/mod/balm/) (PR Submitted)
 - [Beautify](https://modrinth.com/mod/beautify)*3
 - [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
-- [Better Advancements](https://modrinth.com/mod/better-advancements) (Next)
+- [Better Advancements](https://modrinth.com/mod/better-advancements) (PR Submitted)
 - [Caelus API](https://modrinth.com/mod/caelus) (PR Submitted)
 - [Carry On](https://modrinth.com/mod/carry-on) (PR Submitted)
 - [Chipped](https://modrinth.com/mod/chipped)*1 (PR Submitted)
 - [CC:Tweaked](https://modrinth.com/mod/cc-tweaked) (Next)
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/)
-- [Create Jetpack](https://modrinth.com/mod/create-jetpack) (Next)
+- [Create Jetpack](https://modrinth.com/mod/create-jetpack) (PR Submitted)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
 - [Create: Power Loader](https://modrinth.com/mod/create-power-loader)
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)*4
