@@ -43,7 +43,6 @@
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
-- [Shrink](https://modrinth.com/mod/shrink) (Next)
 
 ## Sent to Upstream
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR/Merged/Released for 1.21)
@@ -72,6 +71,7 @@
 - [Milk-lib](https://github.com/TropheusJ/milk-lib)*2 (PR)
 - [MEGA Cells](https://modrinth.com/mod/mega) (PR)
 - [ME Requester](https://modrinth.com/mod/merequester) (PR/Merged)
+- [Shrink](https://modrinth.com/mod/shrink) (PR)
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/) (PR)
 
 ## Not in pack
