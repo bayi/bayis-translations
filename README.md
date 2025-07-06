@@ -48,7 +48,7 @@
 - [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/)
 
 ## Sent to Upstream
-- [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR/Merged)
+- [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR/Merged/Released for 1.21)
 - [AE2](https://modrinth.com/mod/ae2) (On Crowdin, PR for 1.20)
 - [Almost Unified](https://modrinth.com/mod/almost-unified/) (PR/Merged)
 - [Ammendments](https://modrinth.com/mod/amendments) (PR)
