@@ -22,6 +22,7 @@
 - [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) - planned
 - [Macaw's Doors](https://modrinth.com/mod/macaws-doors) - planned
 - [Macaw's Windows](https://modrinth.com/mod/macaws-windows) - planned
+- Neoforge
 
 ## Done
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR Submitted)
@@ -78,7 +79,6 @@
 - [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) (PR Submitted/Merged)
 - [Ex Deorum](https://modrinth.com/mod/ex-deorum) (PR submitted)
 - [Hammerlib](https://github.com/dragon-forge/HammerLib) (PR Submitted)
-- Neoforge
 - [Vanilla Backport](https://modrinth.com/mod/vanillabackport)*5 (PR Submitted/Merged) 
 - [Wooden Bucket](https://modrinth.com/mod/wooden-bucket) (PR Submitted)
 - [Wooden Hopper](https://modrinth.com/mod/wooden-hopper) (PR Submitted)
