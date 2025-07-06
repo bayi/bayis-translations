@@ -29,8 +29,8 @@
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/) (Next / Update to new version)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
 - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)*4 (Next)
-- [Create Deco](https://modrinth.com/mod/create-deco)*1
-- [Fusion](https://modrinth.com/mod/fusion-connected-textures)
+- [Create Deco](https://modrinth.com/mod/create-deco)*1 (Mod not updated)
+- [Fusion](https://modrinth.com/mod/fusion-connected-textures) (Next)
 - [Geckolib](https://modrinth.com/mod/geckolib) (No PR: No lang files in source)
 - [Handcrafted](https://modrinth.com/mod/handcrafted/)
 - [Just Enough Items](https://modrinth.com/mod/jei/)
@@ -43,7 +43,7 @@
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
-- [Shrink](https://modrinth.com/mod/shrink)
+- [Shrink](https://modrinth.com/mod/shrink) (Next)
 
 ## Sent to Upstream
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR/Merged/Released for 1.21)
