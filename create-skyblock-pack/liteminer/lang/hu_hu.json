@@ -2,7 +2,7 @@
   "key.liteminer.veinmine": "Vénabányászat",
   "key.categories.liteminer": "Liteminer",
 
-  "hud.liteminer.selected_blocks": "%s blokkok",
+  "hud.liteminer.selected_blocks": "%s blokk",
   "hud.liteminer.selected_blocks_singular": "1 blokk",
   "hud.liteminer.changed_shape": "Changed Shape [%s]",
 
