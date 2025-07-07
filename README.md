@@ -29,6 +29,7 @@
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/) (Next / Update to new version)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
 - [Create Deco](https://modrinth.com/mod/create-deco)*1 (Mod not updated)
+- [Create: Trading floor](https://modrinth.com/mod/create-trading-floor)
 - [Geckolib](https://modrinth.com/mod/geckolib) (No PR: No lang files in source)
 - [Handcrafted](https://modrinth.com/mod/handcrafted/)
 - [Just Enough Items](https://modrinth.com/mod/jei/)
