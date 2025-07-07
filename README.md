@@ -29,7 +29,6 @@
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/) (Next / Update to new version)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
 - [Create Deco](https://modrinth.com/mod/create-deco)*1 (Mod not updated)
-- [Create: Trading floor](https://modrinth.com/mod/create-trading-floor)
 - [Geckolib](https://modrinth.com/mod/geckolib) (No PR: No lang files in source)
 - [Handcrafted](https://modrinth.com/mod/handcrafted/)
 - [Just Enough Items](https://modrinth.com/mod/jei/)
@@ -42,6 +41,7 @@
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
+- [Liteminer](https://modrinth.com/mod/liteminer) (Crowdin)
 
 ## Sent to Upstream
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) (PR/Merged/Released for 1.21)
@@ -69,6 +69,7 @@
 - [Gravestone Mod](https://modrinth.com/mod/gravestone-mod) (PR/Merged)
 - [GuideME](https://modrinth.com/mod/guideme) (PR)
 - [Supplementaries](https://modrinth.com/mod/supplementaries) (PR/Merged)
+- [Create: Trading floor](https://modrinth.com/mod/create-trading-floor) (PR)
 - [Milk-lib](https://github.com/TropheusJ/milk-lib)*2 (PR)
 - [MEGA Cells](https://modrinth.com/mod/mega) (PR)
 - [ME Requester](https://modrinth.com/mod/merequester) (PR/Merged)
