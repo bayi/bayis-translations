@@ -42,10 +42,19 @@
   "command.mantle.tag_preference.empty_tag": "No preference for %s tag %s",
   "command.mantle.tag_preference.preference": "Preferred value for %s tag %s is %s",
 
+  "gui.mantle.fluid.capacity": "Capacity: %s mb",
+  "gui.mantle.fluid.contents": "Contains: %s",
+  "gui.mantle.fluid.format": "%s / %s mb %s",
+
   "gui.mantle.fluid.hold_shift": "Hold §e§oShift§r§7 for buckets",
   "gui.mantle.fluid.kilobucket": "%s kb",
-  "gui.mantle.fluid.bucket": "%s b",
+  "gui.mantle.fluid.bucket": "%s buckets",
   "gui.mantle.fluid.millibucket": "%s mb",
+
+  "gui.mantle.fluid.bowl": "%s bowls",
+  "gui.mantle.fluid.bottle": "%s bottles",
+  "gui.mantle.fluid.drop": "%s drops",
+  "gui.mantle.fluid.sip": "%s sips",
 
   "block.mantle.tank.drained": "Drained %s mb %s",
   "block.mantle.tank.filled": "Filled %s mb %s"

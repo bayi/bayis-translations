@@ -252,7 +252,7 @@
   "gui.tooltips.ae2.NonBlocking": "A cél tároló tartalmának figyelmenkívül hagyása.",
   "gui.tooltips.ae2.NumberOfItems": "Tárgyak száma szerint",
   "gui.tooltips.ae2.OperationMode": "Művelet Mód",
-  "gui.tooltips.ae2.PartitionStorage": "Partició tároló",
+  "gui.tooltips.ae2.PartitionStorage": "Partició Tároló",
   "gui.tooltips.ae2.PartitionStorageHint": "A jelenleg tárolt tárgyak szerint konfigurálja a particiót.",
   "gui.tooltips.ae2.PowerUnits": "Energia egységek",
   "gui.tooltips.ae2.Read": "Csak eltávolítás",
