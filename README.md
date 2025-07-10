@@ -71,10 +71,10 @@
 - [MEGA Cells](https://modrinth.com/mod/mega) (PR)
 - [ME Requester](https://modrinth.com/mod/merequester) (PR/Merged)
 - [Shrink](https://modrinth.com/mod/shrink) (PR/Merged)
-- [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/) (PR)
+- [Creat Slice & Dice](https://modrinth.com/mod/slice-and-dice/) (PR/Merged)
 
 ## Not in pack
-- [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) (PR/Merged/Released for 1.20)
+- [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) (PR/Merged/Released)
 - [AdvancedAE](https://modrinth.com/mod/advancedae) (PR/Merged)
 - [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) (PR/Merged)
 - [BucketLib](https://modrinth.com/mod/bucketlib) (PR)
