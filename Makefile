@@ -2,21 +2,27 @@ DIST=dist
 VERSIONS=$(shell find src -mindepth 1 -maxdepth 1 -type d | sed 's|src/||' | sort -V)
 TARGETS=$(foreach v,${VERSIONS},${DIST}/BayisHungarianTranslations-${v}.zip)
 
-all: ${TARGETS}
-	@echo " * All Done."
+all: clean build
+	@echo -e " \033[32m* All Done.\033[0m"
 
-clean:
-	@echo " * Cleaning: ${DIST}"
-	@rm -rf ${DIST} || true
+build: ${TARGETS}
+	@echo -e " \033[32m* Built \033[0m${TARGETS}\033[32m in \033[0m${DIST}"
+
+install: build
 
 %.zip:
 	$(eval VERSION := $(shell echo $@ | sed 's|.*-\([0-9.]*\)\.zip|\1|'))
-	@echo " * Building $@ for version ${VERSION}"
+	@echo -e " \033[32m* Building\033[0m $@ \033[32mfor version\033[0m ${VERSION}"
 	@mkdir -p ${DIST} || true
 	@mkdir -p temp/assets/ || true
 	@cp src/${VERSION}/meta/* temp/
 	@cp -Lr src/${VERSION}/active/* temp/assets/ || true
 	@cd temp && zip -q -r ../$@ ./*
+	@rm -rf temp || true
+
+clean:
+	@echo -e " \033[31m* Cleaning:\033[0m ${DIST}"
+	@rm -rf ${DIST} || true
 	@rm -rf temp || true
 
 .PHONY: all clean
