@@ -7,7 +7,7 @@ function capitalizeWords($string) : string
   return ucwords(strtolower($string));
 }
 
-function loadFile($jsonFile) : array
+function loadFile($jsonFile) : array|null
 {
   if (!file_exists($jsonFile)) throw new Exception("File not found: $jsonFile");
   $fh = fopen($jsonFile, 'r');
