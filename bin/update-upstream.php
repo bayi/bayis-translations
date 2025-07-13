@@ -17,7 +17,7 @@ foreach($packs as $version => $dir) {
     if (pathinfo($file, PATHINFO_EXTENSION) == "jar") {
       $filePath = $dir . $file;
       echo "\e[032m * Processing \e[034m$filePath\e[0m" . PHP_EOL;
-      system("php " . BASEDIR . "/bin/extract.php \"$filePath\"");
+      system("php " . BASEDIR . "/bin/extract.php $version \"$filePath\"");
     }
   }
 }
