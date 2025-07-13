@@ -8,7 +8,7 @@
   "command.mantle.tags_for.not_found": "Ismeretlen %s bejegyzés érték '%s'",
   "command.mantle.tags_for.no_held_block": "A tartott tárgy nem blokk",
   "command.mantle.tags_for.no_held_entity": "A tartott tárgy nem idézőtojás",
-  "command.mantle.tags_for.no_held_potion": "A tartott tárgy nem bájital",,
+  "command.mantle.tags_for.no_held_potion": "A tartott tárgy nem bájital",
   "command.mantle.tags_for.no_held_fluid": "Nem lehet folyadékot kinyerni a tartott tárgyból",
   "command.mantle.tags_for.no_held_enchantment": "A tartott tárgy nem elvarázsolt",
   "command.mantle.tags_for.no_targeted_entity": "Nincs entitás a közelben",
