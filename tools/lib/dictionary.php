@@ -118,6 +118,7 @@ $pass_modded_a1 = [
 ];
 
 $blocks = initDictionaryFromSource('../originals/minecraft/hu_hu.json', 'block.minecraft.');
+// @TODO: Load items from minecraft file
 
 $dictionary = [
   $colors,
