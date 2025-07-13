@@ -1,4 +1,3 @@
-- Add spellchecker script
 - Add symlinks to packs
 - Add pack-install target
 - Add publish target
