@@ -77,6 +77,15 @@ function processFile(string $file, array $dictionaries = []) : array
   return $data;
 }
 
+function applyFixed(array $data, string $key) : array
+{
+  $fixed = loadDictionarySet($key, 'fixed');
+  foreach($fixed as $fixedDictionary)
+    foreach($fixedDictionary as $k => $v)
+      if (isset($data[$k])) $data[$k] = $v;
+  return $data;
+}
+
 function saveAs(array $data, string $file, ?bool $noIndent = false) : void
 {
   $fh = fopen($file, 'w');

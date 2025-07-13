@@ -1,0 +1,8 @@
+{
+  "item.advanced_ae.quantum_processor_press": "Kvantumprocesszor nyomtatólemez",
+  "gui.advanced_ae.AdvPatternProvider": "ME fejl. mintaszolgáltató",
+  "gui.advanced_ae.ImportExportBus": "ME import/export-busz",
+  "item.advanced_ae.import_export_bus_part": "ME import/export-busz",
+  "block.advanced_ae.quantum_storage_128": "128M Kvantumszámítógép tároló",
+  "block.advanced_ae.quantum_storage_256": "256M Kvantumszámítógép tároló"
+}
