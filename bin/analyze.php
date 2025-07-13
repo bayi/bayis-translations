@@ -21,12 +21,14 @@ function printKeys(string $label, array $keys) : void
   printHeader('End of ' . $label);
 }
 
-$key = $argv[1] ?? null;
-if (is_null($key) || $argc < 2) die("* Usage: " . $argv[0] . " <key>\n");
+$version = $argv[1] ?? null;
+$key = $argv[2] ?? null;
+$target = $argv[3] ?? 'active';
+if (is_null($version) || is_null($key) || $argc < 3) die("* Usage: " . $argv[0] . " <version> <key>\n");
 
 try {
-  $src = loadFile('../originals/' . $key . '/en_us.json');
-  $dst = loadFile('../src/assets/' . $key . '/lang/hu_hu.json');
+  $src = loadFile(BASEDIR . '/src/' . $version . '/upstream/'  . $key . '/lang/en_us.json');
+  $dst = loadFile(BASEDIR . '/src/' . $version . '/' . $target . '/'  . $key . '/lang/hu_hu.json');
 } catch (Exception $e) {
   die("! Error: Failed loading resources: " . $e->getMessage() . "\n");
 }
