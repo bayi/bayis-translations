@@ -1,10 +1,10 @@
 <?php
 include_once 'lib/index.php';
 
-$minecraft = loadFile('../originals/minecraft/hu_hu.json');
-$target = $argv[1] ?? 'vanillabackport';
-
-$source = loadFile('../originals/' . $target . '/en_us.json');
+$version = $argv[1] ?? '1.21.1';
+$target = $argv[2] ?? 'vanillabackport';
+$minecraft = loadFile(BASEDIR . '/dictionaries/minecraft/hu_hu.json');
+$source = loadFile(BASEDIR . '/src/' . $version . '/upstream/' . $target . '/lang/en_us.json');
 $result = [];
 
 foreach($source as $key => $value) {
@@ -18,4 +18,7 @@ foreach($source as $key => $value) {
   }
 }
 
-saveAs($result, '../src/assets/' . $target . '/lang/hu_hu.json');
+$file = $target . '.json';
+if ($argc > 3)
+    $file = $argv[3];
+saveAs($result, $file, true);
