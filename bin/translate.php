@@ -1,17 +1,18 @@
 <?php
 include_once 'lib/index.php';
 
-$key = $argv[1] ?? null;
-if (is_null($key)) {
-    echo "Usage: php translate.php <key> [output]\n";
+$version = $argv[1] ?? null;
+$key = $argv[2] ?? null;
+if (is_null($key) || is_null($version)) {
+    echo "Usage: php translate.php <version> <key> [output]\n";
     exit(1);
 }
 
-$originalFile = '/en_us.json';
+$originalFile = BASEDIR . '/src/' . $version . "/upstream/" . $key . "/lang/en_us.json";
 
 $words = loadDictionary($key, $baseWords);
 $data = processFile(
-    BASEDIR . '/originals/' . $key . $originalFile,
+    $originalFile,
     [
         ...$words,
     ]
@@ -19,7 +20,7 @@ $data = processFile(
 $data = applyFixed($data, $key);
 
 // Post processing ....
-$original = loadFile(BASEDIR . '/originals/' . $key . $originalFile);
+$original = loadFile($originalFile);
 foreach ($original as $k => $v) {
   // All uppercase words
   if (preg_match('/^[A-Z]{2,}$/', $v)) $data[$k] = mb_strtoupper($data[$k]);
@@ -36,6 +37,6 @@ foreach ($original as $k => $v) {
 }
 
 $file = $key . '.json';
-if ($argc > 2)
-    $file = $argv[2];
+if ($argc > 3)
+    $file = $argv[3];
 saveAs($data, $file, true);
