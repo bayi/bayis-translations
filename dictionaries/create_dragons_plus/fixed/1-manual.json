@@ -1,0 +1,20 @@
+{
+  "block.create_dragons_plus.fluid_hatch.tooltip.behaviour1": "A _kézben tartott tárgy_ _folyadékát_ _behelyezi_ a _tartályba_, vagy _kiüríti_ a _tartályból_ a tárolt _folyadékot_ egy _üres folyadék tárolóba_.",
+  "block.create_dragons_plus.fluid_hatch.tooltip.condition1": "jobb-klikkelve",
+  "block.create_dragons_plus.fluid_hatch.tooltip.summary": "A _folyadéknyílás_ _interaktívvá teszi_ a _tartályt_ a _folyadék tárolókkal_.",
+  "create_dragons_plus.ponder.bulk_coloring.text_1": "Ha a levegő folyékon festéken halad át, akkor létrejön a nagyözemi festés",
+  "create_dragons_plus.ponder.bulk_coloring.text_2": "Ahogy a nagyüzemi olvasztás és a nagyüzemi füstölés, a nagyüzemi festés automatikusan kompatibilis bizonyos barkács receptekkel, amelyek festékeket használnak",
+  "create_dragons_plus.ponder.bulk_coloring.text_3": "A festékes levegő folyam befolyásolhatja az entitásokat is, megváltoztatva azok színét.",
+  "create_dragons_plus.ponder.bulk_coloring.text_4": "A hordott páncél is színezve lesz.",
+  "create_dragons_plus.ponder.bulk_ending.text_1": "Ha a levegő sárkányfejön vagy sárkányleheleten halad át, akkor létrejön a nagyüzemi endezés",
+  "create_dragons_plus.ponder.bulk_freezing.text_1": "Ha a levegő porhavon halad át, akkor létrejön a nagyüzemi fagyasztás",
+  "create_dragons_plus.ponder.bulk_sanding.text_1": "Ha a levegő futóhomokon halad át, akkor létrejön a nagyüzemi csiszolás",
+  "create_dragons_plus.ponder.bulk_sanding.text_2": "Ahogy a nagyüzemi olvasztás és a nagyüzemi füstölés, a nagyüzemi csiszolás automatikusan kompatibilis csiszolópapír receptekkel",
+  "item.create_dragons_plus.smithing_template.blaze_upgrade.additions_slot_description": "Őrlánggal működő blokkok hozzáadása",
+  "item.create_dragons_plus.smithing_template.blaze_upgrade.base_slot_description": "Őrlángégő hozzáadása",
+  "item.create_dragons_plus.smithing_template.blaze_upgrade.ingredients": "Őrlánggal működő blokkok",
+  "recipe.create_dragons_plus.fan_coloring.fan": "Folyékony festék mögötti ventilátor",
+  "recipe.create_dragons_plus.fan_ending.fan": "Sárkányfej mögötti ventilátor",
+  "recipe.create_dragons_plus.fan_freezing.fan": "Porhó mögötti ventilátor",
+  "recipe.create_dragons_plus.fan_sanding.fan": "Futóhomok mögötti ventilátor"
+}

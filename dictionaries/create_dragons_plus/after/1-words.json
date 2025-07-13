@@ -1,0 +1,18 @@
+{
+    "dyes": "festékek",
+    "fluid hatch": "folyadéknyílás",
+    "coloring": "festés",
+    "freezing": "fagyasztás",
+    "sanding": "csiszolás",
+    "ending": "endezés",
+    "can be frozen": "fagyasztható",
+    "can be sanded": "csiszolható",
+    "can be ended": "endezhető",
+    "cannot be frozen": "nem fagyasztható",
+    "cannot be sanded": "nem csiszolható",
+    "cannot be ended": "nem endezhető",
+    "dragon's breath": "sárkánylehelet",
+    "dragon breath": "sárkánylehelet",
+    "smithing template": "kovácssablon",
+    "blaze burner": "őrlángégő"
+}

@@ -1,0 +1,22 @@
+{
+  "gui.exdeorum.category.barrel_fluid_mixing.contents_are_consumed": "A tartalom felhasználásra kerül",
+  "gui.exdeorum.category.crook.requires_state": "Szükséges tulajdonságok:",
+  "gui.exdeorum.category.crucible_heat_source": "Olvasztótégely hőforrás",
+  "gui.exdeorum.category.crucible_heat_source.multiplier": "Olvasztási sebesség: %sx",
+  "gui.exdeorum.category.sieve.average_output": "Átl. Kimenet: %s",
+  "gui.exdeorum.category.sieve.by_hand_only": "Csak kézi szitával esik",
+  "gui.exdeorum.category.sieve.chance": "Esély: %s%%",
+  "info.exdeorum.crimson_nylium_spores": "Használható netherrack-en, hogy karmazsin nílium blokká változzon.",
+  "info.exdeorum.grass_seeds": "Használható földön, hogy füves földblokká változzon.",
+  "info.exdeorum.mechanical_hammer": "A mechanikus kalapács egy gép, amely forge energia (FE) segítségével játékos nélkül képes blokkokat törni. Kalapács nélkül is működik, de bármilyen kalapács hozzáadása megduplázza a sebességet, és a hatékonyság varázslat tovább növeli azt. Három különböző redstone-vezérlési módot is támogat. Mivel az Ex Deorum nem biztosít energiatermelést, más modra lesz szükséged az áramellátáshoz.",
+  "info.exdeorum.mechanical_sieve": "A mechanikus szita egy gép, amely háló és forge energia (FE) használatával képes blokkokat szitálni a játékos helyett. Három különböző redstone-vezérlési módot támogat. Mivel az Ex Deorum nem biztosít energiatermelést, más modra lesz szükséged az áramellátáshoz.",
+  "info.exdeorum.mycelium_spores": "Használható földön, hogy micéliummá változzon. Használható tehénen, hogy mooshroommá váljon.",
+  "info.exdeorum.sculk_core": "A sculk mag használatával aktiválható a sculk sikoltó, hogy őrzőket idézzen. A játékos által lerakott sikoltók alapból nem tudnak őrzőt idézni, így ez az eszköz hasznos lehet sculk tárgyak beszerzéséhez skyblock világban.",
+  "info.exdeorum.sieve": "A sziták segítségével puha blokkokból – például sóderből vagy földből – nyerhetünk ki tárgyakat. A használatához szükség van egy hálóra. A hálók varázsolhatók szerencse és hatékonyság bűbájokkal. Az 5x5-ös területre helyezett sziták egyszerre használhatók.",
+  "info.exdeorum.sieve_mesh": "A hálók a szitákban használatosak. Különböző hálók különböző eséseket eredményeznek. A szerencse és hatékonyság varázslatok növelik a tárgyesések valószínűségét és a szitálás sebességét.",
+  "info.exdeorum.silk_worm": "A selyemhernyók 1/100 eséllyel esnek levelekből, ha kampóval szüretelsz. A selyemhernyó egy fa leveleire helyezve megfertőzi azokat, és a fertőzés lassan átterjed az egész fára. A 100%-ban fertőzött levelek fonalat adnak, de nem dobnak csemetét.",
+  "info.exdeorum.warped_nylium_spores": "Használható netherrack-en, hogy torz nílium blokká változzon.",
+  "info.exdeorum.watering_can": "Az öntözőkannák gyorsítják a növények, fák és fű növekedését, többek között. Víz tölthető beléjük hordókból és faolvasztótégelyekből. Az arany vagy annál jobb kannák nem igényelnek újratöltést, ha egyszer megteltek. A gyémánt kannák 3x3-as területen öntöznek, a netherit kannák pedig gépekkel is használhatók.",
+  "info.exdeorum.witch_water": "A boszorkányvíz úgy készül, hogy vizet teszel egy hordóba, ami micélium fölött van. Minél több micélium, annál gyorsabb a folyamat. A boszorkányvizet tartalmazó hordó gombát növeszt a közeli micéliumon. A boszorkányvíz és a láva netherrack-generátorként használható, hasonlóan a zúzottkő-generátorhoz.",
+  "item.exdeorum.random_armor_trim.no_upgrade": "Nem dob netherit fejlesztést"
+}
