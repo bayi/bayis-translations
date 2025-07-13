@@ -1,5 +1,6 @@
 <?php
 mb_internal_encoding('utf-8');
+if (!defined('BASEDIR')) die();
 
 function capitalizeWords($string) : string
 {
@@ -95,4 +96,59 @@ function saveAs(array $data, string $file, ?bool $noIndent = false) : void
     $json = preg_replace('/^ +/m', '', $json); // Remove indentation
   fwrite($fh, $json);
   fclose($fh);
+}
+
+function createTemp() : ?string
+{
+  $path = BASEDIR . '/temp';
+  if (!is_dir($path)) {
+      if (!mkdir($path, 0755, true)) {
+          die('Failed to create temp directory');
+      }
+  } else exec('rm -rf ' . $path . '/*');
+  return $path;
+}
+
+function extractUpstream(string $fileName, string $version) : bool
+{
+  $temp = createTemp();
+  $files = ['en_us.json', 'hu_hu.json'];
+  foreach($files as $file) {
+    $command = "unzip '$fileName' 'assets/*/lang/'" . $file . " -d $temp 2>/dev/null";
+    exec($command, $output, $return_var);
+  }
+  if (!is_dir("$temp/assets")) { 
+    echo "\e[033m ! No assets extracted from: " . $file . "\e[0m" . PHP_EOL;
+    return false;
+  }
+  $target = BASEDIR . "/src/$version/upstream";
+  try {
+    $dir = new DirectoryIterator('temp/assets');
+    $keys = [];
+    foreach ($dir as $fileinfo) {
+      if ($fileinfo->isDir() && !$fileinfo->isDot()) $keys[] = $fileinfo->getFilename();
+    }
+
+    foreach($keys as $key) {
+      if (!is_dir("$target/$key/lang")) {
+        if (!mkdir("$target/$key/lang", 0755, true)) {
+          echo "\e[031m ! Failed to create directory: $target/$key\e[0m" . PHP_EOL;
+          return false;
+        }
+      }
+
+      foreach($files as $file) {
+        $source = "$temp/assets/$key/lang/$file";
+        $destination = "$target/$key/lang/$file";
+        if (@rename($source, $destination)) {
+          echo "\e[032m   * Extracted: \e[034m$file\e[0m" . PHP_EOL;
+        }
+      }
+    }
+    exec("rm -rf $temp");
+  } catch (Exception $e) {
+    echo "\e[031m ! Error: " . $e->getMessage() . "\e[0m" . PHP_EOL;
+    return false;
+  }
+  return false;
 }
