@@ -2,8 +2,6 @@
 - Add symlinks to packs
 - Add pack-install target
 - Add publish target
-* Add README generator
-* Add metadata to addons ( auto generate urls ?)
 
 ## Planned
 - [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
