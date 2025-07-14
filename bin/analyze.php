@@ -10,7 +10,7 @@ if (is_null($version) || is_null($key) || $argc < 3) die("* Usage: " . $argv[0] 
 
 $data = getProgress($version, $key, $target);
 if ($data === null)
-    die("\e[031m * Error: Failed loading resources for version \e[034m$version\e[031m and key \e[034m$key\e[031m\e[0m\n");
+    die("\e[031m * Error: Failed loading resources for version \e[034m$version\e[031m and key \e[034m$target/$key\e[031m\e[0m\n");
 
 echo "\n";
 printKeys('Extra keys', $data['extraKeys']);
