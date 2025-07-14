@@ -20,7 +20,7 @@ foreach($versions as $version)
     foreach ($subdirs as $subdir) {
       $modName = basename($subdir);
       if (!isset($mods[$modName]))
-        $mods[$modName] = ['versions' => [], 'targets' => [], 'meta' => []];
+        $mods[$modName] = ['versions' => [], 'targets' => [], 'meta' => [], 'crowdin' => null];
       $mods[$modName]['folder'] = $modName;
       $mods[$modName]['versions'][$version] = ['status' => $target, 'pr' => false, 'merged' => false, 'crowdin' => false, 'progress' => 0];
       $mods[$modName]['notes'] = '';
@@ -48,6 +48,9 @@ foreach($versions as $version)
           $notes = file_get_contents($upstreamDir . '/notes');
           $mods[$modName]['notes'] .= trim($notes);
         }
+        if (file_exists($upstreamDir . '/crowdin')) {
+          $mods[$modName]['crowdin'] = file_get_contents($upstreamDir . '/crowdin');
+        }
       }
     }
   }
@@ -73,7 +76,6 @@ foreach($mods as $modName => $modData) {
         if ($modData['versions'][$version]['merged']) $status = '🟣';
         elseif ($modData['versions'][$version]['pr']) $status = ' 🔵';
         else $status = '🟢';
-        // @TODO: Crowdin
       } else {
         $status = '❌';
       }
@@ -92,6 +94,10 @@ foreach($mods as $modName => $modData) {
   }
   
   $output .= $modData['notes'] ?? ''; 
+  if ($modData['crowdin']) {
+    $crowdinLink = trim($modData['crowdin']);
+    $output .= " [Crowdin]({$crowdinLink})";
+  }
 
   $output .= " | " . PHP_EOL;
 }
