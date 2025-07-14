@@ -1,0 +1,5 @@
+block.create_jetpack.jetpack
+ item.create_jetpack.jetpack
+ item.create_jetpack.jetpack.tooltip
+ item.create_jetpack.netherite_jetpack.tooltip
+ key.categories.movement.jetpack
