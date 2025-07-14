@@ -1,6 +1,5 @@
 # TODO
-- Add pack symlinks for pack install target
-- Add pack-install target
+- Add pack-install target (copy to folders openloader/resource folder and cleanup)
 - Add publish target
 
 ## Planned
