@@ -35,7 +35,7 @@
 - [Beautify](https://modrinth.com/mod/beautify)*3
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/) (Next / Update to new version)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
-- [Geckolib](https://modrinth.com/mod/geckolib) (No lang files in source)
+- [Geckolib](https://modrinth.com/mod/geckolib) (PR Blocked: No lang files in source)
 - [Handcrafted](https://modrinth.com/mod/handcrafted/)
 - [Just Enough Items](https://modrinth.com/mod/jei/)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
