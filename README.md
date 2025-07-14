@@ -21,7 +21,7 @@
 | [Applied Energistics 2 Wireless Terminals (API)](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 ❌| 1.21.1 🟣 |  | 
 | [Create: Trading floor](https://modrinth.com/mod/create-trading-floor) | 1.20.1 ❌| 1.21.1 🟣 |  | 
 | [Balm](https://modrinth.com/mod/balm) | 1.20.1 🟣 | 1.21.1 🟣⚠️ (97%) |  | 
-| [ComputerCraft](https://modrinth.com/mod/computercraft) | 1.20.1 🟣 (96%) | 1.21.1 🟣⚠️ (96%) |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
+| [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | 1.20.1 🟣 (96%) | 1.21.1 🟣⚠️ (96%) |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 (92%) | 1.21.1 🟣⚠️ (93%) |  | 
 | [Carry On](https://modrinth.com/mod/carry-on) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Chipped](https://modrinth.com/mod/chipped) | 1.20.1  🔵 | 1.21.1  🔵 | *1 | 
