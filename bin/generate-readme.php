@@ -22,13 +22,16 @@ foreach($versions as $version)
       if (!isset($mods[$modName]))
         $mods[$modName] = ['versions' => [], 'targets' => [], 'meta' => []];
       $mods[$modName]['folder'] = $modName;
-      $mods[$modName]['versions'][$version] = ['status' => $target, 'pr' => false, 'crowdin' => false, 'progress' => 0];
+      $mods[$modName]['versions'][$version] = ['status' => $target, 'pr' => false, 'merged' => false, 'crowdin' => false, 'progress' => 0];
       $mods[$modName]['notes'] = '';
 
       $upstreamDir = BASEDIR . '/src/' . $version . '/upstream/' . $modName;
       if (is_dir($upstreamDir)) {
         if (file_exists($upstreamDir . '/pr')) {
           $mods[$modName]['versions'][$version]['pr'] = true;
+        }
+        if (file_exists($upstreamDir . '/merged')) {
+          $mods[$modName]['versions'][$version]['merged'] = true;
         }
         if (file_exists($upstreamDir . '/modrinth.json')) {
           $mods[$modName]['meta'] = json_decode(file_get_contents($upstreamDir . '/modrinth.json'), true);
@@ -62,7 +65,8 @@ foreach($mods as $modName => $modData) {
       if ($status == 'merged') {
         $status = '✅';
       } elseif ($status == 'active') {
-        if ($modData['versions'][$version]['pr']) $status = ' 🔵';
+        if ($modData['versions'][$version]['merged']) $status = '🟣';
+        elseif ($modData['versions'][$version]['pr']) $status = ' 🔵';
         else $status = '🟢';
         // @TODO: Crowdin
       } else {
