@@ -22,7 +22,7 @@ foreach($versions as $version)
       if (!isset($mods[$modName]))
         $mods[$modName] = ['versions' => [], 'targets' => [], 'meta' => [], 'crowdin' => null];
       $mods[$modName]['folder'] = $modName;
-      $mods[$modName]['versions'][$version] = ['status' => $target, 'pr' => false, 'merged' => false, 'crowdin' => false, 'progress' => 0];
+      $mods[$modName]['versions'][$version] = ['status' => $target, 'pr' => false, 'merged' => false, 'crowdin' => false, 'missingKeys' => false, 'progress' => 0];
       $mods[$modName]['notes'] = '';
 
       $upstreamDir = BASEDIR . '/src/' . $version . '/upstream/' . $modName;
@@ -41,8 +41,12 @@ foreach($versions as $version)
         $progressData = getProgress($version, $modName, $target);
         if ($progressData === null)
           $mods[$modName]['versions'][$version]['progress'] = '?';
-        else
+        else {
           $mods[$modName]['versions'][$version]['progress'] = $progressData['percent'];
+          if (isset($progressData['missingKeys']) && is_array($progressData['missingKeys']) && count($progressData['missingKeys']) > 0) {
+            $mods[$modName]['versions'][$version]['missingKeys'] = true;
+          }
+        }
 
         if (file_exists($upstreamDir . '/notes')) {
           $notes = file_get_contents($upstreamDir . '/notes');
@@ -152,6 +156,9 @@ foreach($mods as $modName => $modData) {
         } else {
           $progress = (int) floatval($modData['versions'][$version]['progress']);
           $status .= " ($progress%)";
+          if ($modData['versions'][$version]['missingKeys']) {
+            $status .= '⚠';
+          }
         }
       }
       $output .= "$version $status | ";
