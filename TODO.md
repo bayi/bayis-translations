@@ -36,11 +36,10 @@
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/) (Next / Update to new version)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
 - [Create Deco](https://modrinth.com/mod/create-deco)*1 (Mod not updated)
-- [Geckolib](https://modrinth.com/mod/geckolib) (No PR: No lang files in source)
+- [Geckolib](https://modrinth.com/mod/geckolib) (No lang files in source)
 - [Handcrafted](https://modrinth.com/mod/handcrafted/)
 - [Just Enough Items](https://modrinth.com/mod/jei/)
 - [Jade Addons](https://modrinth.com/mod/jade-addons-forge)
-- [Lollipop](https://github.com/owmii/Lollipop) (No PR: Old)
 - [Lootr](https://modrinth.com/mod/lootr)
 - [Mantle](https://modrinth.com/mod/mantle)
 - [McJtyLib](https://modrinth.com/mod/mcjtylib)
@@ -51,7 +50,6 @@
 
 ## Sent to Upstream
 - [FlightLib](https://github.com/PssbleTrngle/FlightLib) (PR)
-- [Milk-lib](https://github.com/TropheusJ/milk-lib)*2 (PR)
 - [Hammerlib](https://github.com/dragon-forge/HammerLib) (PR)
 
 ## Paused/Abandoned (Currently unused)

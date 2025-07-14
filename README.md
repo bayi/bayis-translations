@@ -33,7 +33,7 @@
 | flightlib | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [Fusion](https://modrinth.com/mod/fusion) | 1.20.1 🟣 (100%) | 1.21.1 ❌|  | 
 | fxntstorage | 1.20.1 🟢 | 1.21.1 ❌|  | 
-| [Geckolib](https://modrinth.com/mod/geckolib) | 1.20.1 🟢 (96%) | 1.21.1 ❌|  | 
+| [Geckolib](https://modrinth.com/mod/geckolib) | 1.20.1 🟢 (96%) | 1.21.1 ❌| PR Blocked | 
 | [GuideME](https://modrinth.com/mod/guideme) | 1.20.1  🔵 (97%) | 1.21.1  🔵 (97%) |  | 
 | [Handcrafted](https://modrinth.com/mod/handcrafted) | 1.20.1 🟢 (86%) | 1.21.1 ❌|  | 
 | [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) | 1.20.1 🟢 (49%) | 1.21.1 ❌|  | 
@@ -41,7 +41,7 @@
 | [Jade Addons (Neo/Forge)](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢 (94%) | 1.21.1 🟢 (94%) |  | 
 | [Just Enough Items](https://modrinth.com/mod/jei) | 1.20.1 🟢 (92%) | 1.21.1 ❌|  | 
 | [Just Enough Resources (JER)](https://modrinth.com/mod/just-enough-resources-jer) | 1.20.1 🟢 (31%) | 1.21.1 ❌|  | 
-| lollipop | 1.20.1 🟢 (80%) | 1.21.1 ❌|  | 
+| [Lollipop](https://github.com/owmii/Lollipop) | 1.20.1 🟢 (80%) | 1.21.1 ❌| Old | 
 | [Lootr](https://modrinth.com/mod/lootr) | 1.20.1 🟢 (92%) | 1.21.1 ❌|  | 
 | [Mantle](https://modrinth.com/mod/mantle) | 1.20.1 🟢 (95%) | 1.21.1 ❌|  | 
 | [McJtyLib](https://modrinth.com/mod/mcjtylib) | 1.20.1 🟢 (66%) | 1.21.1 ❌|  | 
@@ -49,7 +49,7 @@
 | [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps) | 1.20.1 🟢 (99%) | 1.21.1 ❌|  | 
 | [MEGA Cells](https://modrinth.com/mod/mega) | 1.20.1  🔵 (98%) | 1.21.1  🔵 (99%) |  | 
 | [ME Requester](https://modrinth.com/mod/merequester) | 1.20.1 🟣 (100%) | 1.21.1 🟣 (100%) |  | 
-| milk | 1.20.1 🟢 | 1.21.1 ❌|  | 
+| [MilkLib](https://github.com/TropheusJ/milk-lib) | 1.20.1  🔵 (0%) | 1.21.1 ❌| *4 | 
 | [Moonlight Lib](https://modrinth.com/mod/moonlight) | 1.20.1 🟢 (100%) | 1.21.1 ❌|  | 
 | [Naturalist](https://modrinth.com/mod/naturalist) | 1.20.1 🟢 (46%) | 1.21.1 ❌|  | 
 | [Nature's Compass](https://modrinth.com/mod/natures-compass) | 1.20.1 🟢 (100%) | 1.21.1 ❌|  | 
