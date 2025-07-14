@@ -1,5 +1,5 @@
 # TODO
-* Add symlinks to packs
+- Add pack symlinks for pack install target
 - Add pack-install target
 - Add publish target
 

@@ -40,12 +40,14 @@
 | [Entity Culling](https://modrinth.com/mod/entityculling) | 1.20.1  🔵 (95%) | 1.21.1  🔵 (95%) |  | 
 | [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles) | 1.20.1  🔵 (94%) | 1.21.1  🔵⚠️ (94%) |  | 
 | [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵 (??) |  | 
+| [Moonlight Lib](https://modrinth.com/mod/moonlight) | 1.20.1 🟢 | 1.21.1 🟢⚠️ |  | 
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | 1.20.1 🟣 (99%) | 1.21.1 🟢 (99%) |  [Crowdin](https://appliedenergistics2.crowdin.com/) | 
 | [Jade Addons (Neo/Forge)](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢⚠️ (94%) | 1.21.1 🟢⚠️ (94%) |  | 
 | [Powah!](https://modrinth.com/mod/powah) | 1.20.1 🟢 (73%) | 1.21.1 🟢⚠️ (93%) |  | 
 | [Liteminer](https://modrinth.com/mod/liteminer) | 1.20.1 ❌| 1.21.1 🟢 (92%) |  [Crowdin](https://crowdin.com/project/liteminer) | 
 | [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) | 1.20.1 🟢 (85%) | 1.21.1 🟢⚠️ (85%) |  | 
 | [Patchouli](https://modrinth.com/mod/patchouli) | 1.20.1 🟢 (83%) | 1.21.1 🟢⚠️ (83%) |  | 
+| [Lollipop](https://github.com/owmii/Lollipop) | 1.20.1 🟢 (80%) | 1.21.1 🟢 (80%) |  | 
 | [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals) | 1.20.1 🟢 (78%) | 1.21.1 🟢 (78%) |  | 
 | [Jade 🔍](https://modrinth.com/mod/jade) | 1.20.1 🟢⚠️ (22%) | 1.21.1 🟢⚠️ (34%) |  | 
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | 1.20.1 🟢 (18%) | 1.21.1 🟢 (18%) |  | 
@@ -59,7 +61,6 @@
 | [MilkLib](https://github.com/TropheusJ/milk-lib) | 1.20.1  🔵 (??) | 1.21.1 ❌| *4 | 
 | [Create Deco](https://modrinth.com/mod/create-deco) | 1.20.1 🟢⚠️ | 1.21.1 ❌| *1 | 
 | [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) | 1.20.1 🟢 | 1.21.1 ❌|  | 
-| [Moonlight Lib](https://modrinth.com/mod/moonlight) | 1.20.1 🟢 | 1.21.1 ❌|  | 
 | [Nature's Compass](https://modrinth.com/mod/natures-compass) | 1.20.1 🟢 | 1.21.1 ❌|  | 
 | [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps) | 1.20.1 🟢⚠️ (99%) | 1.21.1 ❌|  | 
 | [Beautify!](https://modrinth.com/mod/beautify) | 1.20.1 🟢 (98%) | 1.21.1 ❌| *3 | 
@@ -74,7 +75,6 @@
 | [RFTools Base](https://modrinth.com/mod/rftools-base) | 1.20.1 🟢 (85%) | 1.21.1 ❌|  | 
 | [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) | 1.20.1 🟢⚠️ (85%) | 1.21.1 ❌|  | 
 | [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture) | 1.20.1 🟢 (84%) | 1.21.1 ❌|  | 
-| [Lollipop](https://github.com/owmii/Lollipop) | 1.20.1 🟢 (80%) | 1.21.1 ❌| Old | 
 | [McJtyLib](https://modrinth.com/mod/mcjtylib) | 1.20.1 🟢 (66%) | 1.21.1 ❌|  | 
 | [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) | 1.20.1 🟢⚠️ (49%) | 1.21.1 ❌|  | 
 | [Naturalist](https://modrinth.com/mod/naturalist) | 1.20.1 🟢 (46%) | 1.21.1 ❌|  | 
