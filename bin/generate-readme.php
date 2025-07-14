@@ -78,8 +78,12 @@ foreach($mods as $modName => $modData) {
         $status = '❌';
       }
       if (isset($modData['versions'][$version]['progress']) && $modData['versions'][$version]['progress'] > 0) {
-        $progress = (int) floatval($modData['versions'][$version]['progress']);
-        $status .= " ($progress%)";
+        if ($modData['versions'][$version]['progress'] == '?') {
+          $status .= ' ?';
+        } else {
+          $progress = (int) floatval($modData['versions'][$version]['progress']);
+          $status .= " ($progress%)";
+        }
       }
       $output .= "$version $status | ";
     } else {
