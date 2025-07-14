@@ -56,6 +56,73 @@ foreach($versions as $version)
   }
 }
 
+uasort($mods, function($a, $b) use ($versions) {
+
+  // Sort by merge status first
+  $hasMergedA = false;
+  $hasMergedB = false;
+  foreach ($a['versions'] as $versionData) {
+    if ($versionData['status'] === 'merged') {
+      $hasMergedA = true;
+      break;
+    }
+  }
+  foreach ($b['versions'] as $versionData) {
+    if ($versionData['status'] === 'merged') {
+      $hasMergedB = true;
+      break;
+    }
+  }
+  if ($hasMergedA && !$hasMergedB) return -1;
+  if (!$hasMergedA && $hasMergedB) return 1;
+
+  // Sort by version
+  $versionA = array_search('1.21.1', array_keys($a['versions'])) !== false ? 0 : 1;
+  $versionB = array_search('1.21.1', array_keys($b['versions'])) !== false ? 0 : 1;
+  
+  if ($versionA !== $versionB) {
+    return $versionA - $versionB;
+  }
+
+  // Determine which version to use for further sorting
+  if (isset($a['versions']['1.21.1']) && isset($b['versions']['1.21.1'])) {
+    $versionDataA = $a['versions']['1.21.1'];
+    $versionDataB = $b['versions']['1.21.1'];
+    $usedVersion = '1.21.1';
+  } else {
+    $versions = array_keys($a['versions']);
+    if (empty($versions)) return 0; // No versions to compare
+    $versionDataA = $a['versions'][$versions[0]];
+    $versionDataB = $b['versions'][$versions[0]];
+    $usedVersion = $versions[0];
+  }
+
+  // Sort by status: merged > active
+  $statusA = $versionDataA['status'] ?? '?';
+  $statusB = $versionDataA['status'] ?? '?';
+  
+  if ($statusA === 'merged' && $statusB !== 'merged') return -1;
+  if ($statusA !== 'merged' && $statusB === 'merged') return 1;
+
+  $prStatusA = ($versionDataA['merged'] ?? false) ? 'merged' : (($versionDataA['pr'] ?? false) ? 'pr' : 'active');
+  $prStatusB = ($versionDataB['merged'] ?? false) ? 'merged' : (($versionDataB['pr'] ?? false) ? 'pr' : 'active');
+  // Sort by PR status
+  if ($prStatusA === 'merged' && $prStatusB !== 'merged') return -1;
+  if ($prStatusA !== 'merged' && $prStatusB === 'merged') return 1;
+  if ($prStatusA === 'pr' && $prStatusB !== 'pr') return -1;
+  if ($prStatusA !== 'pr' && $prStatusB === 'pr') return 1;
+
+  // Sort by progress for active mods
+  if ($statusA === 'active' && $statusB === 'active') {
+    $progressA = (int) floatval($a['versions'][$usedVersion]['progress']);
+    $progressB = (int) floatval($b['versions'][$usedVersion]['progress']);
+    return $progressB - $progressA; // Higher progress first
+  }
+
+  // Finally sort alphabetically by mod name
+  return strcmp($a['folder'], $b['folder']);
+});
+
 $output = "# Hungarian translations / Magyar fordítások" . PHP_EOL;
 $output .= PHP_EOL;
 $output .= "## Status" . PHP_EOL;
