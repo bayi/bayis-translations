@@ -16,6 +16,7 @@
 | [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | 1.20.1 🟣 (99%) | 1.21.1 🟣 | *2 | 
 | [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟣 | *1 | 
+| [Applied Energistics 2 Wireless Terminals (API)](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 ❌| 1.21.1 🟣 |  | 
 | [Create: Trading floor](https://modrinth.com/mod/create-trading-floor) | 1.20.1 ❌| 1.21.1 🟣 |  | 
 | [ComputerCraft](https://modrinth.com/mod/computercraft) | 1.20.1 🟣 (96%) | 1.21.1 🟣⚠️ (96%) |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 (92%) | 1.21.1 🟣⚠️ (93%) |  | 
@@ -47,7 +48,6 @@
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | 1.20.1 🟢 (18%) | 1.21.1 🟢 (18%) |  | 
 | [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | 1.20.1 🟢 | 1.21.1 🟢 (6%) |  | 
 | [FlightLib](https://github.com/PssbleTrngle/FlightLib) | 1.20.1  🔵 (??) | 1.21.1 🟢 |  | 
-| ae2wtlib_api | 1.20.1 ❌| 1.21.1 🟢 |  | 
 | [NeoForge](https://github.com/neoforged/NeoForge) | 1.20.1 ❌| 1.21.1 🟢 (??) |  [Crowdin](https://neoforged.crowdin.com/) | 
 | [Almost Unified](https://modrinth.com/mod/almost-unified) | 1.20.1 🟣 | 1.21.1 ❌|  | 
 | [Balm](https://modrinth.com/mod/balm) | 1.20.1 🟣 | 1.21.1 ❌|  | 
