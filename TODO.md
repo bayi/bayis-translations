@@ -35,7 +35,7 @@
 - [Beautify](https://modrinth.com/mod/beautify)*3
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/) (Next / Update to new version)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
-- [Create Deco](https://modrinth.com/mod/create-deco)*1 (Mod not updated)
+- [Create Deco](https://modrinth.com/mod/create-deco)*1
 - [Geckolib](https://modrinth.com/mod/geckolib) (No lang files in source)
 - [Handcrafted](https://modrinth.com/mod/handcrafted/)
 - [Just Enough Items](https://modrinth.com/mod/jei/)
@@ -47,10 +47,6 @@
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
-
-## Sent to Upstream
-- [FlightLib](https://github.com/PssbleTrngle/FlightLib) (PR)
-- [Hammerlib](https://github.com/dragon-forge/HammerLib) (PR)
 
 ## Paused/Abandoned (Currently unused)
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers)

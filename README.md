@@ -30,7 +30,7 @@
 | extended_drawers | 1.20.1 🟢 (100%) | 1.21.1 ❌| Paused | 
 | [Factory Blocks](https://modrinth.com/mod/factory-blocks) | 1.20.1 🟣 (99%) | 1.21.1 🟣 (99%) |  | 
 | [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | 1.20.1  🔵 (99%) | 1.21.1  🔵 (99%) |  | 
-| flightlib | 1.20.1 🟢 | 1.21.1 🟢 |  | 
+| [FlightLib](https://github.com/PssbleTrngle/FlightLib) | 1.20.1  🔵 (0%) | 1.21.1 🟢 |  | 
 | [Fusion](https://modrinth.com/mod/fusion) | 1.20.1 🟣 (100%) | 1.21.1 ❌|  | 
 | fxntstorage | 1.20.1 🟢 | 1.21.1 ❌|  | 
 | [Geckolib](https://modrinth.com/mod/geckolib) | 1.20.1 🟢 (96%) | 1.21.1 ❌| PR Blocked | 
@@ -81,7 +81,7 @@
 | [BucketLib](https://modrinth.com/mod/bucketlib) | 1.20.1 ❌| 1.21.1  🔵 (100%) |  | 
 | [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) | 1.20.1 ❌| 1.21.1  🔵 (100%) |  | 
 | [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ❌| 1.21.1  🔵 (98%) |  | 
-| hammerlib | 1.20.1 ❌| 1.21.1 🟢 |  | 
+| [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵 (0%) |  | 
 | [Liteminer](https://modrinth.com/mod/liteminer) | 1.20.1 ❌| 1.21.1 🟢 (92%) |  | 
 | neoforge | 1.20.1 ❌| 1.21.1 🟢 |  | 
 | [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.20.1 ❌| 1.21.1 🟣 (98%) |  | 
