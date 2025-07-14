@@ -1,11 +1,7 @@
 <?php
 include_once 'lib/index.php';
-$packs = [
-  '1.20.1' => "/data/Games/com.modrinth.theseus/profiles/Lillas Create/mods/",
-  '1.21.1' => "/data/Games/com.modrinth.theseus/profiles/Bayi_s Create Skyblock Pack/mods/",
-];
 
-foreach($packs as $version => $dir) {
+foreach($versions as $version => $dir) {
   if (!is_dir($dir)) {
     echo "\e[031m * Directory \e[034m$dir\e[031m does not exist\e[0m" . PHP_EOL;
     continue;
