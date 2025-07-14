@@ -10,6 +10,11 @@ build: ${TARGETS}
 
 install: build
 
+readme:
+	@echo -e " \033[32m* Building\033[0m README.md"
+	@rm -f README.md || true
+	@php bin/generate-readme.php > README.md
+
 %.zip:
 	$(eval VERSION := $(shell echo $@ | sed 's|.*-\([0-9.]*\)\.zip|\1|'))
 	@echo -e " \033[32m* Building\033[0m $@ \033[32mfor version\033[0m ${VERSION}"
