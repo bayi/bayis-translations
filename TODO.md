@@ -1,5 +1,4 @@
 # TODO
-- Add pack-install target (copy to folders openloader/resource folder and cleanup)
 - Add publish target
 
 ## Planned

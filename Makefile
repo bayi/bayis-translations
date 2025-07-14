@@ -17,6 +17,7 @@ build: $(TARGETS)
 
 install: build
 	@echo -e " \033[32m* Installing files in modpacks\033[0m"
+	@php bin/install.php ${NAME} ${CURRENT_VERSION} ${DIST}
 
 readme:
 	@echo -e " \033[32m* Building\033[0m README.md"
