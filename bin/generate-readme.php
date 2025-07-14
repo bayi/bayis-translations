@@ -35,9 +35,14 @@ foreach($versions as $version)
         }
         if (file_exists($upstreamDir . '/modrinth.json')) {
           $mods[$modName]['meta'] = json_decode(file_get_contents($upstreamDir . '/modrinth.json'), true);
+        } else if (file_exists($upstreamDir . '/github.json')) {
+          $mods[$modName]['meta'] = json_decode(file_get_contents($upstreamDir . '/github.json'), true);
         }
         $progressData = getProgress($version, $modName, $target);
-        $mods[$modName]['versions'][$version]['progress'] = $progressData['percent'];
+        if ($progressData === null)
+          $mods[$modName]['versions'][$version]['progress'] = '?';
+        else
+          $mods[$modName]['versions'][$version]['progress'] = $progressData['percent'];
 
         if (file_exists($upstreamDir . '/notes')) {
           $notes = file_get_contents($upstreamDir . '/notes');

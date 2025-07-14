@@ -19,7 +19,7 @@ function printKeys(string $label, array $keys) : void
   printHeader('End of ' . $label);
 }
 
-function getProgress(string $version, string $key, string $target = 'active') : array
+function getProgress(string $version, string $key, string $target = 'active') : ?array
 {
   try {
     $src = loadFile(BASEDIR . '/src/' . $version . '/upstream/'  . $key . '/lang/en_us.json');
@@ -35,8 +35,9 @@ function getProgress(string $version, string $key, string $target = 'active') : 
         if (array_key_exists($line, $dst)) unset($dst[$line]); // Remove ignored keys from destination
       }
     }
-  } catch (Exception $e) {
-    die("! Error: Failed loading resources: " . $e->getMessage() . "\n");
+  } catch (Exception) {
+    // echo "! Error: Failed loading resources: " . $e->getMessage() . "\n";
+    return null;
   }
   $data = [
     'missingKeys' => [],
