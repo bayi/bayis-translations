@@ -158,7 +158,8 @@ foreach($mods as $modName => $modData) {
           if ($modData['versions'][$version]['missingKeys']) {
             $status .= '⚠️';
           }
-          $status .= " ($progress%)";
+          if ($progress < 100)
+            $status .= " ($progress%)";
         }
       }
       $output .= "$version $status | ";
