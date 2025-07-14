@@ -26,7 +26,10 @@ if (is_null($override)) {
     if (file_exists($projectSlugPath))
       $modSlug = trim(file_get_contents($projectSlugPath));
   }
-} else $modSlug = $override;
+} else {
+  $modSlug = $override;
+  file_put_contents($upstreamDir . '/projectSlug', $modSlug);
+}
 
 $modrinth = new Modrinth();
 $modInfo = $modrinth->getProject($modSlug);
