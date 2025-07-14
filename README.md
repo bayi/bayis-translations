@@ -86,7 +86,7 @@
 | [Create: Storage](https://modrinth.com/mod/fxnt-create-storage) | 1.20.1 🟢 (??) | 1.21.1 ❌| Paused | 
 | [REI Collapsible Entries](https://modrinth.com/mod/rei-collapsible-entries) | 1.20.1 🟢 (??) | 1.21.1 ❌| Paused | 
 | [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) | 1.20.1 🟢 (??) | 1.21.1 ❌| Paused | 
-| [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) | 1.20.1 🟢 (??) | 1.21.1 ❌|  | 
+| [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) | 1.20.1 🟢 (??) | 1.21.1 ❌| Paused | 
 | [Building Wands](https://modrinth.com/mod/building-wands) | 1.20.1 🟢 (??) | 1.21.1 ❌| Paused | 
 | [You're in Grave Danger](https://modrinth.com/mod/yigd) | 1.20.1 🟢 (??) | 1.21.1 ❌| Paused | 
 
