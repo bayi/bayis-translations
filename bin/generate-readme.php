@@ -2,11 +2,9 @@
 include_once 'lib/index.php';
 include_once 'lib/progress.php';
 
-$versions = ['1.20.1', '1.21.1'];
 $targets = ['active', 'merged'];
-
 $mods = [];
-foreach($versions as $version)
+foreach($versions as $version => $_pack)
 {
   foreach($targets as $target)
   {
@@ -94,11 +92,11 @@ uasort($mods, function($a, $b) use ($versions) {
     $versionDataB = $b['versions']['1.21.1'];
     $usedVersion = '1.21.1';
   } else {
-    $versions = array_keys($a['versions']);
+    $modVersions = array_keys($a['versions']);
     if (empty($versions)) return 0; // No versions to compare
-    $versionDataA = $a['versions'][$versions[0]];
-    $versionDataB = $b['versions'][$versions[0]];
-    $usedVersion = $versions[0];
+    $versionDataA = $a['versions'][$modVersions[0]];
+    $versionDataB = $b['versions'][$modVersions[0]];
+    $usedVersion = $modVersions[0];
   }
 
   // Sort by status: merged > active
@@ -131,14 +129,14 @@ $output = "# Hungarian translations / Magyar fordítások" . PHP_EOL;
 $output .= PHP_EOL;
 $output .= "## Status" . PHP_EOL;
 $output .= PHP_EOL;
-$output .= "| Mod | " . implode(' | ', $versions) . " | Notes |" . PHP_EOL;
+$output .= "| Mod | " . implode(' | ', array_keys($versions)) . " | Notes |" . PHP_EOL;
 $output .= "| --- | " . str_repeat('--- | ', count($versions)) . " --- |" . PHP_EOL;
 
 foreach($mods as $modName => $modData) {
   $modTitle = isset($modData['meta']['title']) ? "[{$modData['meta']['title']}]({$modData['meta']['url']})" : $modName;
   $output .= "| $modTitle | ";
 
-  foreach($versions as $version) {
+  foreach($versions as $version => $_pack) {
     if (isset($modData['versions'][$version])) {
       $status = $modData['versions'][$version]['status'];
       if ($status == 'merged') {
