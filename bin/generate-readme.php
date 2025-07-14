@@ -65,12 +65,12 @@ foreach($mods as $modName => $modData) {
         if ($modData['versions'][$version]['pr']) $status = ' 🔵';
         else $status = '🟢';
         // @TODO: Crowdin
-        if (isset($modData['versions'][$version]['progress']) && $modData['versions'][$version]['progress'] > 0) {
-          $progress = (int) floatval($modData['versions'][$version]['progress']);
-          $status .= " ($progress%)";
-        }
       } else {
         $status = '❌';
+      }
+      if (isset($modData['versions'][$version]['progress']) && $modData['versions'][$version]['progress'] > 0) {
+        $progress = (int) floatval($modData['versions'][$version]['progress']);
+        $status .= " ($progress%)";
       }
       $output .= "$version $status | ";
     } else {
