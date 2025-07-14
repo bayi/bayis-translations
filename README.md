@@ -19,7 +19,7 @@
 | [ComputerCraft](https://modrinth.com/mod/computercraft) | 1.20.1 🟣 (96%) | 1.21.1 🟣⚠️ (96%) |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 (92%) | 1.21.1 🟣⚠️ (93%) |  | 
 | [Carry On](https://modrinth.com/mod/carry-on) | 1.20.1  🔵 (100%) | 1.21.1  🔵 (100%) |  | 
-| [Chipped](https://modrinth.com/mod/chipped) | 1.20.1  🔵 (100%) | 1.21.1  🔵⚠️ (100%) | *1 | 
+| [Chipped](https://modrinth.com/mod/chipped) | 1.20.1  🔵 (100%) | 1.21.1  🔵 (100%) | *1 | 
 | [Create Jetpack](https://modrinth.com/mod/create-jetpack) | 1.20.1  🔵 (100%) | 1.21.1  🔵 (100%) |  | 
 | [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | 1.20.1  🔵 (100%) | 1.21.1  🔵 (100%) |  | 
 | [BucketLib](https://modrinth.com/mod/bucketlib) | 1.20.1 ❌| 1.21.1  🔵 (100%) |  | 
