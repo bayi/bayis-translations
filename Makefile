@@ -4,6 +4,11 @@ VERSIONS=$(shell find src -mindepth 1 -maxdepth 1 -type d | sed 's|src/||' | sor
 CURRENT_VERSION=$(shell cat VERSION)
 TARGETS=$(foreach v,${VERSIONS},${NAME}-${CURRENT_VERSION}-${v}.zip)
 
+ifneq ("$(wildcard .env)","")
+	include .env
+	export $(shell sed 's/=.*//' .env)
+endif
+
 all: build
 	@echo -e " \033[32m* All Done.\033[0m"
 
@@ -22,7 +27,7 @@ update-upstream:
 	@echo -e " \033[32m* Updating upstream translations\033[0m"
 	@php bin/update-upstream.php
 
-%.zip: FORCE
+%.zip:
 	$(eval VERSION := $(shell echo $@ | sed 's|.*-\([0-9.]*\)\.zip|\1|'))
 	@echo -e " \033[32m* Building\033[0m $@ \033[32mfor version\033[0m ${VERSION}"
 	@mkdir -p ${DIST} || true
@@ -37,5 +42,4 @@ clean:
 	@rm -rf ${DIST} || true
 	@rm -rf temp || true
 
-.PHONY: all clean build install FORCE
-FORCE:;
+.PHONY: all clean build install
