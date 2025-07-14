@@ -49,12 +49,7 @@
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
 
 ## Paused/Abandoned (Currently unused)
-- [Extended Drawers](https://modrinth.com/mod/extended-drawers)
-- [Create: Storage](https://modrinth.com/mod/fxnt-create-storage)
 - [Rougly Enough Items](https://modrinth.com/mod/rei)
-- [Building Wands](https://modrinth.com/mod/building-wands)
-- [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)
-- [You're in Grave Danger](https://modrinth.com/mod/yigd)
 - [REI Collapsible Entries](https://modrinth.com/mod/rei-collapsible-entries)
 
 # Notes
