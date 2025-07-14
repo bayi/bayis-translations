@@ -1,0 +1,6 @@
+- Split 1.20 and 1.21 into separate versions
+- Removed merged in translations
+- Updated Chipped for 1.21
+- Updated Computercraft
+- Fixed Vanillabackport for 1.20
+- Updated project descripton and README
