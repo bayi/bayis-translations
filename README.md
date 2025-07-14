@@ -16,7 +16,7 @@
 | [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | 1.20.1 🟣 (99%) | 1.21.1 🟣 (100%) | *2 | 
 | [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟣 (100%) | *1 | 
 | [Create: Trading floor](https://modrinth.com/mod/create-trading-floor) | 1.20.1 ❌| 1.21.1 🟣 (100%) |  | 
-| [ComputerCraft](https://modrinth.com/mod/computercraft) | 1.20.1 🟣⚠️ (96%) | 1.21.1 🟣⚠️ (96%) |  | 
+| [ComputerCraft](https://modrinth.com/mod/computercraft) | 1.20.1 🟣 (96%) | 1.21.1 🟣⚠️ (96%) |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 (92%) | 1.21.1 🟣⚠️ (93%) |  | 
 | [Carry On](https://modrinth.com/mod/carry-on) | 1.20.1  🔵 (100%) | 1.21.1  🔵 (100%) |  | 
 | [Chipped](https://modrinth.com/mod/chipped) | 1.20.1  🔵 (100%) | 1.21.1  🔵⚠️ (100%) | *1 | 
