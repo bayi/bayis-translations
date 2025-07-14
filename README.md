@@ -7,15 +7,15 @@
 | [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) | 1.20.1 ✅ (100%) | 1.21.1 ✅ (97%) |  | 
 | [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | 1.20.1 ✅ (100%) | 1.21.1 ✅ (100%) |  | 
 | [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) | 1.20.1 ✅ (100%) | 1.21.1 ✅ |  | 
+| [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.20.1 ✅ (97%) | 1.21.1 🟢⚠️ (98%) |  | 
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 (97%) | 1.21.1 🟣 (100%) |  | 
 | [Curios API](https://modrinth.com/mod/curios) | 1.20.1 🟣 (100%) | 1.21.1 🟣 (100%) |  | 
 | [Factory Blocks](https://modrinth.com/mod/factory-blocks) | 1.20.1 🟣 (100%) | 1.21.1 🟣 (100%) |  | 
 | [ME Requester](https://modrinth.com/mod/merequester) | 1.20.1 🟣 (100%) | 1.21.1 🟣 (100%) |  | 
 | [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice) | 1.20.1 🟣 (100%) | 1.21.1 🟣 (100%) |  | 
-| [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | 1.20.1 🟣⚠️ (100%) | 1.21.1 🟣 (100%) | *2 | 
+| [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | 1.20.1 🟣 (99%) | 1.21.1 🟣 (100%) | *2 | 
 | [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟣 (100%) | *1 | 
 | [Create: Trading floor](https://modrinth.com/mod/create-trading-floor) | 1.20.1 ❌| 1.21.1 🟣 (100%) |  | 
-| [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.20.1 ❌| 1.21.1 🟣⚠️ (98%) |  | 
 | [ComputerCraft](https://modrinth.com/mod/computercraft) | 1.20.1 🟣⚠️ (96%) | 1.21.1 🟣⚠️ (96%) |  | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 (92%) | 1.21.1 🟣⚠️ (93%) |  | 
 | [Carry On](https://modrinth.com/mod/carry-on) | 1.20.1  🔵 (100%) | 1.21.1  🔵 (100%) |  | 
