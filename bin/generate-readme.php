@@ -155,10 +155,10 @@ foreach($mods as $modName => $modData) {
           $status .= ' (??)';
         } else {
           $progress = (int) floatval($modData['versions'][$version]['progress']);
-          $status .= " ($progress%)";
           if ($modData['versions'][$version]['missingKeys']) {
             $status .= '⚠️';
           }
+          $status .= " ($progress%)";
         }
       }
       $output .= "$version $status | ";
