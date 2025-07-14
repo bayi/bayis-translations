@@ -23,7 +23,7 @@
 | [Create: New Age](https://modrinth.com/mod/create-new-age) | 1.20.1 🟢 (87%) | 1.21.1 ❌|  | 
 | [Create: Power Loader](https://modrinth.com/mod/create-power-loader) | 1.20.1  🔵 (97%) | 1.21.1  🔵 (97%) |  | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 (92%) | 1.21.1 🟣 (93%) |  | 
-| [Create Deco](https://modrinth.com/mod/create-deco) | 1.20.1 🟢 (100%) | 1.21.1 ❌|  | 
+| [Create Deco](https://modrinth.com/mod/create-deco) | 1.20.1 🟢 (100%) | 1.21.1 ❌| *1 | 
 | [Curios API](https://modrinth.com/mod/curios) | 1.20.1 🟣 (93%) | 1.21.1 🟣 (93%) |  | 
 | [Delightful](https://modrinth.com/mod/delightful) | 1.20.1  🔵 (99%) | 1.21.1 ❌|  | 
 | [Entity Culling](https://modrinth.com/mod/entityculling) | 1.20.1  🔵 (95%) | 1.21.1  🔵 (95%) |  | 
@@ -56,7 +56,7 @@
 | [Patchouli](https://modrinth.com/mod/patchouli) | 1.20.1 🟢 (83%) | 1.21.1 🟢 (83%) |  | 
 | [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture) | 1.20.1 🟢 (84%) | 1.21.1 ❌|  | 
 | [Powah!](https://modrinth.com/mod/powah) | 1.20.1 🟢 (73%) | 1.21.1 🟢 (93%) |  | 
-| [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) | 1.20.1 🟢 (95%) | 1.21.1 ❌|  | 
+| [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) | 1.20.1 🟢 (95%) | 1.21.1 ❌| *1 | 
 | [REI Collapsible Entries](https://modrinth.com/mod/rei-collapsible-entries) | 1.20.1 🟢 (??) | 1.21.1 ❌| Paused | 
 | [RFTools Base](https://modrinth.com/mod/rftools-base) | 1.20.1 🟢 (85%) | 1.21.1 ❌|  | 
 | [RFTools Dimensions](https://modrinth.com/mod/rftools-dimensions) | 1.20.1 🟢 (29%) | 1.21.1 ❌|  | 
@@ -76,11 +76,11 @@
 | [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) | 1.20.1 ✅ (99%) | 1.21.1 ❌|  | 
 | [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) | 1.20.1 ✅ (97%) | 1.21.1 ❌|  | 
 | [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | 1.20.1 ✅ (96%) | 1.21.1 ❌|  | 
-| [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟣 (98%) |  | 
+| [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟣 (98%) | *1 | 
 | ae2wtlib_api | 1.20.1 ❌| 1.21.1 🟢 |  | 
 | [BucketLib](https://modrinth.com/mod/bucketlib) | 1.20.1 ❌| 1.21.1  🔵 (100%) |  | 
-| [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) | 1.20.1 ❌| 1.21.1  🔵 (100%) |  | 
-| [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ❌| 1.21.1  🔵 (98%) |  | 
+| [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) | 1.20.1 ❌| 1.21.1  🔵 (100%) | *1 | 
+| [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ❌| 1.21.1  🔵 (98%) | *1 | 
 | [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵 (??) |  | 
 | [Liteminer](https://modrinth.com/mod/liteminer) | 1.20.1 ❌| 1.21.1 🟢 (92%) |  [Crowdin](https://crowdin.com/project/liteminer) | 
 | [NeoForge](https://github.com/neoforged/NeoForge) | 1.20.1 ❌| 1.21.1 🟢 (??) |  [Crowdin](https://neoforged.crowdin.com/) | 
