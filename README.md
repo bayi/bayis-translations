@@ -7,8 +7,9 @@
 | [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) | 1.20.1 🟣 | 1.21.1 ✅ | 1.21 Released | 
 | [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) | 1.20.1 ✅ | 1.21.1 ✅ (97%) |  | 
 | [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
-| [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.20.1 ✅ (97%) | 1.21.1 🟢⚠️ (98%) |  | 
 | [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
+| [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
+| [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.20.1 ✅ (97%) | 1.21.1 🟢⚠️ (98%) |  | 
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 (97%) | 1.21.1 🟣 |  | 
 | [Better Advancements](https://modrinth.com/mod/better-advancements) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Curios API](https://modrinth.com/mod/curios) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
@@ -54,7 +55,6 @@
 | [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | 1.20.1 🟢 | 1.21.1 🟢 (6%) |  | 
 | [NeoForge](https://github.com/neoforged/NeoForge) | 1.20.1 ❌| 1.21.1 🟢 (??) |  [Crowdin](https://neoforged.crowdin.com/) | 
 | [Almost Unified](https://modrinth.com/mod/almost-unified) | 1.20.1 🟣 | 1.21.1 ❌|  | 
-| [Fusion](https://modrinth.com/mod/fusion) | 1.20.1 🟣 | 1.21.1 ❌|  | 
 | [Shrink](https://modrinth.com/mod/shrink) | 1.20.1 🟣 | 1.21.1 ❌|  | 
 | [Caelus API](https://modrinth.com/mod/caelus) | 1.20.1  🔵 | 1.21.1 ❌|  | 
 | [Delightful](https://modrinth.com/mod/delightful) | 1.20.1  🔵 | 1.21.1 ❌|  | 
