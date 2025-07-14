@@ -5,11 +5,15 @@
 | Mod | 1.20.1 | 1.21.1 | Notes |
 | --- | --- | --- |  --- |
 | [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) | 1.20.1 🟣 | 1.21.1 ✅ | 1.21 Released | 
+| [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | 1.20.1 ✅ (96%) | 1.21.1 ✅⚠️ (96%) |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
 | [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) | 1.20.1 ✅ | 1.21.1 ✅ (97%) |  | 
 | [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
+| [Wooden Hopper](https://modrinth.com/mod/wooden-hopper) | 1.20.1 ❌| 1.21.1 ✅ |  | 
+| [Wooden Shears](https://modrinth.com/mod/wooden-shears) | 1.20.1 ❌| 1.21.1 ✅ |  | 
+| [Applied Energistics 2](https://modrinth.com/mod/ae2) | 1.20.1 ✅ (99%) | 1.21.1 🟢 (99%) |  [Crowdin](https://appliedenergistics2.crowdin.com/) | 
 | [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
-| [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.20.1 ✅ (97%) | 1.21.1 🟢⚠️ (98%) |  | 
+| [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.20.1 ✅ (97%) | 1.21.1 ✅⚠️ (98%) |  | 
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 (97%) | 1.21.1 🟣 |  | 
 | [Better Advancements](https://modrinth.com/mod/better-advancements) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Curios API](https://modrinth.com/mod/curios) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
@@ -21,7 +25,6 @@
 | [Applied Energistics 2 Wireless Terminals (API)](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 ❌| 1.21.1 🟣 |  | 
 | [Create: Trading floor](https://modrinth.com/mod/create-trading-floor) | 1.20.1 ❌| 1.21.1 🟣 |  | 
 | [Balm](https://modrinth.com/mod/balm) | 1.20.1 🟣 | 1.21.1 🟣⚠️ (97%) |  | 
-| [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | 1.20.1 🟣 (96%) | 1.21.1 🟣⚠️ (96%) |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 (92%) | 1.21.1 🟣⚠️ (93%) |  | 
 | [Carry On](https://modrinth.com/mod/carry-on) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Chipped](https://modrinth.com/mod/chipped) | 1.20.1  🔵 | 1.21.1  🔵 | *1 | 
@@ -31,8 +34,6 @@
 | [BucketLib](https://modrinth.com/mod/bucketlib) | 1.20.1 ❌| 1.21.1  🔵 |  | 
 | [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) | 1.20.1 ❌| 1.21.1  🔵 | *1 | 
 | [Wooden Bucket](https://modrinth.com/mod/wooden-bucket) | 1.20.1 ❌| 1.21.1  🔵 |  | 
-| [Wooden Hopper](https://modrinth.com/mod/wooden-hopper) | 1.20.1 ❌| 1.21.1  🔵 |  | 
-| [Wooden Shears](https://modrinth.com/mod/wooden-shears) | 1.20.1 ❌| 1.21.1  🔵 |  | 
 | [MEGA Cells](https://modrinth.com/mod/mega) | 1.20.1  🔵 (98%) | 1.21.1  🔵⚠️ (99%) |  | 
 | [Amendments](https://modrinth.com/mod/amendments) | 1.20.1  🔵 (98%) | 1.21.1  🔵 (98%) |  | 
 | [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ❌| 1.21.1  🔵 (98%) | *1 | 
@@ -42,7 +43,6 @@
 | [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles) | 1.20.1  🔵 (94%) | 1.21.1  🔵⚠️ (94%) |  | 
 | [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵 (??) |  | 
 | [Moonlight Lib](https://modrinth.com/mod/moonlight) | 1.20.1 🟢 | 1.21.1 🟢⚠️ |  | 
-| [Applied Energistics 2](https://modrinth.com/mod/ae2) | 1.20.1 🟣 (99%) | 1.21.1 🟢 (99%) |  [Crowdin](https://appliedenergistics2.crowdin.com/) | 
 | [Jade Addons (Neo/Forge)](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢⚠️ (94%) | 1.21.1 🟢⚠️ (94%) |  | 
 | [Powah!](https://modrinth.com/mod/powah) | 1.20.1 🟢 (73%) | 1.21.1 🟢⚠️ (93%) |  | 
 | [Liteminer](https://modrinth.com/mod/liteminer) | 1.20.1 ❌| 1.21.1 🟢 (92%) |  [Crowdin](https://crowdin.com/project/liteminer) | 
