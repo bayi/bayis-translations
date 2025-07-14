@@ -5,6 +5,12 @@
 * Add README generator
 * Add metadata to addons ( auto generate urls ?)
 
+## Planned
+- [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
+- [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture)
+- [Macaw's Doors](https://modrinth.com/mod/macaws-doors)
+- [Macaw's Windows](https://modrinth.com/mod/macaws-windows)
+
 ## Progress
 - [Ad Astra](https://modrinth.com/mod/ad-astra/) - wip 85% (825/120): missing keys, extra keys, fix casing/typos/grammar, missing: death messages, infos
 - [Immersive Engineering](https://modrinth.com/mod/imm/) - wip 43% (1405/794): missing keys, extra keys
@@ -25,13 +31,7 @@
 - [Patchouli](https://modrinth.com/mod/patchouli) - wip 83% (90/15)
 - [Neoforge](https://github.com/neoforged/NeoForge) (Crowdin)
 
-## Not started
-- [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
-- [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture)
-- [Macaw's Doors](https://modrinth.com/mod/macaws-doors)
-- [Macaw's Windows](https://modrinth.com/mod/macaws-windows)
-
-## Done / To be sent
+## Done
 - [Beautify](https://modrinth.com/mod/beautify)*3
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/) (Next / Update to new version)
 - [Create: New Age](https://modrinth.com/mod/create-new-age/)
@@ -47,10 +47,6 @@
 - [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 - [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass/)
-
-## Paused/Abandoned (Currently unused)
-- [Rougly Enough Items](https://modrinth.com/mod/rei)
-- [REI Collapsible Entries](https://modrinth.com/mod/rei-collapsible-entries)
 
 # Notes
 
