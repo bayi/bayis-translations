@@ -15,6 +15,10 @@ readme:
 	@rm -f README.md || true
 	@php bin/generate-readme.php > README.md
 
+update-upstream:
+	@echo -e " \033[32m* Updating upstream translations\033[0m"
+	@php bin/update-upstream.php
+
 %.zip:
 	$(eval VERSION := $(shell echo $@ | sed 's|.*-\([0-9.]*\)\.zip|\1|'))
 	@echo -e " \033[32m* Building\033[0m $@ \033[32mfor version\033[0m ${VERSION}"
