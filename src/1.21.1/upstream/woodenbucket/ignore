@@ -1,0 +1,4 @@
+ text.autoconfig.woodenbucket.option.BREAK_TEMPERATURE.@Tooltip[4]
+ text.autoconfig.woodenbucket.option.BURNING_TEMPERATURE.@Tooltip[4]
+ text.autoconfig.woodenbucket.option.DURABILITY.@Tooltip[3]
+ text.autoconfig.woodenbucket.option.FREEZING_TEMPERATURE.@Tooltip[4]
