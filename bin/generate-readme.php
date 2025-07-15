@@ -127,6 +127,10 @@ uasort($mods, function($a, $b) use ($versions) {
 
 $output = "# Hungarian translations / Magyar fordítások" . PHP_EOL;
 $output .= PHP_EOL;
+$output .= "This resource pack contains translations for various mods used in Minecraft. The status of each mod's translation is tracked below. See below what is included in the pack currently for which version and which ones were already merged upstream." . PHP_EOL;
+$output .= PHP_EOL;
+$output .= "Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fordítás állapotát nyomon követheted az alábbi táblázatban. Az alábbiakban látható, hogy melyik mod melyik verziójához van fordítva és melyek kerültek már be az upstreambe." . PHP_EOL;
+$output .= PHP_EOL;
 $output .= "## Status" . PHP_EOL;
 $output .= PHP_EOL;
 $output .= "| Mod | " . implode(' | ', array_keys($versions)) . " | Notes |" . PHP_EOL;

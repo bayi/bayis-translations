@@ -1,5 +1,9 @@
 # Hungarian translations / Magyar fordítások
 
+This resource pack contains translations for various mods used in Minecraft. The status of each mod's translation is tracked below. See below what is included in the pack currently for which version and which ones were already merged upstream.
+
+Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fordítás állapotát nyomon követheted az alábbi táblázatban. Az alábbiakban látható, hogy melyik mod melyik verziójához van fordítva és melyek kerültek már be az upstreambe.
+
 ## Status
 
 | Mod | 1.20.1 | 1.21.1 | Notes |
