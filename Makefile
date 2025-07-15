@@ -42,6 +42,7 @@ publish: readme build
 	@echo -e " \033[32m* Publishing to Modrinth\033[0m"
 	@php bin/publish.php 1.20.1
 	@php bin/publish.php 1.21.1
+	@php bin/update-project.php
 
 clean:
 	@echo -e " \033[31m* Cleaning:\033[0m ${DIST}"

@@ -18,6 +18,16 @@ class Modrinth
     $this->token = $token;
   }
 
+  public function listProjects(): array|object|null
+  {
+    return $this->request('GET', '/projects');
+  }
+
+  public function updateProject(string $projectId, array $projectData): array|object|null
+  {
+    return $this->request('PATCH', '/project/' . $projectId, $projectData);
+  }
+
   public function listVersions(string $projectId): array|object|null
   {
     return $this->request('GET', '/project/' . $projectId . '/version');
@@ -104,6 +114,10 @@ class Modrinth
       curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'PUT');
     } elseif ($method === 'DELETE') {
       curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'DELETE');
+    } elseif ($method === 'PATCH') {
+      curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'PATCH');
+    } else {
+      curl_setopt($ch, CURLOPT_CUSTOMREQUEST, $method);
     }
     $response = curl_exec($ch);
     if (curl_errno($ch)) {
