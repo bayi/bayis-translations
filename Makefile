@@ -38,6 +38,11 @@ update-upstream:
 	@cd temp && zip -q -r ../${DIST}/$@ ./*
 	@rm -rf temp || true
 
+publish: readme build
+	@echo -e " \033[32m* Publishing to Modrinth\033[0m"
+	@php bin/publish.php 1.20.1
+	@php bin/publish.php 1.21.1
+
 clean:
 	@echo -e " \033[31m* Cleaning:\033[0m ${DIST}"
 	@rm -rf ${DIST} || true

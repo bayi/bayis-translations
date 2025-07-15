@@ -1,6 +1,3 @@
-# TODO
-- Add publish target
-
 ## Planned
 - [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
 - [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture)
