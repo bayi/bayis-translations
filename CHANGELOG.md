@@ -1,6 +1,7 @@
 - Removed merged mods: woodenbucket,shears and hopper + bucketlib
-- Added back supplementaries for 1.21.1 and translated all new keys / renamed keys
+- Added back supplementaries for 1.21 and translated all new keys / renamed keys
 - Megacells 1.21 updated
-- Updated 1.21.1 Balm
-- Updated 1.21.1 Create Crafts & Additions
+- Updated 1.21 Balm
+- Updated 1.21 Create Crafts & Additions
 - Updated Moonlight Lib
+- Updated 1.20 Create Deco
