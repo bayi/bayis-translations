@@ -1,0 +1,9 @@
+block.computercraft.monitor_normal
+commands.computercraft.generic.no
+gui.computercraft.config.http
+gui.computercraft.config.http.proxy
+gui.computercraft.config.http.proxy.port
+gui.computercraft.config.term_sizes.monitor
+itemGroup.computercraft
+tracking_field.computercraft.max
+upgrade.computercraft.wireless_modem_advanced.adjective
