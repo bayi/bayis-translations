@@ -1,6 +1,8 @@
 {
   "create_new_age.monkey_edition": "Create: New Age [Monkey Edition]",
 
+  "create.tooltip.create_new_age.lag": "Nagy vezeték hálózatok sok lagot okozhatnak,\nAjánlott más modokból származó vezetékeket használni.",
+
   "recipe.assembly.energising": "Energizálás",
   "create.tooltip.create_new_age.energy_stored": "Energia tárolva: ",
   "create.tooltip.create_new_age.energy_stats": "Energia statisztika: ",

@@ -5,3 +5,4 @@
 - Updated 1.21 Create Crafts & Additions
 - Updated Moonlight Lib
 - Updated 1.20 Create Deco
+- Updated 1.20 Create New Age

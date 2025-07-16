@@ -63,6 +63,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Caelus API](https://modrinth.com/mod/caelus) | 1.20.1  🔵 | 1.21.1 ❌|  | 
 | [Delightful](https://modrinth.com/mod/delightful) | 1.20.1  🔵 | 1.21.1 ❌|  | 
 | [MilkLib](https://github.com/TropheusJ/milk-lib) | 1.20.1  🔵(??) | 1.21.1 ❌| *4 | 
+| [Create: New Age](https://modrinth.com/mod/create-new-age) | 1.20.1 🟢 | 1.21.1 ❌|  | 
 | [Create Deco](https://modrinth.com/mod/create-deco) | 1.20.1 🟢 | 1.21.1 ❌| *1 | 
 | [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) | 1.20.1 🟢 | 1.21.1 ❌|  | 
 | [Nature's Compass](https://modrinth.com/mod/natures-compass) | 1.20.1 🟢 | 1.21.1 ❌|  | 
@@ -73,7 +74,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) | 1.20.1 🟢(95%) | 1.21.1 ❌| *1 | 
 | [Just Enough Items](https://modrinth.com/mod/jei) | 1.20.1 🟢(92%) | 1.21.1 ❌|  | 
 | [Lootr](https://modrinth.com/mod/lootr) | 1.20.1 🟢(92%) | 1.21.1 ❌|  | 
-| [Create: New Age](https://modrinth.com/mod/create-new-age) | 1.20.1 🟢⚠️(87%) | 1.21.1 ❌|  | 
 | [Handcrafted](https://modrinth.com/mod/handcrafted) | 1.20.1 🟢(86%) | 1.21.1 ❌|  | 
 | [Ad Astra](https://modrinth.com/mod/ad-astra) | 1.20.1 🟢⚠️(85%) | 1.21.1 ❌|  | 
 | [RFTools Base](https://modrinth.com/mod/rftools-base) | 1.20.1 🟢(85%) | 1.21.1 ❌|  | 
