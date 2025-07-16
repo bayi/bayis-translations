@@ -1,3 +1,14 @@
+# TODO
+- Send in new PR for supplementaries 1.21.1
+- Check Advanced Peripherals 1.20 release
+- Send in new PR for Balm 1.21.1
+- Send in new PR for craftandattions 1.21.1
+- Update and send in Create Enchantment Industry 1.21.1
+- Send in Moonlight Lib
+- Finish Jade Addons and send PR
+- Finish Lollipop and send PR
+- Finish Beautify 1.20.1 and send PR
+
 ## Planned
 - [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
 - [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture)
