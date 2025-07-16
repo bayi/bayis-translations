@@ -66,8 +66,8 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Create: New Age](https://modrinth.com/mod/create-new-age) | 1.20.1 🟢 | 1.21.1 ❌|  | 
 | [Create Deco](https://modrinth.com/mod/create-deco) | 1.20.1 🟢 | 1.21.1 ❌| *1 | 
 | [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) | 1.20.1 🟢 | 1.21.1 ❌|  | 
+| [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps) | 1.20.1 🟢 | 1.21.1 ❌|  | 
 | [Nature's Compass](https://modrinth.com/mod/natures-compass) | 1.20.1 🟢 | 1.21.1 ❌|  | 
-| [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps) | 1.20.1 🟢⚠️(99%) | 1.21.1 ❌|  | 
 | [Beautify!](https://modrinth.com/mod/beautify) | 1.20.1 🟢(98%) | 1.21.1 ❌| *3 | 
 | [Geckolib](https://modrinth.com/mod/geckolib) | 1.20.1 🟢(96%) | 1.21.1 ❌| PR Blocked | 
 | [Mantle](https://modrinth.com/mod/mantle) | 1.20.1 🟢⚠️(95%) | 1.21.1 ❌|  | 

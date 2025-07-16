@@ -6,3 +6,4 @@
 - Updated Moonlight Lib
 - Updated 1.20 Create Deco
 - Updated 1.20 Create New Age
+- Updated 1.20 Macaw's Lights and Lamps

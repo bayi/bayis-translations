@@ -4,6 +4,10 @@
 		 "subtitle.mcwlights.light_switch": "Villany kapcsolás",
 		 "subtitle.mcwlights.torch_on": "Tiki fáklya meggyújtása",
 
+		 "mcwlights.lights.tikitorchinfo":"Magassabra építhető, ha egy másikat helyezünk rá",
+		 "mcwlights.lights.dyeableinfo":"Jobb kattintás bármelyik festékkel a szín megváltoztatásához",
+		 "mcwlights.lights.stackableinfo":"Magassabra építhető, ha egy másikat helyezünk rá",
+
 		 "block.mcwlights.white_lamp":"Fehér lámpa",
 		 "block.mcwlights.orange_lamp":"Narancssárga lámpa",
 		 "block.mcwlights.magenta_lamp":"Bíbor lámpa",
@@ -119,6 +123,11 @@
 		 "block.mcwlights.square_wall_lamp":"Négyzet alakú fali lámpa",
 		 
 		 "block.mcwlights.garden_light":"Kerti lámpa",
+		 "block.mcwlights.thin_garden_light":"Vékony kerti lámpa",
+		 "block.mcwlights.covered_garden_light":"Fedett kerti lámpa",
+		 "block.mcwlights.round_garden_light":"Kerek kerti lámpa",
+		 "block.mcwlights.tower_garden_light":"Tornyos kerti lámpa",
+		 "block.mcwlights.striped_garden_light":"Csíkos kerti lámpa",
 		 
 		 "block.mcwlights.oak_ceiling_fan_light":"Tölgyfa mennyezeti ventillátor lámpa",
 		 "block.mcwlights.spruce_ceiling_fan_light":"Fenyőfa mennyezeti ventillátor lámpa",
