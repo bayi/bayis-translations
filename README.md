@@ -39,7 +39,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [FlightLib](https://github.com/PssbleTrngle/FlightLib) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [MEGA Cells](https://modrinth.com/mod/mega) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) | 1.20.1 ❌| 1.21.1  🔵 | *1 | 
-| [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ❌| 1.21.1  🔵(98%) | *1 | 
+| [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ❌| 1.21.1  🔵(99%) | *1 | 
 | [Create: Power Loader](https://modrinth.com/mod/create-power-loader) | 1.20.1  🔵(97%) | 1.21.1  🔵(97%) |  | 
 | [GuideME](https://modrinth.com/mod/guideme) | 1.20.1  🔵(97%) | 1.21.1  🔵(97%) |  | 
 | [Entity Culling](https://modrinth.com/mod/entityculling) | 1.20.1  🔵(95%) | 1.21.1  🔵(95%) |  | 

@@ -9,3 +9,4 @@
 - Updated 1.20 Macaw's Lights and Lamps
 - Updated Jade Addons
 - Updated Amendments
+- Updated 1.21 Ex Deorum
