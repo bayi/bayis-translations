@@ -1,0 +1,4 @@
+ itemGroup.hammerlib
+ config.jade.plugin_hammerlib.root
+ info.hammerlib.fluid_uncapped
+ info.hammerlib.fluid_capped
