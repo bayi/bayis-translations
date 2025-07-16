@@ -218,7 +218,6 @@
   "tracking_field.computercraft.http_download.name": "HTTP letöltés",
   "tracking_field.computercraft.http_requests.name": "HTTP kérések",
   "tracking_field.computercraft.http_upload.name": "HTTP feltöltés",
-  "tracking_field.computercraft.java_allocation.name": "Java allokációk",
   "tracking_field.computercraft.max": "%s (max)",
   "tracking_field.computercraft.peripheral.name": "Periféria hívások",
   "tracking_field.computercraft.server_tasks.name": "Szerver feladatok",
