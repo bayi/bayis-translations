@@ -13,6 +13,9 @@
   "item.hammerlib.gears.netherite": "Netherit fogaskerék",
 
   "info.hammerlib.material": "Barkácsolás hozzávaló",
+  "info.hammerlib.fluid_uncapped": "%s mB",
+  "info.hammerlib.fluid_capped": "%s / %s mB",
+  "info.hammerlib.empty": "Üres",
 
   "key.hammerlib.render_item": "[HammerLib] GUI elem renderelése"
 }

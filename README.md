@@ -43,7 +43,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Create: Power Loader](https://modrinth.com/mod/create-power-loader) | 1.20.1  🔵(97%) | 1.21.1  🔵(97%) |  | 
 | [GuideME](https://modrinth.com/mod/guideme) | 1.20.1  🔵(97%) | 1.21.1  🔵(97%) |  | 
 | [Entity Culling](https://modrinth.com/mod/entityculling) | 1.20.1  🔵(95%) | 1.21.1  🔵(95%) |  | 
-| [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵⚠️(87%) |  | 
+| [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵(75%) |  | 
 | [Balm](https://modrinth.com/mod/balm) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
 | [Jade Addons (Neo/Forge)](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
