@@ -30,6 +30,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟣 | *1 | 
 | [Applied Energistics 2 Wireless Terminals (API)](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 ❌| 1.21.1 🟣 |  | 
 | [Create: Trading floor](https://modrinth.com/mod/create-trading-floor) | 1.20.1 ❌| 1.21.1 🟣 |  | 
+| [Amendments](https://modrinth.com/mod/amendments) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Carry On](https://modrinth.com/mod/carry-on) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Chipped](https://modrinth.com/mod/chipped) | 1.20.1  🔵 | 1.21.1  🔵 | *1 | 
@@ -38,7 +39,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [FlightLib](https://github.com/PssbleTrngle/FlightLib) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [MEGA Cells](https://modrinth.com/mod/mega) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) | 1.20.1 ❌| 1.21.1  🔵 | *1 | 
-| [Amendments](https://modrinth.com/mod/amendments) | 1.20.1  🔵(98%) | 1.21.1  🔵(98%) |  | 
 | [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ❌| 1.21.1  🔵(98%) | *1 | 
 | [Create: Power Loader](https://modrinth.com/mod/create-power-loader) | 1.20.1  🔵(97%) | 1.21.1  🔵(97%) |  | 
 | [GuideME](https://modrinth.com/mod/guideme) | 1.20.1  🔵(97%) | 1.21.1  🔵(97%) |  | 

@@ -8,3 +8,4 @@
 - Updated 1.20 Create New Age
 - Updated 1.20 Macaw's Lights and Lamps
 - Updated Jade Addons
+- Updated Amendments
