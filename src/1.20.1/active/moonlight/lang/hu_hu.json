@@ -6,6 +6,10 @@
   "message.moonlight.anti_repost": "Úgy tűnik, hogy a %1$s-t egy rosszindulatú weboldalról töltötted le :( Szerezd be az igazi verziót %2$s.",
   "message.moonlight.anti_repost_link": "itt",
 
+  "tag.item.moonlight.non_recolorable": "Nem átszínezhető",
+  "tag.block.moonlight.non_recolorable": "Nem átszínezhető",
+  "tag.block.minecraft.mineable.shear": "Nyírható ollóval",
+
   "wood_type.twilightforest.dark": "Sötétfa",
   "leaves_type.twilightforest.dark": "Sötétfa",
   "leaves_type.ulterlands.souldrained": "Megkövesedett"

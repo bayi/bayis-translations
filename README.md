@@ -46,7 +46,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵(??) |  | 
 | [Balm](https://modrinth.com/mod/balm) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
-| [Moonlight Lib](https://modrinth.com/mod/moonlight) | 1.20.1 🟢 | 1.21.1 🟢⚠️ |  | 
+| [Moonlight Lib](https://modrinth.com/mod/moonlight) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [Jade Addons (Neo/Forge)](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢⚠️(94%) | 1.21.1 🟢⚠️(94%) |  | 
 | [Powah!](https://modrinth.com/mod/powah) | 1.20.1 🟢(73%) | 1.21.1 🟢⚠️(93%) |  | 
 | [Liteminer](https://modrinth.com/mod/liteminer) | 1.20.1 ❌| 1.21.1 🟢(92%) |  [Crowdin](https://crowdin.com/project/liteminer) | 
