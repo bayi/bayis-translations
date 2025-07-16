@@ -62,7 +62,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Shrink](https://modrinth.com/mod/shrink) | 1.20.1 🟣 | 1.21.1 ❌|  | 
 | [Caelus API](https://modrinth.com/mod/caelus) | 1.20.1  🔵 | 1.21.1 ❌|  | 
 | [Delightful](https://modrinth.com/mod/delightful) | 1.20.1  🔵 | 1.21.1 ❌|  | 
-| [MilkLib](https://github.com/TropheusJ/milk-lib) | 1.20.1  🔵(??) | 1.21.1 ❌| *4 | 
+| [MilkLib](https://github.com/TropheusJ/milk-lib) | 1.20.1  🔵 | 1.21.1 ❌| *4 | 
 | [Create: New Age](https://modrinth.com/mod/create-new-age) | 1.20.1 🟢 | 1.21.1 ❌|  | 
 | [Create Deco](https://modrinth.com/mod/create-deco) | 1.20.1 🟢 | 1.21.1 ❌| *1 | 
 | [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) | 1.20.1 🟢 | 1.21.1 ❌|  | 
