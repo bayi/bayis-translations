@@ -12,8 +12,10 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | 1.20.1 ✅ (96%) | 1.21.1 ✅⚠️ (96%) |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
 | [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) | 1.20.1 ✅ | 1.21.1 ✅ (97%) |  | 
 | [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
-| [Wooden Hopper](https://modrinth.com/mod/wooden-hopper) | 1.20.1 ❌| 1.21.1 ✅ |  | 
-| [Wooden Shears](https://modrinth.com/mod/wooden-shears) | 1.20.1 ❌| 1.21.1 ✅ |  | 
+| [BucketLib](https://modrinth.com/mod/bucketlib) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
+| [Wooden Bucket](https://modrinth.com/mod/wooden-bucket) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
+| [Wooden Hopper](https://modrinth.com/mod/wooden-hopper) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
+| [Wooden Shears](https://modrinth.com/mod/wooden-shears) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | 1.20.1 ✅ (99%) | 1.21.1 🟢 (99%) |  [Crowdin](https://appliedenergistics2.crowdin.com/) | 
 | [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
@@ -35,9 +37,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Create Jetpack](https://modrinth.com/mod/create-jetpack) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [FlightLib](https://github.com/PssbleTrngle/FlightLib) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
-| [BucketLib](https://modrinth.com/mod/bucketlib) | 1.20.1 ❌| 1.21.1  🔵 |  | 
 | [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) | 1.20.1 ❌| 1.21.1  🔵 | *1 | 
-| [Wooden Bucket](https://modrinth.com/mod/wooden-bucket) | 1.20.1 ❌| 1.21.1  🔵 |  | 
 | [MEGA Cells](https://modrinth.com/mod/mega) | 1.20.1  🔵 (98%) | 1.21.1  🔵⚠️ (99%) |  | 
 | [Amendments](https://modrinth.com/mod/amendments) | 1.20.1  🔵 (98%) | 1.21.1  🔵 (98%) |  | 
 | [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ❌| 1.21.1  🔵 (98%) | *1 | 
