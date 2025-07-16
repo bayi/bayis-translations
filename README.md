@@ -55,9 +55,9 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Lollipop](https://github.com/owmii/Lollipop) | 1.20.1 🟢(80%) | 1.21.1 🟢(80%) |  | 
 | [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals) | 1.20.1 🟢(78%) | 1.21.1 🟢(78%) |  | 
 | [Jade 🔍](https://modrinth.com/mod/jade) | 1.20.1 🟢⚠️(22%) | 1.21.1 🟢⚠️(34%) |  | 
+| [NeoForge](https://github.com/neoforged/NeoForge) | 1.20.1 ❌| 1.21.1 🟢⚠️(25%) |  [Crowdin](https://neoforged.crowdin.com/) | 
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | 1.20.1 🟢(18%) | 1.21.1 🟢(18%) |  | 
 | [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | 1.20.1 🟢 | 1.21.1 🟢(6%) |  | 
-| [NeoForge](https://github.com/neoforged/NeoForge) | 1.20.1 ❌| 1.21.1 🟢(??) |  [Crowdin](https://neoforged.crowdin.com/) | 
 | [Almost Unified](https://modrinth.com/mod/almost-unified) | 1.20.1 🟣 | 1.21.1 ❌|  | 
 | [Shrink](https://modrinth.com/mod/shrink) | 1.20.1 🟣 | 1.21.1 ❌|  | 
 | [Caelus API](https://modrinth.com/mod/caelus) | 1.20.1  🔵 | 1.21.1 ❌|  | 
