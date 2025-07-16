@@ -1,2 +1,3 @@
 - Removed merged mods: woodenbucket,shears and hopper + bucketlib
 - Added back supplementaries for 1.21.1 and translated all new keys / renamed keys
+- Megacells 1.21 updated
