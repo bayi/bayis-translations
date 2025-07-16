@@ -62,19 +62,22 @@ uasort($mods, function($a, $b) use ($versions) {
 
   // Sort by merge status first
   $hasMergedA = false;
+  $allMergedA = true;
   $hasMergedB = false;
+  $allMergedB = true;
   foreach ($a['versions'] as $versionData) {
     if ($versionData['status'] === 'merged') {
       $hasMergedA = true;
-      break;
-    }
+    } $allMergedA = $allMergedA && ($versionData['status'] === 'merged');
   }
   foreach ($b['versions'] as $versionData) {
     if ($versionData['status'] === 'merged') {
       $hasMergedB = true;
-      break;
-    }
+    } $allMergedB = $allMergedB && ($versionData['status'] === 'merged');
   }
+  if ($allMergedA && !$allMergedB) return -1;
+  if (!$allMergedA && $allMergedB) return 1;
+
   if ($hasMergedA && !$hasMergedB) return -1;
   if (!$hasMergedA && $hasMergedB) return 1;
 
