@@ -19,3 +19,4 @@
  item.ae2.debug_replicator_card
  key.ae2.category
  theoneprobe.ae2.stored_energy
+ gui.ae2.CraftErrorNoSuitableCpuOffline
