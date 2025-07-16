@@ -26,7 +26,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Factory Blocks](https://modrinth.com/mod/factory-blocks) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [ME Requester](https://modrinth.com/mod/merequester) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
-| [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | 1.20.1 🟣(99%) | 1.21.1 🟣 | *2 | 
+| [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | 1.20.1 🟣 | 1.21.1 🟣 | *2 | 
 | [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟣 | *1 | 
 | [Applied Energistics 2 Wireless Terminals (API)](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 ❌| 1.21.1 🟣 |  | 
 | [Create: Trading floor](https://modrinth.com/mod/create-trading-floor) | 1.20.1 ❌| 1.21.1 🟣 |  | 
