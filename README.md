@@ -35,15 +35,15 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Carry On](https://modrinth.com/mod/carry-on) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Chipped](https://modrinth.com/mod/chipped) | 1.20.1  🔵 | 1.21.1  🔵 | *1 | 
 | [Create Jetpack](https://modrinth.com/mod/create-jetpack) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
+| [Create: Power Loader](https://modrinth.com/mod/create-power-loader) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
+| [Entity Culling](https://modrinth.com/mod/entityculling) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [FlightLib](https://github.com/PssbleTrngle/FlightLib) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [GuideME](https://modrinth.com/mod/guideme) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [MEGA Cells](https://modrinth.com/mod/mega) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) | 1.20.1 ❌| 1.21.1  🔵 | *1 | 
 | [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ❌| 1.21.1  🔵 | *1 | 
-| [Create: Power Loader](https://modrinth.com/mod/create-power-loader) | 1.20.1  🔵(97%) | 1.21.1  🔵(97%) |  | 
-| [Entity Culling](https://modrinth.com/mod/entityculling) | 1.20.1  🔵(95%) | 1.21.1  🔵(95%) |  | 
-| [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵(75%) |  | 
+| [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵 |  | 
 | [Balm](https://modrinth.com/mod/balm) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
 | [Jade Addons (Neo/Forge)](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
