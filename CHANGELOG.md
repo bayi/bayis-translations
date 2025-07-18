@@ -1,4 +1,4 @@
-- Removed merged mods: woodenbucket,shears and hopper + bucketlib
+- Removed merged mods: woodenbucket,shears and hopper + bucketlib, entityculling
 - Added back supplementaries for 1.21 and translated all new keys / renamed keys
 - Megacells 1.21 updated
 - Updated 1.21 Balm
