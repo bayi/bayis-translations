@@ -19,8 +19,8 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) | 1.20.1 🟣 | 1.21.1 ✅ | 1.21 Released | 
+| [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.20.1 ✅ | 1.21.1  🔵 |  | 
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | 1.20.1 ✅ | 1.21.1 🟢 |  [Crowdin](https://appliedenergistics2.crowdin.com/) | 
-| [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.20.1 ✅ | 1.21.1 🟢 |  | 
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Better Advancements](https://modrinth.com/mod/better-advancements) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Curios API](https://modrinth.com/mod/curios) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
