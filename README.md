@@ -24,6 +24,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Amendments](https://modrinth.com/mod/amendments) | 1.20.1  🔵 | 1.21.1 🟣 |  | 
 | [Better Advancements](https://modrinth.com/mod/better-advancements) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
+| [Carry On](https://modrinth.com/mod/carry-on) | 1.20.1  🔵 | 1.21.1 🟣 |  | 
 | [Curios API](https://modrinth.com/mod/curios) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Factory Blocks](https://modrinth.com/mod/factory-blocks) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [ME Requester](https://modrinth.com/mod/merequester) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
@@ -33,7 +34,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Applied Energistics 2 Wireless Terminals (API)](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 ❌| 1.21.1 🟣 |  | 
 | [Create: Trading floor](https://modrinth.com/mod/create-trading-floor) | 1.20.1 ❌| 1.21.1 🟣 |  | 
 | [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
-| [Carry On](https://modrinth.com/mod/carry-on) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Chipped](https://modrinth.com/mod/chipped) | 1.20.1  🔵 | 1.21.1  🔵 | *1 | 
 | [Create Jetpack](https://modrinth.com/mod/create-jetpack) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Create: Power Loader](https://modrinth.com/mod/create-power-loader) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
