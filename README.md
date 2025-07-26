@@ -27,6 +27,8 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Carry On](https://modrinth.com/mod/carry-on) | 1.20.1  🔵 | 1.21.1 🟣 |  | 
 | [Curios API](https://modrinth.com/mod/curios) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Factory Blocks](https://modrinth.com/mod/factory-blocks) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
+| [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
+| [MEGA Cells](https://modrinth.com/mod/mega) | 1.20.1  🔵 | 1.21.1 🟣 |  | 
 | [ME Requester](https://modrinth.com/mod/merequester) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | 1.20.1 🟣 | 1.21.1 🟣 | *2 | 
@@ -37,10 +39,8 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Chipped](https://modrinth.com/mod/chipped) | 1.20.1  🔵 | 1.21.1  🔵 | *1 | 
 | [Create Jetpack](https://modrinth.com/mod/create-jetpack) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Create: Power Loader](https://modrinth.com/mod/create-power-loader) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
-| [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [FlightLib](https://github.com/PssbleTrngle/FlightLib) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [GuideME](https://modrinth.com/mod/guideme) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
-| [MEGA Cells](https://modrinth.com/mod/mega) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) | 1.20.1 ❌| 1.21.1  🔵 | *1 | 
 | [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ❌| 1.21.1  🔵 | *1 | 
 | [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵 |  | 
