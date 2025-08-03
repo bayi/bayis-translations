@@ -54,13 +54,13 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Patchouli](https://modrinth.com/mod/patchouli) | 1.20.1 🟢(83%) | 1.21.1 🟢⚠️(83%) |  | 
 | [Lollipop](https://github.com/owmii/Lollipop) | 1.20.1 🟢(80%) | 1.21.1 🟢(80%) |  | 
 | [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals) | 1.20.1 🟢(78%) | 1.21.1 🟢(78%) |  | 
+| [Create Sifting](https://modrinth.com/mod/create-sifting) | 1.20.1 ❌| 1.21.1 🟢(70%) |  | 
 | [Create Mechanical Extruder](https://modrinth.com/mod/create-mechanical-extruder) | 1.20.1 ❌| 1.21.1 🟢(43%) |  | 
 | [Melter](https://modrinth.com/mod/melter) | 1.20.1 ❌| 1.21.1 🟢(41%) |  | 
 | [Jade 🔍](https://modrinth.com/mod/jade) | 1.20.1 🟢⚠️(22%) | 1.21.1 🟢⚠️(34%) |  | 
 | [NeoForge](https://github.com/neoforged/NeoForge) | 1.20.1 ❌| 1.21.1 🟢⚠️(25%) |  [Crowdin](https://neoforged.crowdin.com/) | 
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | 1.20.1 🟢(18%) | 1.21.1 🟢(18%) |  | 
 | [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | 1.20.1 🟢 | 1.21.1 🟢(6%) |  | 
-| [Create Sifting](https://modrinth.com/mod/create-sifting) | 1.20.1 ❌| 1.21.1 🟢 |  | 
 | [Mechanicals Lib](https://modrinth.com/mod/mechanicals-lib) | 1.20.1 ❌| 1.21.1 🟢 |  | 
 | [Almost Unified](https://modrinth.com/mod/almost-unified) | 1.20.1 🟣 | 1.21.1 ❌|  | 
 | [Delightful](https://modrinth.com/mod/delightful) | 1.20.1 🟣 | 1.21.1 ❌|  | 
