@@ -11,6 +11,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | 1.20.1 ✅ | 1.21.1 ✅ |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
 | [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
+| [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.20.1 ✅ | 1.21.1 ✅⚠️ |  | 
 | [BucketLib](https://modrinth.com/mod/bucketlib) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Entity Culling](https://modrinth.com/mod/entityculling) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Wooden Bucket](https://modrinth.com/mod/wooden-bucket) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
@@ -22,7 +23,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 | 1.21.1 ✅ |  | 
 | [Applied Energistics 2 Wireless Terminals (API)](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 | 1.21.1 ✅ |  | 
 | [MEGA Cells](https://modrinth.com/mod/mega) | 1.20.1  🔵 | 1.21.1 ✅ |  | 
-| [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.20.1 ✅ | 1.21.1 🟣⚠️ |  | 
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | 1.20.1 ✅ | 1.21.1 🟢 |  [Crowdin](https://appliedenergistics2.crowdin.com/) | 
 | [Amendments](https://modrinth.com/mod/amendments) | 1.20.1  🔵 | 1.21.1 🟣 |  | 
 | [Better Advancements](https://modrinth.com/mod/better-advancements) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
