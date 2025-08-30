@@ -8,7 +8,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 
 | Mod | 1.20.1 | 1.21.1 | Notes |
 | --- | --- | --- |  --- |
-| [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 ✅⚠️ | *1 | 
 | [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | 1.20.1 ✅ | 1.21.1 ✅ |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
 | [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
@@ -20,6 +19,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Wooden Bucket](https://modrinth.com/mod/wooden-bucket) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Wooden Hopper](https://modrinth.com/mod/wooden-hopper) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Wooden Shears](https://modrinth.com/mod/wooden-shears) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
+| [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 ✅(85%) | *1 | 
 | [Almost Unified](https://modrinth.com/mod/almost-unified) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
