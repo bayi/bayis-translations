@@ -1,12 +1,3 @@
-- Removed merged mods: woodenbucket,shears and hopper + bucketlib, entityculling
-- Added back supplementaries for 1.21 and translated all new keys / renamed keys
-- Megacells 1.21 updated
-- Updated 1.21 Balm
-- Updated 1.21 Create Crafts & Additions
-- Updated Moonlight Lib
-- Updated 1.20 Create Deco
-- Updated 1.20 Create New Age
-- Updated 1.20 Macaw's Lights and Lamps
-- Updated Jade Addons
-- Updated Amendments
-- Updated 1.21 Ex Deorum
+- Removed merged mods
+- Updated translations
+- Readded Create: Storage
