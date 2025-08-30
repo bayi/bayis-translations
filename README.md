@@ -8,33 +8,35 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 
 | Mod | 1.20.1 | 1.21.1 | Notes |
 | --- | --- | --- |  --- |
+| [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 ✅⚠️ | *1 | 
 | [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | 1.20.1 ✅ | 1.21.1 ✅ |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
 | [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ✅ | 1.21.1 ✅ | *1 | 
+| [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | 1.20.1 ✅⚠️ | 1.21.1 ✅⚠️ |  | 
 | [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [BucketLib](https://modrinth.com/mod/bucketlib) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Entity Culling](https://modrinth.com/mod/entityculling) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Wooden Bucket](https://modrinth.com/mod/wooden-bucket) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Wooden Hopper](https://modrinth.com/mod/wooden-hopper) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Wooden Shears](https://modrinth.com/mod/wooden-shears) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
+| [Almost Unified](https://modrinth.com/mod/almost-unified) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
+| [Delightful](https://modrinth.com/mod/delightful) | 1.20.1 ✅ | 1.21.1 ❌|  | 
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 | 1.21.1 ✅ |  | 
 | [Applied Energistics 2 Wireless Terminals (API)](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 | 1.21.1 ✅ |  | 
 | [MEGA Cells](https://modrinth.com/mod/mega) | 1.20.1  🔵 | 1.21.1 ✅ |  | 
+| [ME Requester](https://modrinth.com/mod/merequester) | 1.20.1 🟣 | 1.21.1 ✅⚠️ |  | 
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | 1.20.1 ✅ | 1.21.1 🟢 |  [Crowdin](https://appliedenergistics2.crowdin.com/) | 
-| [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.20.1 ✅ | 1.21.1 🟢 |  | 
-| [Amendments](https://modrinth.com/mod/amendments) | 1.20.1  🔵 | 1.21.1 🟣 |  | 
+| [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.20.1 ✅⚠️ | 1.21.1 🟢 |  | 
+| [Amendments](https://modrinth.com/mod/amendments) | 1.20.1  🔵⚠️ | 1.21.1 🟣⚠️ |  | 
 | [Better Advancements](https://modrinth.com/mod/better-advancements) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Carry On](https://modrinth.com/mod/carry-on) | 1.20.1  🔵 | 1.21.1 🟣 |  | 
 | [Curios API](https://modrinth.com/mod/curios) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Factory Blocks](https://modrinth.com/mod/factory-blocks) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
-| [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
-| [ME Requester](https://modrinth.com/mod/merequester) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | 1.20.1 🟣 | 1.21.1 🟣 | *2 | 
-| [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟣 | *1 | 
 | [Create: Trading floor](https://modrinth.com/mod/create-trading-floor) | 1.20.1 ❌| 1.21.1 🟣 |  | 
 | [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Chipped](https://modrinth.com/mod/chipped) | 1.20.1  🔵 | 1.21.1  🔵 | *1 | 
@@ -45,7 +47,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) | 1.20.1 ❌| 1.21.1  🔵 | *1 | 
 | [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵 |  | 
 | [Balm](https://modrinth.com/mod/balm) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
-| [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
+| [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 | 1.21.1 🟢⚠️ |  | 
 | [Jade Addons (Neo/Forge)](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [Moonlight Lib](https://modrinth.com/mod/moonlight) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [Powah!](https://modrinth.com/mod/powah) | 1.20.1 🟢(73%) | 1.21.1 🟢⚠️(93%) |  | 
@@ -62,8 +64,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | 1.20.1 🟢(18%) | 1.21.1 🟢(18%) |  | 
 | [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | 1.20.1 🟢 | 1.21.1 🟢(6%) |  | 
 | [Mechanicals Lib](https://modrinth.com/mod/mechanicals-lib) | 1.20.1 ❌| 1.21.1 🟢 |  | 
-| [Almost Unified](https://modrinth.com/mod/almost-unified) | 1.20.1 🟣 | 1.21.1 ❌|  | 
-| [Delightful](https://modrinth.com/mod/delightful) | 1.20.1 🟣 | 1.21.1 ❌|  | 
 | [Shrink](https://modrinth.com/mod/shrink) | 1.20.1 🟣 | 1.21.1 ❌|  | 
 | [Caelus API](https://modrinth.com/mod/caelus) | 1.20.1  🔵 | 1.21.1 ❌|  | 
 | [MilkLib](https://github.com/TropheusJ/milk-lib) | 1.20.1  🔵 | 1.21.1 ❌| *4 | 
@@ -74,7 +74,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Nature's Compass](https://modrinth.com/mod/natures-compass) | 1.20.1 🟢 | 1.21.1 ❌|  | 
 | [Beautify!](https://modrinth.com/mod/beautify) | 1.20.1 🟢(98%) | 1.21.1 ❌| *3 | 
 | [Geckolib](https://modrinth.com/mod/geckolib) | 1.20.1 🟢(96%) | 1.21.1 ❌| PR Blocked | 
-| [Mantle](https://modrinth.com/mod/mantle) | 1.20.1 🟢⚠️(95%) | 1.21.1 ❌|  | 
+| [Mantle](https://modrinth.com/mod/mantle) | 1.20.1 🟢⚠️(96%) | 1.21.1 ❌|  | 
 | [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) | 1.20.1 🟢(95%) | 1.21.1 ❌| *1 | 
 | [Just Enough Items](https://modrinth.com/mod/jei) | 1.20.1 🟢(92%) | 1.21.1 ❌|  | 
 | [Lootr](https://modrinth.com/mod/lootr) | 1.20.1 🟢(92%) | 1.21.1 ❌|  | 
