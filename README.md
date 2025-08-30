@@ -26,7 +26,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 | 1.21.1 ✅ |  | 
 | [Applied Energistics 2 Wireless Terminals (API)](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 | 1.21.1 ✅ |  | 
 | [MEGA Cells](https://modrinth.com/mod/mega) | 1.20.1  🔵 | 1.21.1 ✅ |  | 
-| [ME Requester](https://modrinth.com/mod/merequester) | 1.20.1 🟣 | 1.21.1 ✅⚠️ |  | 
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | 1.20.1 ✅ | 1.21.1 🟢 |  [Crowdin](https://appliedenergistics2.crowdin.com/) | 
 | [Supplementaries](https://modrinth.com/mod/supplementaries) | 1.20.1 ✅⚠️ | 1.21.1 🟢 |  | 
 | [Amendments](https://modrinth.com/mod/amendments) | 1.20.1  🔵⚠️ | 1.21.1 🟣⚠️ |  | 
@@ -34,6 +33,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Carry On](https://modrinth.com/mod/carry-on) | 1.20.1  🔵 | 1.21.1 🟣 |  | 
 | [Curios API](https://modrinth.com/mod/curios) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Factory Blocks](https://modrinth.com/mod/factory-blocks) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
+| [ME Requester](https://modrinth.com/mod/merequester) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | 1.20.1 🟣 | 1.21.1 🟣 | *2 | 
 | [Create: Trading floor](https://modrinth.com/mod/create-trading-floor) | 1.20.1 ❌| 1.21.1 🟣 |  | 
@@ -49,10 +49,10 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 | 1.21.1 🟢⚠️ |  | 
 | [Jade Addons (Neo/Forge)](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [Moonlight Lib](https://modrinth.com/mod/moonlight) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
+| [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟢 | *1 [Crowdin](https://crowdin.com/project/advanced-ae/) | 
 | [Powah!](https://modrinth.com/mod/powah) | 1.20.1 🟢(73%) | 1.21.1 🟢⚠️(93%) |  | 
 | [Liteminer](https://modrinth.com/mod/liteminer) | 1.20.1 ❌| 1.21.1 🟢(92%) |  [Crowdin](https://crowdin.com/project/liteminer) | 
 | [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) | 1.20.1 🟢(85%) | 1.21.1 🟢⚠️(85%) |  | 
-| [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟢(85%) | *1 | 
 | [Patchouli](https://modrinth.com/mod/patchouli) | 1.20.1 🟢(83%) | 1.21.1 🟢⚠️(83%) |  | 
 | [Lollipop](https://github.com/owmii/Lollipop) | 1.20.1 🟢(80%) | 1.21.1 🟢(80%) |  | 
 | [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals) | 1.20.1 🟢(78%) | 1.21.1 🟢(78%) |  | 
