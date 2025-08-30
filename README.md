@@ -10,6 +10,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | --- | --- | --- |  --- |
 | [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | 1.20.1 ✅ | 1.21.1 ✅ |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
 | [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
+| [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ✅ | 1.21.1 ✅ | *1 | 
 | [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [BucketLib](https://modrinth.com/mod/bucketlib) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Entity Culling](https://modrinth.com/mod/entityculling) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
@@ -17,7 +18,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Wooden Hopper](https://modrinth.com/mod/wooden-hopper) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Wooden Shears](https://modrinth.com/mod/wooden-shears) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
-| exdeorum | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) | 1.20.1 🟣 | 1.21.1 ✅ | 1.21 Released | 
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 | 1.21.1 ✅ |  | 
