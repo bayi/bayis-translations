@@ -1,0 +1,140 @@
+{
+  "item_group.fxntstorage.create_storage": "Create: Storage",
+  "itemGroup.fxntstorage.main": "Create: Storage",
+  "itemGroup.fxntstorage.create": "FXNT Storage Create",
+
+  "block.fxntstorage.storage_box": "Ipari vas tárolódoboz",
+  "container.fxntstorage.industrial_iron_storage_box": "Ipari vas tárolódoboz",
+
+  "block.fxntstorage.cardboard_storage_box": "Karton tárolódoboz",
+  "container.fxntstorage.cardboard_storage_box": "Karton tárolódoboz",
+
+  "block.fxntstorage.weathered_storage_box": "Viharvert vas tárolódoboz",
+  "container.fxntstorage.weathered_storage_box": "Viharvert vas tárolódoboz",
+
+  "block.fxntstorage.andesite_storage_box": "Andezit tárolódoboz",
+  "container.fxntstorage.andesite_storage_box": "Andezit tárolódoboz",
+
+  "block.fxntstorage.copper_storage_box": "Réz tárolódoboz",
+  "container.fxntstorage.copper_storage_box": "Réz tárolódoboz",
+
+  "block.fxntstorage.brass_storage_box": "Sárgaréz tárolódoboz",
+  "container.fxntstorage.brass_storage_box": "Sárgaréz tárolódoboz",
+
+  "block.fxntstorage.hardened_storage_box": "Edzett tárolódoboz",
+  "container.fxntstorage.hardened_storage_box": "Edzett tárolódoboz",
+
+  "container.fxntstorage.simple_storage_box_title": "Egyszerű tárolódoboz",
+
+  "block.fxntstorage.simple_storage_box": "Egyszerű tölgytárolódoboz",
+  "container.fxntstorage.simple_storage_box": "Egyszerű tölgytárolódoboz",
+
+  "block.fxntstorage.simple_storage_box_spruce": "Egyszerű fenyőfa tárolódoboz",
+  "container.fxntstorage.simple_storage_box_spruce": "Egyszerű fenyőfa tárolódoboz",
+
+  "block.fxntstorage.simple_storage_box_birch": "Egyszerű nyírfa tárolódoboz",
+  "container.fxntstorage.simple_storage_box_birch": "Egyszerű nyírfa tárolódoboz",
+
+  "block.fxntstorage.simple_storage_box_jungle": "Egyszerű dzsungelfa tárolódoboz",
+  "container.fxntstorage.simple_storage_box_jungle": "Egyszerű dzsungelfa tárolódoboz",
+
+  "block.fxntstorage.simple_storage_box_acacia": "Egyszerű akáciafa tárolódoboz",
+  "container.fxntstorage.simple_storage_box_acacia": "Egyszerű akáciafa tárolódoboz",
+
+  "block.fxntstorage.simple_storage_box_dark_oak": "Egyszerű sötéttölgy tárolódoboz",
+  "container.fxntstorage.simple_storage_box_dark_oak": "Egyszerű sötéttölgy tárolódoboz",
+
+  "block.fxntstorage.simple_storage_box_mangrove": "Egyszerű mangrovefa tárolódoboz",
+  "container.fxntstorage.simple_storage_box_mangrove": "Egyszerű mangrovefa tárolódoboz",
+
+  "block.fxntstorage.simple_storage_box_cherry": "Egyszerű cseresznyefa tárolódoboz",
+  "container.fxntstorage.simple_storage_box_cherry": "Egyszerű cseresznyefa tárolódoboz",
+
+  "block.fxntstorage.simple_storage_box_bamboo": "Egyszerű bambusz tárolódoboz",
+  "container.fxntstorage.simple_storage_box_bamboo": "Egyszerű bambusz tárolódoboz",
+
+  "block.fxntstorage.simple_storage_box_crimson": "Egyszerű karmazsin tárolódoboz",
+  "container.fxntstorage.simple_storage_box_crimson": "Egyszerű karmazsin tárolódoboz",
+
+  "block.fxntstorage.simple_storage_box_warped": "Egyszerű torz tárolódoboz",
+  "container.fxntstorage.simple_storage_box_warped": "Egyszerű torz tárolódoboz",
+
+  "block.fxntstorage.simple_storage_box_pale_oak": "Egyszerű Sápadttölgy tárolódoboz",
+  "container.fxntstorage.simple_storage_box_pale_oak": "Egyszerű Sápadttölgy tárolódoboz",
+
+  "block.fxntstorage.storage_controller": "Egyszerű tárolóvezérlő",
+  "container.fxntstorage.storage_controller": "Egyszerű tárolóvezérlő",
+
+  "block.fxntstorage.storage_interface": "Egyszerű tárolóinterfész",
+  "container.fxntstorage.storage_interface": "Egyszerű tárolóinterfész",
+
+  "block.fxntstorage.passer_block": "Passzoló",
+  "block.fxntstorage.smart_passer_block": "Okos passzoló",
+
+  "block.fxntstorage.back_pack": "Ipari vas hátizsák",
+  "container.fxntstorage.back_pack": "Ipari vas hátizsák",
+  "item.fxntstorage.back_pack": "Ipari vas hátizsák",
+
+  "block.fxntstorage.andesite_back_pack": "Andezit hátizsák",
+  "container.fxntstorage.andesite_back_pack": "Andezit hátizsák",
+  "item.fxntstorage.andesite_back_pack": "Andezit hátizsák",
+
+  "block.fxntstorage.copper_back_pack": "Réz hátizsák",
+  "container.fxntstorage.copper_back_pack": "Réz hátizsák",
+  "item.fxntstorage.copper_back_pack": "Réz hátizsák",
+
+  "block.fxntstorage.brass_back_pack": "Sárgaréz hátizsák",
+  "container.fxntstorage.brass_back_pack": "Sárgaréz hátizsák",
+  "item.fxntstorage.brass_back_pack": "Sárgaréz hátizsák",
+
+  "block.fxntstorage.hardened_back_pack": "Edzett hátizsák",
+  "container.fxntstorage.hardened_back_pack": "Edzett hátizsák",
+  "item.fxntstorage.hardened_back_pack": "Edzett hátizsák",
+
+  "item.fxntstorage.back_pack_blank_upgrade": "Fejlesztés Sablon",
+  "item.fxntstorage.back_pack_magnet_upgrade": "Hátizsák mágnes fejlesztés",
+  "item.fxntstorage.back_pack_magnet_upgrade_deactivated": "Hátizsák mágnes fejlesztés [Kikapcsolva]",
+  "item.fxntstorage.back_pack_pickblock_upgrade": "Hátizsák blokk kiválasztása fejlesztés",
+  "item.fxntstorage.back_pack_pickblock_upgrade_deactivated": "Hátizsák blokk kiválasztása fejlesztés [Kikapcsolva]",
+  "item.fxntstorage.back_pack_itempickup_upgrade": "Hátizsák tárgy felszedés fejlesztés",
+  "item.fxntstorage.back_pack_itempickup_upgrade_deactivated": "Hátizsák tárgy felszedés fejlesztés [Kikapcsolva]",
+  "item.fxntstorage.back_pack_flight_upgrade": "Hátizsák repülés fejlesztés",
+  "item.fxntstorage.back_pack_flight_upgrade_deactivated": "Hátizsák repülés fejlesztés [Kikapcsolva]",
+  "item.fxntstorage.back_pack_refill_upgrade": "Hátizsák újratöltés fejlesztés",
+  "item.fxntstorage.back_pack_refill_upgrade_deactivated": "Hátizsák újratöltés fejlesztés [Kikapcsolva]",
+  "item.fxntstorage.back_pack_feeder_upgrade": "Hátizsák etető fejlesztés",
+  "item.fxntstorage.back_pack_feeder_upgrade_deactivated": "Hátizsák etető fejlesztés [Kikapcsolva]",
+  "item.fxntstorage.back_pack_toolswap_upgrade": "Hátizsák szerszámcsere fejlesztés",
+  "item.fxntstorage.back_pack_toolswap_upgrade_deactivated": "Hátizsák szerszámcsere fejlesztés [Kikapcsolva]",
+  "item.fxntstorage.back_pack_falldamage_upgrade": "Hátizsák esési sérülés fejlesztés",
+  "item.fxntstorage.back_pack_falldamage_upgrade_deactivated": "Hátizsák esési sérülés fejlesztés [Kikapcsolva]",
+
+  "item.fxntstorage.backpack_feeder_upgrade.message": "Etető fejlesztés éppen megetetett %s-vel!",
+
+  "item.fxntstorage.storage_box_void_upgrade": "Egyszerű tárolódoboz megsemmisítés fejlesztés",
+  "item.fxntstorage.storage_box_capacity_upgrade": "Egyszerű tárolódoboz kapacitás fejlesztés",
+
+  "block.fxntstorage.storage_trim": "Tölgy tárolócsatlakozó",
+  "block.fxntstorage.storage_trim_spruce": "Fenyőfa tárolócsatlakozó",
+  "block.fxntstorage.storage_trim_birch": "Nyírfa tárolócsatlakozó",
+  "block.fxntstorage.storage_trim_jungle": "Dzsungelfa tárolócsatlakozó",
+  "block.fxntstorage.storage_trim_acacia": "Akáciafa tárolócsatlakozó",
+  "block.fxntstorage.storage_trim_dark_oak": "Sötéttölgy tárolócsatlakozó",
+  "block.fxntstorage.storage_trim_mangrove": "Mangrovefa tárolócsatlakozó",
+  "block.fxntstorage.storage_trim_cherry": "Cseresznyefa tárolócsatlakozó",
+  "block.fxntstorage.storage_trim_bamboo": "Bambusz tárolócsatlakozó",
+  "block.fxntstorage.storage_trim_crimson": "Karmazsin tárolócsatlakozó",
+  "block.fxntstorage.storage_trim_warped": "Torz tárolócsatlakozó",
+
+  "fxntstorage.tooltip.holdForControls": "Nyomd le a [CTRL]-t a vezérlésért",
+  "fxntstorage.tooltip.holdForDescription": "Nyomd le a [Shift]-et a leírásért",
+
+  "fxntstorage.storage_box_void_upgrade_exists": "Ez a tároló doboz már tartalmaz egy megsemmisítés fejlesztést",
+  "fxntstorage.storage_box_capacity_upgrade_max": "Ez a tároló doboz elérte a maximális kapacitást",
+
+  "hotKey.fxntstorage.category": "FXNT Storage",
+  "hotKey.fxntstorage.toggle_backpack": "Hátizsák Megnyitása",
+  "hotKey.fxntstorage.clear_backpack_shape_cache": "Hátizsák Cache Ürítése",
+  "hotKey.fxntstorage.toggle_jetpack_hover": "Hátizsák Repülés Lebegés KI/BE",
+  "hotKey.fxntstorage.toggle_upgrade": "Fejlesztés KI/BE"
+}

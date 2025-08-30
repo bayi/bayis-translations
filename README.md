@@ -47,6 +47,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵 |  | 
 | [Balm](https://modrinth.com/mod/balm) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 | 1.21.1 🟢⚠️ |  | 
+| [Create: Storage [Neo/Forge]](https://modrinth.com/mod/create-storage-neo-forge) | 1.20.1 🟢 | 1.21.1 🟢⚠️ |  | 
 | [Jade Addons (Neo/Forge)](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [Moonlight Lib](https://modrinth.com/mod/moonlight) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟢 | *1 [Crowdin](https://crowdin.com/project/advanced-ae/) | 
@@ -91,7 +92,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [RFTools Utility](https://modrinth.com/mod/rftools-utility) | 1.20.1 🟢(25%) | 1.21.1 ❌|  | 
 | [XNet](https://modrinth.com/mod/xnet) | 1.20.1 🟢(17%) | 1.21.1 ❌|  | 
 | [Extended Drawers](https://modrinth.com/mod/extended-drawers) | 1.20.1 🟢(??) | 1.21.1 ❌| Paused | 
-| [Create: Storage](https://modrinth.com/mod/fxnt-create-storage) | 1.20.1 🟢(??) | 1.21.1 ❌| Paused | 
 | [REI Collapsible Entries](https://modrinth.com/mod/rei-collapsible-entries) | 1.20.1 🟢(??) | 1.21.1 ❌| Paused | 
 | [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) | 1.20.1 🟢(??) | 1.21.1 ❌| Paused | 
 | [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) | 1.20.1 🟢(??) | 1.21.1 ❌| Paused | 

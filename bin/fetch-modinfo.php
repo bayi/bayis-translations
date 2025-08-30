@@ -41,4 +41,7 @@ if ($modInfo) {
     'url' => 'https://modrinth.com/mod/' . $modInfo->slug,
   ];
   file_put_contents($modrinthJsonPath, json_encode($meta, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
+} else {
+  echo "\e[031m * Modrinth project not found for slug \e[034m$modSlug\e[031m\e[0m" . PHP_EOL;
+  exit(1);
 }
