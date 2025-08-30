@@ -59,7 +59,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Create Sifting](https://modrinth.com/mod/create-sifting) | 1.20.1 ❌| 1.21.1 🟢(70%) |  | 
 | [Create Mechanical Extruder](https://modrinth.com/mod/create-mechanical-extruder) | 1.20.1 ❌| 1.21.1 🟢(43%) |  | 
 | [Melter](https://modrinth.com/mod/melter) | 1.20.1 ❌| 1.21.1 🟢(41%) |  | 
-| [Create: Storage [Neo/Forge]](https://modrinth.com/mod/create-storage-neo-forge) | 1.20.1 🟢 | 1.21.1 🟢⚠️(40%) |  | 
+| [Create: Storage [Neo/Forge]](https://modrinth.com/mod/create-storage-neo-forge) | 1.20.1 🟢 | 1.21.1 🟢(40%) |  | 
 | [Jade 🔍](https://modrinth.com/mod/jade) | 1.20.1 🟢⚠️(22%) | 1.21.1 🟢⚠️(34%) |  | 
 | [NeoForge](https://github.com/neoforged/NeoForge) | 1.20.1 ❌| 1.21.1 🟢⚠️(25%) |  [Crowdin](https://neoforged.crowdin.com/) | 
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | 1.20.1 🟢(18%) | 1.21.1 🟢(18%) |  | 

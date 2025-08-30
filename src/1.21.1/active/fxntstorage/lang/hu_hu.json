@@ -129,6 +129,7 @@
   "block.fxntstorage.storage_trim_bamboo": "Bambusz tárolócsatlakozó",
   "block.fxntstorage.storage_trim_crimson": "Karmazsin tárolócsatlakozó",
   "block.fxntstorage.storage_trim_warped": "Torz tárolócsatlakozó",
+  "block.fxntstorage.storage_trim_pale_oak": "Sápadttölgy tárolócsatlakozó",
 
   "tooltip.fxntstorage.upgrade_deactivated": "KIKAPCSOLVA",
   "tooltip.fxntstorage.holdForContents": "Nyomd le a [%s]-t a megtekintéshez",
