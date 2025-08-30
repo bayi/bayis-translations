@@ -19,7 +19,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Wooden Bucket](https://modrinth.com/mod/wooden-bucket) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Wooden Hopper](https://modrinth.com/mod/wooden-hopper) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Wooden Shears](https://modrinth.com/mod/wooden-shears) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
-| [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 ✅(85%) | *1 | 
 | [Almost Unified](https://modrinth.com/mod/almost-unified) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
@@ -53,6 +52,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Powah!](https://modrinth.com/mod/powah) | 1.20.1 🟢(73%) | 1.21.1 🟢⚠️(93%) |  | 
 | [Liteminer](https://modrinth.com/mod/liteminer) | 1.20.1 ❌| 1.21.1 🟢(92%) |  [Crowdin](https://crowdin.com/project/liteminer) | 
 | [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) | 1.20.1 🟢(85%) | 1.21.1 🟢⚠️(85%) |  | 
+| [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟢(85%) | *1 | 
 | [Patchouli](https://modrinth.com/mod/patchouli) | 1.20.1 🟢(83%) | 1.21.1 🟢⚠️(83%) |  | 
 | [Lollipop](https://github.com/owmii/Lollipop) | 1.20.1 🟢(80%) | 1.21.1 🟢(80%) |  | 
 | [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals) | 1.20.1 🟢(78%) | 1.21.1 🟢(78%) |  | 
