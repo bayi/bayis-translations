@@ -47,7 +47,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵 |  | 
 | [Balm](https://modrinth.com/mod/balm) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 | 1.21.1 🟢⚠️ |  | 
-| [Create: Storage [Neo/Forge]](https://modrinth.com/mod/create-storage-neo-forge) | 1.20.1 🟢 | 1.21.1 🟢⚠️ |  | 
 | [Jade Addons (Neo/Forge)](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [Moonlight Lib](https://modrinth.com/mod/moonlight) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟢 | *1 [Crowdin](https://crowdin.com/project/advanced-ae/) | 
@@ -60,6 +59,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Create Sifting](https://modrinth.com/mod/create-sifting) | 1.20.1 ❌| 1.21.1 🟢(70%) |  | 
 | [Create Mechanical Extruder](https://modrinth.com/mod/create-mechanical-extruder) | 1.20.1 ❌| 1.21.1 🟢(43%) |  | 
 | [Melter](https://modrinth.com/mod/melter) | 1.20.1 ❌| 1.21.1 🟢(41%) |  | 
+| [Create: Storage [Neo/Forge]](https://modrinth.com/mod/create-storage-neo-forge) | 1.20.1 🟢 | 1.21.1 🟢⚠️(40%) |  | 
 | [Jade 🔍](https://modrinth.com/mod/jade) | 1.20.1 🟢⚠️(22%) | 1.21.1 🟢⚠️(34%) |  | 
 | [NeoForge](https://github.com/neoforged/NeoForge) | 1.20.1 ❌| 1.21.1 🟢⚠️(25%) |  [Crowdin](https://neoforged.crowdin.com/) | 
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | 1.20.1 🟢(18%) | 1.21.1 🟢(18%) |  | 
