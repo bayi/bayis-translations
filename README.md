@@ -33,7 +33,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Carry On](https://modrinth.com/mod/carry-on) | 1.20.1  🔵 | 1.21.1 🟣 |  | 
 | [Curios API](https://modrinth.com/mod/curios) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Factory Blocks](https://modrinth.com/mod/factory-blocks) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
-| [ME Requester](https://modrinth.com/mod/merequester) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice) | 1.20.1 🟣 | 1.21.1 🟣 |  | 
 | [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | 1.20.1 🟣 | 1.21.1 🟣 | *2 | 
 | [Create: Trading floor](https://modrinth.com/mod/create-trading-floor) | 1.20.1 ❌| 1.21.1 🟣 |  | 
@@ -43,6 +42,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Create: Power Loader](https://modrinth.com/mod/create-power-loader) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [FlightLib](https://github.com/PssbleTrngle/FlightLib) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [GuideME](https://modrinth.com/mod/guideme) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
+| [ME Requester](https://modrinth.com/mod/merequester) | 1.20.1 🟣 | 1.21.1  🔵 |  | 
 | [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) | 1.20.1 ❌| 1.21.1  🔵 | *1 | 
 | [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵 |  | 
 | [Balm](https://modrinth.com/mod/balm) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
