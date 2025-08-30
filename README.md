@@ -12,7 +12,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | 1.20.1 ✅ | 1.21.1 ✅ |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
 | [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ✅ | 1.21.1 ✅ | *1 | 
-| [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | 1.20.1 ✅⚠️ | 1.21.1 ✅⚠️ |  | 
 | [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [BucketLib](https://modrinth.com/mod/bucketlib) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Entity Culling](https://modrinth.com/mod/entityculling) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
@@ -47,6 +46,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵 |  | 
 | [Balm](https://modrinth.com/mod/balm) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 | 1.21.1 🟢⚠️ |  | 
+| [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [Jade Addons (Neo/Forge)](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [Moonlight Lib](https://modrinth.com/mod/moonlight) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟢 | *1 [Crowdin](https://crowdin.com/project/advanced-ae/) | 
