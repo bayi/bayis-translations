@@ -1,13 +1,16 @@
 {
-  "itemGroup.merequester.tab": "ME Kérelmező",
+  "itemGroup.merequester.tab": "ME kérelmező",
 
-  "item.merequester.requester_terminal": "ME Kérelmező terminál",
-  "block.merequester.requester": "ME Kérelmező",
+  "item.merequester.requester_terminal": "ME kérelmező terminál",
+  "item.merequester.wireless_requester_terminal": "Vezeték nélküli kérelmező terminál",
+  "block.merequester.requester": "ME kérelmező",
 
-  "gui.merequester.requester_terminal": "ME Kér. terminál",
+  "key.ae2.wireless_requester_terminal": "Vez. nélküli kér. terminál megnyitása",
+
+  "gui.merequester.requester_terminal": "ME kér. terminál",
   "gui.merequester.no_requesters": "Nem található ME Kérelmező!",
 
-  "tooltip.merequester.requester_desc": "Automatikusan készleten tart tárgyakat és folyadékokat új barkácsolások kérésével, ha szükséges. Csatlakoztatva kell lennie egy ME hálózathoz, és egy ME Kérelmező terminálról elérhető. A konfiguráció elveszik, ha felszedik. A beállításokat Memória kártyával lehet másolni.",
+  "tooltip.merequester.requester_desc": "Automatikusan készleten tart tárgyakat és folyadékokat új barkácsolások kérésével, ha szükséges. Csatlakoztatva kell lennie egy ME hálózathoz, és egy ME kérelmező terminálról elérhető. A konfiguráció elveszik, ha felszedik. A beállításokat Memória kártyával lehet másolni.",
 
   "tooltip.merequester.shift_for_more": "%s több információért",
   "tooltip.merequester.enter_to_submit": "%s küldéshez",
@@ -25,6 +28,8 @@
   "tooltip.merequester.idle_desc": "A Kérelmező üresjáratban van, amikor a kért mennyiség már el van érve, vagy nincs barkácsolási minta az adott tárgyhoz vagy folyadékhoz.",
   "tooltip.merequester.missing": "Hiányzó alapanyagok",
   "tooltip.merequester.missing_desc": "Nem találhatóak a kért tárgyak vagy folyadékok készítéséhez szükséges alapanyagok a rendszerben. A folyamat folytatódik, amikor az alapanyagok rendelkezésre válnak.",
+  "tooltip.merequester.cpu": "Nincs CPU",
+  "tooltip.merequester.cpu_desc": "A rendszer nem talál megfelelő CPU-t a barkácsoláshoz. A folyamat folytatódik, amikor lesz elérhető CPU.",
   "tooltip.merequester.link": "Barkácsolás",
   "tooltip.merequester.link_desc": "A rendszer jelenleg készíti a kért tárgyat vagy folyadékot.",
   "tooltip.merequester.export": "Exportálás",
