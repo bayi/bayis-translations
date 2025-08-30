@@ -17,6 +17,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Wooden Hopper](https://modrinth.com/mod/wooden-hopper) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Wooden Shears](https://modrinth.com/mod/wooden-shears) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
+| exdeorum | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) | 1.20.1 🟣 | 1.21.1 ✅ | 1.21 Released | 
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 | 1.21.1 ✅ |  | 
@@ -42,7 +43,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [FlightLib](https://github.com/PssbleTrngle/FlightLib) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [GuideME](https://modrinth.com/mod/guideme) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) | 1.20.1 ❌| 1.21.1  🔵 | *1 | 
-| [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ❌| 1.21.1  🔵 | *1 | 
 | [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵 |  | 
 | [Balm](https://modrinth.com/mod/balm) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
