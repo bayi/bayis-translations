@@ -39,6 +39,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Chipped](https://modrinth.com/mod/chipped) | 1.20.1  🔵 | 1.21.1  🔵 | *1 | 
 | [Create Jetpack](https://modrinth.com/mod/create-jetpack) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [Create: Power Loader](https://modrinth.com/mod/create-power-loader) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
+| [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [FlightLib](https://github.com/PssbleTrngle/FlightLib) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [GuideME](https://modrinth.com/mod/guideme) | 1.20.1  🔵 | 1.21.1  🔵 |  | 
 | [ME Requester](https://modrinth.com/mod/merequester) | 1.20.1 🟣 | 1.21.1  🔵 |  | 
@@ -46,7 +47,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵 |  | 
 | [Balm](https://modrinth.com/mod/balm) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 | 1.21.1 🟢⚠️ |  | 
-| [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [Jade Addons (Neo/Forge)](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [Moonlight Lib](https://modrinth.com/mod/moonlight) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟢 | *1 [Crowdin](https://crowdin.com/project/advanced-ae/) | 
