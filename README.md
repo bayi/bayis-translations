@@ -52,11 +52,13 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟢 | *1 [Crowdin](https://crowdin.com/project/advanced-ae/) | 
 | [Powah!](https://modrinth.com/mod/powah) | 1.20.1 🟢(73%) | 1.21.1 🟢⚠️(93%) |  | 
 | [Liteminer](https://modrinth.com/mod/liteminer) | 1.20.1 ❌| 1.21.1 🟢(92%) |  [Crowdin](https://crowdin.com/project/liteminer) | 
+| [RFTools Base](https://modrinth.com/mod/rftools-base) | 1.20.1 🟢(85%) | 1.21.1 🟢(85%) |  | 
 | [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) | 1.20.1 🟢(85%) | 1.21.1 🟢⚠️(85%) |  | 
 | [Patchouli](https://modrinth.com/mod/patchouli) | 1.20.1 🟢(83%) | 1.21.1 🟢⚠️(83%) |  | 
 | [Lollipop](https://github.com/owmii/Lollipop) | 1.20.1 🟢(80%) | 1.21.1 🟢(80%) |  | 
 | [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals) | 1.20.1 🟢(78%) | 1.21.1 🟢(78%) |  | 
 | [Create Sifting](https://modrinth.com/mod/create-sifting) | 1.20.1 ❌| 1.21.1 🟢(70%) |  | 
+| [RFTools Utility](https://modrinth.com/mod/rftools-utility) | 1.20.1 🟢(43%) | 1.21.1 🟢(43%) |  | 
 | [Create Mechanical Extruder](https://modrinth.com/mod/create-mechanical-extruder) | 1.20.1 ❌| 1.21.1 🟢(43%) |  | 
 | [Melter](https://modrinth.com/mod/melter) | 1.20.1 ❌| 1.21.1 🟢(41%) |  | 
 | [Create: Storage [Neo/Forge]](https://modrinth.com/mod/create-storage-neo-forge) | 1.20.1 🟢 | 1.21.1 🟢(40%) |  | 
@@ -81,7 +83,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Lootr](https://modrinth.com/mod/lootr) | 1.20.1 🟢(92%) | 1.21.1 ❌|  | 
 | [Handcrafted](https://modrinth.com/mod/handcrafted) | 1.20.1 🟢(86%) | 1.21.1 ❌|  | 
 | [Ad Astra](https://modrinth.com/mod/ad-astra) | 1.20.1 🟢⚠️(85%) | 1.21.1 ❌|  | 
-| [RFTools Base](https://modrinth.com/mod/rftools-base) | 1.20.1 🟢(85%) | 1.21.1 ❌|  | 
 | [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) | 1.20.1 🟢⚠️(85%) | 1.21.1 ❌|  | 
 | [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture) | 1.20.1 🟢(84%) | 1.21.1 ❌|  | 
 | [McJtyLib](https://modrinth.com/mod/mcjtylib) | 1.20.1 🟢(66%) | 1.21.1 ❌|  | 
@@ -89,7 +90,6 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Naturalist](https://modrinth.com/mod/naturalist) | 1.20.1 🟢(46%) | 1.21.1 ❌|  | 
 | [Just Enough Resources (JER)](https://modrinth.com/mod/just-enough-resources-jer) | 1.20.1 🟢(31%) | 1.21.1 ❌|  | 
 | [RFTools Dimensions](https://modrinth.com/mod/rftools-dimensions) | 1.20.1 🟢(29%) | 1.21.1 ❌|  | 
-| [RFTools Utility](https://modrinth.com/mod/rftools-utility) | 1.20.1 🟢(25%) | 1.21.1 ❌|  | 
 | [XNet](https://modrinth.com/mod/xnet) | 1.20.1 🟢(17%) | 1.21.1 ❌|  | 
 | [Extended Drawers](https://modrinth.com/mod/extended-drawers) | 1.20.1 🟢(??) | 1.21.1 ❌| Paused | 
 | [REI Collapsible Entries](https://modrinth.com/mod/rei-collapsible-entries) | 1.20.1 🟢(??) | 1.21.1 ❌| Paused | 
