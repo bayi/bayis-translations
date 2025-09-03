@@ -56,6 +56,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) | 1.20.1 🟢(85%) | 1.21.1 🟢⚠️(85%) |  | 
 | [Patchouli](https://modrinth.com/mod/patchouli) | 1.20.1 🟢(83%) | 1.21.1 🟢⚠️(83%) |  | 
 | [Lollipop](https://github.com/owmii/Lollipop) | 1.20.1 🟢(80%) | 1.21.1 🟢(80%) |  | 
+| [Extended AE](https://modrinth.com/mod/extended-ae) | 1.20.1 ❌| 1.21.1 🟢(79%) |  | 
 | [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals) | 1.20.1 🟢(78%) | 1.21.1 🟢(78%) |  | 
 | [Create Sifting](https://modrinth.com/mod/create-sifting) | 1.20.1 ❌| 1.21.1 🟢(70%) |  | 
 | [RFTools Utility](https://modrinth.com/mod/rftools-utility) | 1.20.1 🟢(43%) | 1.21.1 🟢(43%) |  | 
