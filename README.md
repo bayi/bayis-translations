@@ -10,7 +10,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | --- | --- | --- |  --- |
 | [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | 1.20.1 ✅ | 1.21.1 ✅ |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
-| [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
+| [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) | 1.20.1 ✅ | 1.21.1 ✅⚠️ |  | 
 | [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ✅ | 1.21.1 ✅ | *1 | 
 | [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [BucketLib](https://modrinth.com/mod/bucketlib) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
@@ -19,11 +19,11 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Wooden Hopper](https://modrinth.com/mod/wooden-hopper) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Wooden Shears](https://modrinth.com/mod/wooden-shears) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Almost Unified](https://modrinth.com/mod/almost-unified) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
-| [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
-| [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
+| [AntiBlocksReChiseled](https://modrinth.com/mod/antiblocksrechiseled) | 1.20.1 ✅ | 1.21.1 ✅(99%) |  | 
+| [Fusion Connected Textures](https://modrinth.com/mod/fusion-connected-textures) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Delightful](https://modrinth.com/mod/delightful) | 1.20.1 ✅ | 1.21.1 ❌|  | 
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 | 1.21.1 ✅ |  | 
-| [Applied Energistics 2 Wireless Terminals (API)](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 | 1.21.1 ✅ |  | 
+| [Applied Energistics 2 Wireless Terminals API](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 1.20.1 🟣 | 1.21.1 ✅ |  | 
 | [MEGA Cells](https://modrinth.com/mod/mega) | 1.20.1  🔵 | 1.21.1 ✅ |  | 
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | 1.20.1 ✅ | 1.21.1 🟢 |  [Crowdin](https://appliedenergistics2.crowdin.com/) | 
 | [Amendments](https://modrinth.com/mod/amendments) | 1.20.1  🔵⚠️ | 1.21.1 🟣⚠️ |  | 
@@ -47,10 +47,11 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [HammerLib](https://github.com/dragon-forge/HammerLib) | 1.20.1 ❌| 1.21.1  🔵 |  | 
 | [Balm](https://modrinth.com/mod/balm) | 1.20.1 🟣 | 1.21.1 🟢 |  | 
 | [Create Crafts & Additions](https://modrinth.com/mod/createaddition) | 1.20.1 🟣 | 1.21.1 🟢⚠️ |  | 
-| [Jade Addons (Neo/Forge)](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
+| [Jade Addons Neo/Forge](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [Moonlight Lib](https://modrinth.com/mod/moonlight) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟢 | *1 [Crowdin](https://crowdin.com/project/advanced-ae/) | 
 | [Powah!](https://modrinth.com/mod/powah) | 1.20.1 🟢(73%) | 1.21.1 🟢⚠️(93%) |  | 
+| [Create Sifting](https://modrinth.com/mod/create-sifting) | 1.20.1 ❌| 1.21.1 🟢(92%) |  | 
 | [Liteminer](https://modrinth.com/mod/liteminer) | 1.20.1 ❌| 1.21.1 🟢(92%) |  [Crowdin](https://crowdin.com/project/liteminer) | 
 | [RFTools Base](https://modrinth.com/mod/rftools-base) | 1.20.1 🟢(85%) | 1.21.1 🟢(85%) |  | 
 | [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) | 1.20.1 🟢(85%) | 1.21.1 🟢⚠️(85%) |  | 
@@ -58,16 +59,17 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Lollipop](https://github.com/owmii/Lollipop) | 1.20.1 🟢(80%) | 1.21.1 🟢(80%) |  | 
 | [Extended AE](https://modrinth.com/mod/extended-ae) | 1.20.1 ❌| 1.21.1 🟢(79%) |  | 
 | [Tom's Peripherals](https://modrinth.com/mod/toms-peripherals) | 1.20.1 🟢(78%) | 1.21.1 🟢(78%) |  | 
-| [Create Sifting](https://modrinth.com/mod/create-sifting) | 1.20.1 ❌| 1.21.1 🟢(70%) |  | 
+| [Mechanicals Lib](https://modrinth.com/mod/mechanicals-lib) | 1.20.1 ❌| 1.21.1 🟢(57%) |  | 
+| [EMI](https://modrinth.com/mod/emi) | 1.20.1 ❌| 1.21.1 🟢(44%) |  | 
+| [Create: Storage Neo/Forge](https://modrinth.com/mod/create-storage-neo-forge) | 1.20.1 🟢 | 1.21.1 🟢⚠️(43%) |  | 
 | [RFTools Utility](https://modrinth.com/mod/rftools-utility) | 1.20.1 🟢(43%) | 1.21.1 🟢(43%) |  | 
 | [Create Mechanical Extruder](https://modrinth.com/mod/create-mechanical-extruder) | 1.20.1 ❌| 1.21.1 🟢(43%) |  | 
 | [Melter](https://modrinth.com/mod/melter) | 1.20.1 ❌| 1.21.1 🟢(41%) |  | 
-| [Create: Storage [Neo/Forge]](https://modrinth.com/mod/create-storage-neo-forge) | 1.20.1 🟢 | 1.21.1 🟢(40%) |  | 
 | [Jade 🔍](https://modrinth.com/mod/jade) | 1.20.1 🟢⚠️(22%) | 1.21.1 🟢⚠️(34%) |  | 
 | [NeoForge](https://github.com/neoforged/NeoForge) | 1.20.1 ❌| 1.21.1 🟢⚠️(25%) |  [Crowdin](https://neoforged.crowdin.com/) | 
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | 1.20.1 🟢(18%) | 1.21.1 🟢(18%) |  | 
-| [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | 1.20.1 🟢 | 1.21.1 🟢(6%) |  | 
-| [Mechanicals Lib](https://modrinth.com/mod/mechanicals-lib) | 1.20.1 ❌| 1.21.1 🟢 |  | 
+| [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | 1.20.1 🟢 | 1.21.1 🟢⚠️(9%) |  | 
+| [EMI Loot](https://modrinth.com/mod/emi-loot) | 1.20.1 ❌| 1.21.1 🟢(1%) |  | 
 | [Shrink](https://modrinth.com/mod/shrink) | 1.20.1 🟣 | 1.21.1 ❌|  | 
 | [Caelus API](https://modrinth.com/mod/caelus) | 1.20.1  🔵 | 1.21.1 ❌|  | 
 | [MilkLib](https://github.com/TropheusJ/milk-lib) | 1.20.1  🔵 | 1.21.1 ❌| *4 | 
@@ -89,12 +91,12 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [McJtyLib](https://modrinth.com/mod/mcjtylib) | 1.20.1 🟢(66%) | 1.21.1 ❌|  | 
 | [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) | 1.20.1 🟢⚠️(49%) | 1.21.1 ❌|  | 
 | [Naturalist](https://modrinth.com/mod/naturalist) | 1.20.1 🟢(46%) | 1.21.1 ❌|  | 
-| [Just Enough Resources (JER)](https://modrinth.com/mod/just-enough-resources-jer) | 1.20.1 🟢(31%) | 1.21.1 ❌|  | 
+| [Just Enough Resources JER](https://modrinth.com/mod/just-enough-resources-jer) | 1.20.1 🟢(31%) | 1.21.1 ❌|  | 
 | [RFTools Dimensions](https://modrinth.com/mod/rftools-dimensions) | 1.20.1 🟢(29%) | 1.21.1 ❌|  | 
 | [XNet](https://modrinth.com/mod/xnet) | 1.20.1 🟢(17%) | 1.21.1 ❌|  | 
 | [Extended Drawers](https://modrinth.com/mod/extended-drawers) | 1.20.1 🟢(??) | 1.21.1 ❌| Paused | 
 | [REI Collapsible Entries](https://modrinth.com/mod/rei-collapsible-entries) | 1.20.1 🟢(??) | 1.21.1 ❌| Paused | 
-| [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) | 1.20.1 🟢(??) | 1.21.1 ❌| Paused | 
+| [Roughly Enough Items REI](https://modrinth.com/mod/rei) | 1.20.1 🟢(??) | 1.21.1 ❌| Paused | 
 | [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) | 1.20.1 🟢(??) | 1.21.1 ❌| Paused | 
 | [Building Wands](https://modrinth.com/mod/building-wands) | 1.20.1 🟢(??) | 1.21.1 ❌| Paused | 
 | [You're in Grave Danger](https://modrinth.com/mod/yigd) | 1.20.1 🟢(??) | 1.21.1 ❌| Paused | 
