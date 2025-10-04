@@ -50,6 +50,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | [Jade Addons Neo/Forge](https://modrinth.com/mod/jade-addons-forge) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [Moonlight Lib](https://modrinth.com/mod/moonlight) | 1.20.1 🟢 | 1.21.1 🟢 |  | 
 | [AdvancedAE](https://modrinth.com/mod/advancedae) | 1.20.1 ❌| 1.21.1 🟢 | *1 [Crowdin](https://crowdin.com/project/advanced-ae/) | 
+| [GeOre](https://modrinth.com/mod/geore) | 1.20.1 ❌| 1.21.1 🟢(99%) |  | 
 | [Powah!](https://modrinth.com/mod/powah) | 1.20.1 🟢(73%) | 1.21.1 🟢⚠️(93%) |  | 
 | [Create Sifting](https://modrinth.com/mod/create-sifting) | 1.20.1 ❌| 1.21.1 🟢(92%) |  | 
 | [Liteminer](https://modrinth.com/mod/liteminer) | 1.20.1 ❌| 1.21.1 🟢(92%) |  [Crowdin](https://crowdin.com/project/liteminer) | 
