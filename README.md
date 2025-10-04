@@ -10,7 +10,7 @@ Ez a resource pack különböző Minecraft modok fordításait tartalmazza. A fo
 | --- | --- | --- |  --- |
 | [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | 1.20.1 ✅ | 1.21.1 ✅ |  [Crowdin](https://crowdin.com/project/cc-tweaked) | 
-| [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) | 1.20.1 ✅ | 1.21.1 ✅⚠️ |  | 
+| [Easy Mob Farm](https://modrinth.com/mod/easy-mob-farm) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [Ex Deorum](https://modrinth.com/mod/ex-deorum) | 1.20.1 ✅ | 1.21.1 ✅ | *1 | 
 | [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
 | [BucketLib](https://modrinth.com/mod/bucketlib) | 1.20.1 ✅ | 1.21.1 ✅ |  | 
