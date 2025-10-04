@@ -140,7 +140,8 @@ $output .= "| Mod | " . implode(' | ', array_keys($versions)) . " | Notes |" . P
 $output .= "| --- | " . str_repeat('--- | ', count($versions)) . " --- |" . PHP_EOL;
 
 foreach($mods as $modName => $modData) {
-  $modTitle = isset($modData['meta']['title']) ? "[{$modData['meta']['title']}]({$modData['meta']['url']})" : $modName;
+  $modTitleFiltered = str_replace(['[', ']', '(', ')'], '', $modData['meta']['title'] ?? $modName);
+  $modTitle = isset($modData['meta']['title']) ? "[{$modTitleFiltered}]({$modData['meta']['url']})" : $modName;
   $output .= "| $modTitle | ";
 
   foreach($versions as $version => $_pack) {
