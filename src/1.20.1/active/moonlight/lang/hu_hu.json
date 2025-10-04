@@ -5,6 +5,11 @@
   "gui.moonlight.open_mod_page": "%s CurseForge oldal megnyitása",
   "message.moonlight.anti_repost": "Úgy tűnik, hogy a %1$s-t egy rosszindulatú weboldalról töltötted le :( Szerezd be az igazi verziót %2$s.",
   "message.moonlight.anti_repost_link": "itt",
+  "message.moonlight.cached": "Gyorsítótárazott erőforrások",
+  "message.moonlight.cached_zipped": "Tömörített gyorsítótárazott erőforrások",
+  "message.moonlight.runtime": "Futásidejű erőforrások",
+  "message.moonlight.merged_pack.description": "Erőforrások %s modhoz",
+  "message.moonlight.merged_pack.title": "Moonlight dinamikus erőforrások",
 
   "tag.item.moonlight.non_recolorable": "Nem átszínezhető",
   "tag.block.moonlight.non_recolorable": "Nem átszínezhető",
